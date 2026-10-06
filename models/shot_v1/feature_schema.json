@@ -1,0 +1,68 @@
+{
+  "categorical_by_checkpoint": {
+    "1": [
+      "server_id",
+      "receiver_id",
+      "surface",
+      "serve_number",
+      "serve_direction",
+      "is_tiebreak",
+      "is_break_point"
+    ],
+    "2": [
+      "server_id",
+      "receiver_id",
+      "surface",
+      "serve_number",
+      "serve_direction",
+      "return_type",
+      "return_direction",
+      "return_depth",
+      "is_tiebreak",
+      "is_break_point"
+    ],
+    "3": [
+      "server_id",
+      "receiver_id",
+      "surface",
+      "serve_number",
+      "serve_direction",
+      "return_type",
+      "return_direction",
+      "return_depth",
+      "last_shot_type",
+      "last_shot_direction",
+      "last_shot_relation",
+      "next_hitter_role",
+      "is_tiebreak",
+      "is_break_point"
+    ],
+    "5": [
+      "server_id",
+      "receiver_id",
+      "surface",
+      "serve_number",
+      "serve_direction",
+      "return_type",
+      "return_direction",
+      "return_depth",
+      "last_shot_type",
+      "last_shot_direction",
+      "last_shot_relation",
+      "next_hitter_role",
+      "is_tiebreak",
+      "is_break_point"
+    ]
+  },
+  "numeric": [
+    "point_v2_probability_server",
+    "observed_shots"
+  ],
+  "target": "server_won_point",
+  "forbidden": [
+    "final_rally_length",
+    "terminal_outcome",
+    "point_winner_number",
+    "future_shots"
+  ]
+}

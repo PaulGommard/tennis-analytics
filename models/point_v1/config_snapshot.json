@@ -1,0 +1,85 @@
+{
+  "train_end": "2018-12-31",
+  "validation_end": "2022-12-31",
+  "test_start": "2023-01-01",
+  "primary_metric": "log_loss",
+  "selection_scope": "combined_men",
+  "selected_model": "P5_RECENT_SCORE",
+  "candidate_features": {
+    "P1_SERVE_RETURN": [
+      "server_serve_rate",
+      "receiver_return_rate"
+    ],
+    "P2_SURFACE": [
+      "server_serve_rate",
+      "receiver_return_rate",
+      "server_surface_serve_rate",
+      "receiver_surface_return_rate",
+      "surface_clay",
+      "surface_grass"
+    ],
+    "P3_PREMATCH": [
+      "server_serve_rate",
+      "receiver_return_rate",
+      "server_surface_serve_rate",
+      "receiver_surface_return_rate",
+      "surface_clay",
+      "surface_grass",
+      "prematch_server"
+    ],
+    "P4_SCORE": [
+      "server_serve_rate",
+      "receiver_return_rate",
+      "server_surface_serve_rate",
+      "receiver_surface_return_rate",
+      "surface_clay",
+      "surface_grass",
+      "prematch_server",
+      "is_break_point",
+      "is_game_point",
+      "is_set_point",
+      "is_match_point",
+      "is_tiebreak",
+      "deuce",
+      "server_leading_in_game",
+      "sets_diff_server",
+      "games_diff_server"
+    ],
+    "P5_RECENT": [
+      "server_serve_rate",
+      "receiver_return_rate",
+      "server_surface_serve_rate",
+      "receiver_surface_return_rate",
+      "surface_clay",
+      "surface_grass",
+      "prematch_server",
+      "server_serve_rate_365d",
+      "receiver_return_rate_365d"
+    ],
+    "P5_RECENT_SCORE": [
+      "server_serve_rate",
+      "receiver_return_rate",
+      "server_surface_serve_rate",
+      "receiver_surface_return_rate",
+      "surface_clay",
+      "surface_grass",
+      "prematch_server",
+      "server_serve_rate_365d",
+      "receiver_return_rate_365d",
+      "is_break_point",
+      "is_game_point",
+      "is_set_point",
+      "is_match_point",
+      "is_tiebreak",
+      "deuce",
+      "server_leading_in_game",
+      "sets_diff_server",
+      "games_diff_server"
+    ]
+  },
+  "pipeline": {
+    "imputer": "median",
+    "scaler": "StandardScaler",
+    "estimator": "LogisticRegression(C=1.0, max_iter=300)"
+  }
+}

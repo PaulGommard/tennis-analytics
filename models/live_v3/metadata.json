@@ -1,0 +1,19 @@
+{
+  "model_version": "live_v3",
+  "blend_method": "linear",
+  "blend_constant": 200,
+  "calibration_methods": {
+    "game": "none",
+    "set": "none",
+    "match": "none"
+  },
+  "calibration_fit_period": "2019-2022",
+  "calibration_selection_protocol": "fit 2019-2020, choose on 2021-2022, refit 2019-2022",
+  "created_at": "2026-10-06T12:32:14.556472+00:00",
+  "validation_states": 12877,
+  "test_states": 413965,
+  "test_sampled_match_states": 46433,
+  "best_test_match_model": "LIVE_V3_RAW",
+  "promote_live_v3": true,
+  "phase8_freeze_verified": true
+}

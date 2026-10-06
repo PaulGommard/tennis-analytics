@@ -1,0 +1,251 @@
+# Dictionnaire de features V2
+
+Toutes les variables sont des snapshots strictement pré-match. Le suffixe `_A`
+ou `_B` désigne le joueur; `_diff` vaut A−B, sauf `rank_diff`, qui conserve la
+convention historique B−A afin qu'une valeur positive favorise A.
+
+## Ratios
+
+- `ace_rate`: aces / points de service.
+- `double_fault_rate`: doubles fautes / points de service.
+- `first_serve_in_rate`: premières balles en jeu / points de service.
+- `first_serve_won_rate`: points gagnés sur première / premières en jeu.
+- `second_serve_won_rate`: points gagnés sur seconde / (points de service − premières en jeu).
+- `service_points_won_rate`: (premières gagnées + secondes gagnées) / points de service.
+- `return_points_won_rate`: 1 − taux de points de service gagnés par les adversaires.
+- `first_return_points_won_rate`, `second_return_points_won_rate`: compléments des taux adverses.
+- `break_points_saved_rate`: balles sauvées / balles à sauver.
+- `break_points_converted_rate`: breaks obtenus / opportunités adverses.
+- `hold_rate`: (jeux de service − breaks concédés) / jeux de service.
+- `win_rate`: victoires / matchs, avec prior Beta équivalent à 10 matchs à 50 %.
+
+`career`, `365d` et `90d` indiquent l'horizon. Chaque ratio est calculé sur les
+sommes de numérateurs et dénominateurs, puis shrinké vers la moyenne historique
+du circuit disponible avant le match. Les colonnes `opportunities` exposent le
+dénominateur pré-match. Les variantes `surface` sont shrinkées vers la carrière.
+
+## Charge et expérience
+
+- `matches/sets/games/minutes_{7,14,30}d`: charge des matchs des batches antérieurs.
+- `rest_days`: jours depuis le dernier batch source; zéro peut signifier un round antérieur du même tournoi.
+- `career_matches`, `surface_matches`, `age_years`: expérience pré-match.
+- `elo_logit`, `elo_raw_probability`, `elo_diff`, `surface_elo_blended_diff`: baseline Phase 3 figée.
+- `rank`, `rank_points`: observation ATP du match; `rank_diff = rank_B - rank_A`.
+
+## Colonnes présentes
+
+- `match_id`
+- `date`
+- `surface`
+- `level`
+- `round`
+- `player_A_id`
+- `player_B_id`
+- `player_A_win`
+- `elo_raw_probability`
+- `elo_logit`
+- `elo_diff`
+- `surface_elo_blended_diff`
+- `rank_A`
+- `rank_B`
+- `rank_diff`
+- `rank_points_A`
+- `rank_points_B`
+- `rank_points_diff`
+- `career_matches_A`
+- `career_matches_B`
+- `career_matches_diff`
+- `surface_matches_A`
+- `surface_matches_B`
+- `surface_matches_diff`
+- `age_years_A`
+- `age_years_B`
+- `age_years_diff`
+- `rest_days_A`
+- `rest_days_B`
+- `rest_days_diff`
+- `ace_rate_career_A`
+- `ace_rate_career_opportunities_A`
+- `ace_rate_career_B`
+- `ace_rate_career_opportunities_B`
+- `ace_rate_career_diff`
+- `ace_rate_365d_A`
+- `ace_rate_365d_opportunities_A`
+- `ace_rate_365d_B`
+- `ace_rate_365d_opportunities_B`
+- `ace_rate_365d_diff`
+- `ace_rate_90d_A`
+- `ace_rate_90d_opportunities_A`
+- `ace_rate_90d_B`
+- `ace_rate_90d_opportunities_B`
+- `ace_rate_90d_diff`
+- `double_fault_rate_career_A`
+- `double_fault_rate_career_opportunities_A`
+- `double_fault_rate_career_B`
+- `double_fault_rate_career_opportunities_B`
+- `double_fault_rate_career_diff`
+- `double_fault_rate_365d_A`
+- `double_fault_rate_365d_opportunities_A`
+- `double_fault_rate_365d_B`
+- `double_fault_rate_365d_opportunities_B`
+- `double_fault_rate_365d_diff`
+- `double_fault_rate_90d_A`
+- `double_fault_rate_90d_opportunities_A`
+- `double_fault_rate_90d_B`
+- `double_fault_rate_90d_opportunities_B`
+- `double_fault_rate_90d_diff`
+- `first_serve_in_rate_career_A`
+- `first_serve_in_rate_career_opportunities_A`
+- `first_serve_in_rate_career_B`
+- `first_serve_in_rate_career_opportunities_B`
+- `first_serve_in_rate_career_diff`
+- `first_serve_in_rate_365d_A`
+- `first_serve_in_rate_365d_opportunities_A`
+- `first_serve_in_rate_365d_B`
+- `first_serve_in_rate_365d_opportunities_B`
+- `first_serve_in_rate_365d_diff`
+- `first_serve_in_rate_90d_A`
+- `first_serve_in_rate_90d_opportunities_A`
+- `first_serve_in_rate_90d_B`
+- `first_serve_in_rate_90d_opportunities_B`
+- `first_serve_in_rate_90d_diff`
+- `first_serve_won_rate_career_A`
+- `first_serve_won_rate_career_opportunities_A`
+- `first_serve_won_rate_career_B`
+- `first_serve_won_rate_career_opportunities_B`
+- `first_serve_won_rate_career_diff`
+- `first_serve_won_rate_365d_A`
+- `first_serve_won_rate_365d_opportunities_A`
+- `first_serve_won_rate_365d_B`
+- `first_serve_won_rate_365d_opportunities_B`
+- `first_serve_won_rate_365d_diff`
+- `first_serve_won_rate_90d_A`
+- `first_serve_won_rate_90d_opportunities_A`
+- `first_serve_won_rate_90d_B`
+- `first_serve_won_rate_90d_opportunities_B`
+- `first_serve_won_rate_90d_diff`
+- `second_serve_won_rate_career_A`
+- `second_serve_won_rate_career_opportunities_A`
+- `second_serve_won_rate_career_B`
+- `second_serve_won_rate_career_opportunities_B`
+- `second_serve_won_rate_career_diff`
+- `second_serve_won_rate_365d_A`
+- `second_serve_won_rate_365d_opportunities_A`
+- `second_serve_won_rate_365d_B`
+- `second_serve_won_rate_365d_opportunities_B`
+- `second_serve_won_rate_365d_diff`
+- `second_serve_won_rate_90d_A`
+- `second_serve_won_rate_90d_opportunities_A`
+- `second_serve_won_rate_90d_B`
+- `second_serve_won_rate_90d_opportunities_B`
+- `second_serve_won_rate_90d_diff`
+- `service_points_won_rate_career_A`
+- `service_points_won_rate_career_opportunities_A`
+- `service_points_won_rate_career_B`
+- `service_points_won_rate_career_opportunities_B`
+- `service_points_won_rate_career_diff`
+- `service_points_won_rate_365d_A`
+- `service_points_won_rate_365d_opportunities_A`
+- `service_points_won_rate_365d_B`
+- `service_points_won_rate_365d_opportunities_B`
+- `service_points_won_rate_365d_diff`
+- `service_points_won_rate_90d_A`
+- `service_points_won_rate_90d_opportunities_A`
+- `service_points_won_rate_90d_B`
+- `service_points_won_rate_90d_opportunities_B`
+- `service_points_won_rate_90d_diff`
+- `return_points_won_rate_career_A`
+- `return_points_won_rate_career_opportunities_A`
+- `return_points_won_rate_career_B`
+- `return_points_won_rate_career_opportunities_B`
+- `return_points_won_rate_career_diff`
+- `return_points_won_rate_365d_A`
+- `return_points_won_rate_365d_opportunities_A`
+- `return_points_won_rate_365d_B`
+- `return_points_won_rate_365d_opportunities_B`
+- `return_points_won_rate_365d_diff`
+- `return_points_won_rate_90d_A`
+- `return_points_won_rate_90d_opportunities_A`
+- `return_points_won_rate_90d_B`
+- `return_points_won_rate_90d_opportunities_B`
+- `return_points_won_rate_90d_diff`
+- `break_points_saved_rate_career_A`
+- `break_points_saved_rate_career_opportunities_A`
+- `break_points_saved_rate_career_B`
+- `break_points_saved_rate_career_opportunities_B`
+- `break_points_saved_rate_career_diff`
+- `hold_rate_career_A`
+- `hold_rate_career_opportunities_A`
+- `hold_rate_career_B`
+- `hold_rate_career_opportunities_B`
+- `hold_rate_career_diff`
+- `first_return_points_won_rate_career_A`
+- `first_return_points_won_rate_career_opportunities_A`
+- `first_return_points_won_rate_career_B`
+- `first_return_points_won_rate_career_opportunities_B`
+- `first_return_points_won_rate_career_diff`
+- `second_return_points_won_rate_career_A`
+- `second_return_points_won_rate_career_opportunities_A`
+- `second_return_points_won_rate_career_B`
+- `second_return_points_won_rate_career_opportunities_B`
+- `second_return_points_won_rate_career_diff`
+- `break_points_converted_rate_career_A`
+- `break_points_converted_rate_career_opportunities_A`
+- `break_points_converted_rate_career_B`
+- `break_points_converted_rate_career_opportunities_B`
+- `break_points_converted_rate_career_diff`
+- `service_points_won_rate_surface_A`
+- `service_points_won_rate_surface_opportunities_A`
+- `service_points_won_rate_surface_B`
+- `service_points_won_rate_surface_opportunities_B`
+- `service_points_won_rate_surface_diff`
+- `return_points_won_rate_surface_A`
+- `return_points_won_rate_surface_opportunities_A`
+- `return_points_won_rate_surface_B`
+- `return_points_won_rate_surface_opportunities_B`
+- `return_points_won_rate_surface_diff`
+- `win_rate_career_A`
+- `win_rate_career_B`
+- `win_rate_career_diff`
+- `win_rate_365d_A`
+- `win_rate_365d_B`
+- `win_rate_365d_diff`
+- `win_rate_90d_A`
+- `win_rate_90d_B`
+- `win_rate_90d_diff`
+- `matches_7d_A`
+- `matches_7d_B`
+- `matches_7d_diff`
+- `sets_7d_A`
+- `sets_7d_B`
+- `sets_7d_diff`
+- `games_7d_A`
+- `games_7d_B`
+- `games_7d_diff`
+- `minutes_7d_A`
+- `minutes_7d_B`
+- `minutes_7d_diff`
+- `matches_14d_A`
+- `matches_14d_B`
+- `matches_14d_diff`
+- `sets_14d_A`
+- `sets_14d_B`
+- `sets_14d_diff`
+- `games_14d_A`
+- `games_14d_B`
+- `games_14d_diff`
+- `minutes_14d_A`
+- `minutes_14d_B`
+- `minutes_14d_diff`
+- `matches_30d_A`
+- `matches_30d_B`
+- `matches_30d_diff`
+- `sets_30d_A`
+- `sets_30d_B`
+- `sets_30d_diff`
+- `games_30d_A`
+- `games_30d_B`
+- `games_30d_diff`
+- `minutes_30d_A`
+- `minutes_30d_B`
+- `minutes_30d_diff`

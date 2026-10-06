@@ -1,0 +1,14 @@
+[elo]
+initial_rating = 1500.0
+k_factor = 32.0
+scale = 400.0
+
+# Carpet is kept separate: 2,039 source matches are available and it is a
+# historically distinct surface. Unknown surfaces receive no surface Elo.
+surfaces = ["Hard", "Clay", "Grass", "Carpet"]
+
+[evaluation]
+history_end = "2018-12-31"
+validation_start = "2019-01-01"
+validation_end = "2022-12-31"
+test_start = "2023-01-01"

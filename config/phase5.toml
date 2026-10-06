@@ -1,0 +1,23 @@
+[search]
+adjusted_point_prior_strengths = [50, 200, 500]
+adjusted_surface_prior_strengths = [100, 500, 1000]
+h2h_prior_matches = [2, 5, 10, 20]
+logistic_c_values = [0.001, 0.01, 0.1, 1, 10, 100]
+
+[evaluation]
+train_end = "2018-12-31"
+validation_start = "2019-01-01"
+validation_end = "2022-12-31"
+test_start = "2023-01-01"
+
+# Frozen after validation-only selection. This section is documentary; the
+# pipeline recomputes selection from the grids above.
+[selected]
+adjusted_point_prior = 500
+adjusted_surface_prior = 100
+h2h_prior_matches = 5
+model = "MODEL_H_REDUCED_ROBUST_FATIGUE"
+logistic_c = 1
+calibration = "platt"
+platt_intercept = -0.08741978456206438
+platt_slope = 0.9422055976590562

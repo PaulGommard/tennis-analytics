@@ -1,0 +1,5 @@
+segment_type,segment,model,matches,accuracy_n,accuracy,log_loss,brier
+overall,All,ATP Ranking (raw overlap),10175,10175,0.6388206388206388,,
+overall,All,Elo final raw,10175,10175,0.6419656019656019,0.6249608010725004,0.21838582019866065
+overall,All,ATP Ranking (calibrated overlap),10188,10188,0.6386925795053003,,
+overall,All,Elo final calibrated,10188,10188,0.6393796623478603,0.6242923097188731,0.21811748711534495

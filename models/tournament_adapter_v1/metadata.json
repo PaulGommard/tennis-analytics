@@ -1,0 +1,162 @@
+{
+  "model_version": "tournament_adapter_v1",
+  "status": "validated_not_recommended",
+  "feature_columns": [
+    "matches_played_diff",
+    "sets_played_diff",
+    "games_played_diff",
+    "sets_lost_diff",
+    "games_lost_diff",
+    "tiebreaks_diff",
+    "five_set_matches_diff",
+    "retirements_diff",
+    "minutes_played_diff",
+    "minutes_coverage_diff",
+    "service_points_won_rate_tournament_diff",
+    "return_points_won_rate_tournament_diff",
+    "ace_rate_tournament_diff",
+    "double_fault_rate_tournament_diff",
+    "break_rate_tournament_diff",
+    "wins_above_expected_c75_diff",
+    "serve_over_expected_c75_diff",
+    "return_over_expected_c75_diff",
+    "ace_over_expected_c75_diff",
+    "df_over_expected_c75_diff",
+    "break_over_expected_c75_diff",
+    "tournament_serve_environment_c20_x_style_serve_diff",
+    "tournament_return_environment_c20_x_style_return_diff",
+    "tournament_ace_environment_c20_x_style_ace_diff",
+    "tournament_df_environment_c20_x_style_df_diff",
+    "tournament_break_environment_c20_x_style_return_diff",
+    "tournament_speed_proxy_c20_x_style_speed_diff",
+    "tournament_upset_environment_c20_x_logit_p_base",
+    "tournament_workload_environment_c20_x_games_played_diff",
+    "round_R128_x_logit_p_base",
+    "round_R64_x_logit_p_base",
+    "round_R32_x_logit_p_base",
+    "round_R16_x_logit_p_base",
+    "round_QF_x_logit_p_base",
+    "round_SF_x_logit_p_base",
+    "round_F_x_logit_p_base",
+    "round_RR_x_logit_p_base",
+    "round_OTHER_x_logit_p_base",
+    "same_tournament_history_matches_diff",
+    "same_tournament_wins_above_expected_c20_diff",
+    "surface_clay_x_logit_p_base",
+    "surface_grass_x_logit_p_base",
+    "level_grand_slam_x_logit_p_base",
+    "level_masters_x_logit_p_base",
+    "best_of_5_x_logit_p_base"
+  ],
+  "feature_groups": {
+    "workload": [
+      "matches_played_diff",
+      "sets_played_diff",
+      "games_played_diff",
+      "sets_lost_diff",
+      "games_lost_diff",
+      "tiebreaks_diff",
+      "five_set_matches_diff",
+      "retirements_diff",
+      "minutes_played_diff",
+      "minutes_coverage_diff"
+    ],
+    "player_form": [
+      "service_points_won_rate_tournament_diff",
+      "return_points_won_rate_tournament_diff",
+      "ace_rate_tournament_diff",
+      "double_fault_rate_tournament_diff",
+      "break_rate_tournament_diff",
+      "wins_above_expected_c75_diff",
+      "serve_over_expected_c75_diff",
+      "return_over_expected_c75_diff",
+      "ace_over_expected_c75_diff",
+      "df_over_expected_c75_diff",
+      "break_over_expected_c75_diff"
+    ],
+    "tournament_conditions": [
+      "tournament_serve_environment_c20_x_style_serve_diff",
+      "tournament_return_environment_c20_x_style_return_diff",
+      "tournament_ace_environment_c20_x_style_ace_diff",
+      "tournament_df_environment_c20_x_style_df_diff",
+      "tournament_break_environment_c20_x_style_return_diff",
+      "tournament_speed_proxy_c20_x_style_speed_diff",
+      "tournament_upset_environment_c20_x_logit_p_base",
+      "tournament_workload_environment_c20_x_games_played_diff"
+    ],
+    "round_context": [
+      "round_R128_x_logit_p_base",
+      "round_R64_x_logit_p_base",
+      "round_R32_x_logit_p_base",
+      "round_R16_x_logit_p_base",
+      "round_QF_x_logit_p_base",
+      "round_SF_x_logit_p_base",
+      "round_F_x_logit_p_base",
+      "round_RR_x_logit_p_base",
+      "round_OTHER_x_logit_p_base",
+      "surface_clay_x_logit_p_base",
+      "surface_grass_x_logit_p_base",
+      "level_grand_slam_x_logit_p_base",
+      "level_masters_x_logit_p_base",
+      "best_of_5_x_logit_p_base"
+    ],
+    "same_tournament_history": [
+      "same_tournament_history_matches_diff",
+      "same_tournament_wins_above_expected_c20_diff"
+    ]
+  },
+  "selected_player_prior": 75,
+  "selected_tournament_prior": 20,
+  "selected_regularization": 100.0,
+  "selected_cap": "probability_0.05",
+  "uses_temperature_calibration": false,
+  "temperature_slope": 1.0,
+  "base_temperature_control_used": false,
+  "base_temperature_control_slope": 1.0,
+  "trained_through": 2022,
+  "p_base_contract": "exact frozen PRE-MATCH V1 probability",
+  "production_recommended": false,
+  "test": {
+    "PREMATCH_V1": {
+      "matches": 10376,
+      "accuracy": 0.6573824209714726,
+      "log_loss": 0.6098756324067263,
+      "brier": 0.21158497931253648,
+      "auc": 0.7242848789472713
+    },
+    "PREMATCH_V1_TEMPERATURE_CONTROL": {
+      "matches": 10376,
+      "accuracy": 0.6573824209714726,
+      "log_loss": 0.6098756324067263,
+      "brier": 0.21158497931253648,
+      "auc": 0.7242848789472713
+    },
+    "OFFSET_RAW": {
+      "matches": 10376,
+      "accuracy": 0.6578643022359291,
+      "log_loss": 0.6098624680662644,
+      "brier": 0.2117255290115939,
+      "auc": 0.7237864999794882
+    },
+    "OFFSET_FINAL": {
+      "matches": 10376,
+      "accuracy": 0.6576715497301465,
+      "log_loss": 0.6096920605514958,
+      "brier": 0.21162286180467763,
+      "auc": 0.7240676835202886
+    },
+    "FULL_LOGISTIC": {
+      "matches": 10376,
+      "accuracy": 0.6569005397070162,
+      "log_loss": 0.6099339949502165,
+      "brier": 0.2116832546988875,
+      "auc": 0.7242962496573924
+    }
+  },
+  "clustered_test_gain": {
+    "mean_edition_log_loss_gain": -0.001402185060733665,
+    "ci95_low": -0.0025307438401174736,
+    "ci95_high": -0.0002736262813498565,
+    "share_editions_improved": 0.5243664717348928
+  }
+}

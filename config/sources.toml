@@ -1,0 +1,26 @@
+# Documentation for humans and future tooling. Runtime constants live in
+# tennis_analytics.ingestion.sources so URLs are type-checked and tested.
+
+[atp_archive]
+name = "Jeff Sackmann ATP data — archival mirror"
+original_url = "https://github.com/JeffSackmann/tennis_atp"
+mirror_url = "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp"
+license = "CC BY-NC-SA 4.0"
+commercial_use = false
+notes = "The original repository was unavailable when this project was created. The mirror says its ATP snapshot was taken in June 2026."
+
+[slam_pointbypoint]
+name = "Jeff Sackmann Grand Slam point-by-point — archival mirror"
+original_url = "https://github.com/JeffSackmann/tennis_slam_pointbypoint"
+mirror_url = "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint"
+license = "CC BY-NC-SA 4.0"
+commercial_use = false
+notes = "Archived snapshot at upstream commit 6febb77 (October 2024); coverage 2011–2024."
+
+[match_charting_project]
+name = "Tennis Abstract Match Charting Project"
+original_url = "https://github.com/JeffSackmann/tennis_MatchChartingProject"
+mirror_url = ""
+license = "CC BY-NC-SA 4.0"
+commercial_use = false
+notes = "Crowdsourced shot-by-shot data. Player1 is the player who served first, not the winner."

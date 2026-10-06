@@ -1,0 +1,476 @@
+match_id,date,source,surface,player_A_name,player_B_name,point_index,prematch_probability_A,p_match_A,p_match_A_v2,final_match_winner_A,reversal_correct_B_won
+mcp:20230102-M-Pune-R32-Alex_Molcan-Laslo_Djere,2023-01-02,mcp,Hard,Alex Molcan,Laslo Djere,10,0.5654441133888602,0.4151933733646438,0.30998568137809734,0.0,1.0
+mcp:20230103-M-Pune-R32-Radu_Albot-Tim_Van_Rijthoven,2023-01-03,mcp,Hard,Radu Albot,Tim Van Rijthoven,10,0.5327000010953228,0.5319438682903206,0.4779042766644494,0.0,1.0
+mcp:20230103-M-United_Cup-RR-Casper_Ruud-Matteo_Berrettini,2023-01-03,mcp,Hard,Casper Ruud,Matteo Berrettini,50,0.7038158535858721,0.41182045355994823,0.2582307140956584,0.0,1.0
+mcp:20230104-M-United_Cup-RR-Hubert_Hurkacz-Matteo_Berrettini,2023-01-04,mcp,Hard,Hubert Hurkacz,Matteo Berrettini,10,0.6358068543772494,0.458624817481475,0.3093454701385331,0.0,1.0
+mcp:20230106-M-Pune-SF-Aslan_Karatsev-Tallon_Griekspoor,2023-01-06,mcp,Hard,Aslan Karatsev,Tallon Griekspoor,50,0.6200924835764084,0.6180358139142367,0.4836293940740298,0.0,1.0
+mcp:20230106-M-Pune-SF-Benjamin_Bonzi-Botic_Van_De_Zandschulp,2023-01-06,mcp,Hard,Benjamin Bonzi,Botic Van De Zandschulp,50,0.5176829215301847,0.5158399712387036,0.40554572684990453,1.0,0.0
+mcp:20230107-M-Pune-F-Benjamin_Bonzi-Tallon_Griekspoor,2023-01-07,mcp,Hard,Benjamin Bonzi,Tallon Griekspoor,10,0.6570805958010644,0.63089704274463,0.4784445750061442,0.0,1.0
+mcp:20230116-M-Australian_Open-R128-Brandon_Nakashima-Mackenzie_Mcdonald,2023-01-16,mcp,Hard,Brandon Nakashima,Mackenzie Mcdonald,70,0.5542057411605733,0.5052367743716664,0.43344106363259294,0.0,1.0
+mcp:20230116-M-Australian_Open-R128-Stan_Wawrinka-Alex_Molcan,2023-01-16,mcp,Hard,Stan Wawrinka,Alex Molcan,30,0.6794062672626447,0.5619565448716923,0.3106981533723596,0.0,1.0
+mcp:20230118-M-Australian_Open-R64-Botic_Van_De_Zandschulp-Tallon_Griekspoor,2023-01-18,mcp,Hard,Botic Van De Zandschulp,Tallon Griekspoor,30,0.5692866597880849,0.45728818101015106,0.36089720989812385,0.0,1.0
+mcp:20230118-M-Australian_Open-R64-Rafael_Nadal-Mackenzie_Mcdonald,2023-01-18,mcp,Hard,Rafael Nadal,Mackenzie Mcdonald,30,0.7907193559668703,0.6158250771001701,0.43518720201331423,0.0,1.0
+mcp:20230119-M-Australian_Open-R64-Casper_Ruud-Jenson_Brooksby,2023-01-19,mcp,Hard,Casper Ruud,Jenson Brooksby,50,0.7224711995139338,0.5555454017477754,0.2493403608612625,0.0,1.0
+mcp:20230120-M-Australian_Open-R32-Cameron_Norrie-Jiri_Lehecka,2023-01-20,mcp,Hard,Cameron Norrie,Jiri Lehecka,70,0.7369157497886331,0.7157698571596817,0.4951744947848911,0.0,1.0
+mcp:20230120-M-Australian_Open-R32-Daniil_Medvedev-Sebastian_Korda,2023-01-20,mcp,Hard,Daniil Medvedev,Sebastian Korda,20,0.7089870832188012,0.6243550231895114,0.4570971470592345,0.0,1.0
+mcp:20230120-M-Australian_Open-R32-Karen_Khachanov-Frances_Tiafoe,2023-01-20,mcp,Hard,Karen Khachanov,Frances Tiafoe,10,0.515673002475182,0.5092145078815441,0.4549282328162196,1.0,0.0
+mcp:20230204-M-Davis_Cup_Qualifiers-RR-Alex_Molcan-Tim_Van_Rijthoven,2023-02-04,mcp,Hard,Alex Molcan,Tim Van Rijthoven,40,0.5797158478397255,0.5739731528389955,0.4837578327575037,0.0,1.0
+mcp:20230204-M-Davis_Cup_Qualifiers-RR-Alexander_Bublik-Nicolas_Jarry,2023-02-04,mcp,Clay,Alexander Bublik,Nicolas Jarry,20,0.6221154365744808,0.4788074338296364,0.4727488939074467,0.0,1.0
+mcp:20230212-M-Cordoba-F-Sebastian_Baez-Federico_Coria,2023-02-12,mcp,Clay,Sebastian Baez,Federico Coria,10,0.5327281626239824,0.5436860669685155,0.45232782282873607,1.0,0.0
+mcp:20230214-M-Rotterdam-R32-Hubert_Hurkacz-Roberto_Bautista_Agut,2023-02-14,mcp,Hard,Hubert Hurkacz,Roberto Bautista Agut,30,0.5842277164902216,0.5799152106764092,0.4981845845157278,1.0,0.0
+mcp:20230215-M-Rotterdam-R16-Hubert_Hurkacz-Grigor_Dimitrov,2023-02-15,mcp,Hard,Hubert Hurkacz,Grigor Dimitrov,20,0.505292573362619,0.49993673134473793,0.48584175770537197,0.0,1.0
+mcp:20230215-M-Rotterdam-R16-Stefanos_Tsitsipas-Jannik_Sinner,2023-02-15,mcp,Hard,Stefanos Tsitsipas,Jannik Sinner,20,0.5409046273705739,0.530611726345967,0.3762929485379593,0.0,1.0
+mcp:20230215-M-Rotterdam-R32-Andrey_Rublev-Alex_De_Minaur,2023-02-15,mcp,Hard,Andrey Rublev,Alex De Minaur,20,0.5510554957333158,0.4189718794676982,0.3081942097344692,0.0,1.0
+mcp:20230216-M-Buenos_Aires-R16-Dominic_Thiem-Juan_Pablo_Varillas,2023-02-16,mcp,Clay,Dominic Thiem,Juan Pablo Varillas,20,0.6958152026470391,0.5530264755621054,0.4319699216203653,0.0,1.0
+mcp:20230217-M-Delray_Beach-QF-Taylor_Fritz-Adrian_Mannarino,2023-02-17,mcp,Hard,Taylor Fritz,Adrian Mannarino,30,0.7172295101598936,0.5427754794301314,0.4619992480337394,1.0,0.0
+mcp:20230221-M-Rio_de_Janeiro-R32-Lorenzo_Musetti-Nicolas_Jarry,2023-02-21,mcp,Clay,Lorenzo Musetti,Nicolas Jarry,40,0.7924957796126936,0.5595588582718333,0.3711976303537204,0.0,1.0
+mcp:20230224-M-Doha-SF-Jiri_Lehecka-Andy_Murray,2023-02-24,mcp,Hard,Jiri Lehecka,Andy Murray,10,0.5789521255584935,0.5703211081707407,0.49764391881848197,0.0,1.0
+mcp:20230225-M-Marseille-QF-Hubert_Hurkacz-Mikael_Ymer,2023-02-25,mcp,Hard,Hubert Hurkacz,Mikael Ymer,10,0.7312306371146265,0.6092428236590622,0.4997270108748796,1.0,0.0
+mcp:20230303-M-Dubai-SF-Novak_Djokovic-Daniil_Medvedev,2023-03-03,mcp,Hard,Novak Djokovic,Daniil Medvedev,30,0.5603066599615928,0.3866160612656361,0.2627996484847218,0.0,1.0
+mcp:20230308-M-Indian_Wells_Masters-R128-Yibing_Wu-Jaume_Munar,2023-03-08,mcp,Hard,Yibing Wu,Jaume Munar,90,0.6221859721689734,0.4421058854917027,0.34615821121422685,1.0,0.0
+mcp:20230310-M-Indian_Wells_Masters-R64-Stefanos_Tsitsipas-Jordan_Thompson,2023-03-10,mcp,Hard,Stefanos Tsitsipas,Jordan Thompson,70,0.8505315313604729,0.7125901437864903,0.4196312394754573,0.0,1.0
+mcp:20230311-M-Indian_Wells_Masters-R64-Holger_Rune-Mackenzie_Mcdonald,2023-03-11,mcp,Hard,Holger Rune,Mackenzie Mcdonald,40,0.6843780289114423,0.6270697746458449,0.4802332935680764,1.0,0.0
+mcp:20230311-M-Indian_Wells_Masters-R64-Lorenzo_Musetti-Adrian_Mannarino,2023-03-11,mcp,Hard,Lorenzo Musetti,Adrian Mannarino,60,0.5564347578055346,0.3778466944130172,0.3009030858377444,0.0,1.0
+mcp:20230312-M-Indian_Wells_Masters-R32-Casper_Ruud-Cristian_Garin,2023-03-12,mcp,Hard,Casper Ruud,Cristian Garin,40,0.7276694133347477,0.5697793751244484,0.3110765039246832,0.0,1.0
+mcp:20230313-M-Indian_Wells_Masters-R32-Hubert_Hurkacz-Tommy_Paul,2023-03-13,mcp,Hard,Hubert Hurkacz,Tommy Paul,20,0.5726563915945447,0.46099373663896215,0.4652557670814902,0.0,1.0
+mcp:20230327-M-Miami_Masters-R32-Hubert_Hurkacz-Adrian_Mannarino,2023-03-27,mcp,Hard,Hubert Hurkacz,Adrian Mannarino,80,0.7035935210938393,0.5163868709423496,0.3131595287536396,0.0,1.0
+mcp:20230328-M-Miami_Masters-R16-Emil_Ruusuvuori-Botic_Van_De_Zandschulp,2023-03-28,mcp,Hard,Emil Ruusuvuori,Botic Van De Zandschulp,30,0.6989806691444916,0.5247984851964067,0.31594187528077833,1.0,0.0
+mcp:20230328-M-Miami_Masters-R16-Taylor_Fritz-Holger_Rune,2023-03-28,mcp,Hard,Taylor Fritz,Holger Rune,40,0.5181894659785703,0.5420116043915907,0.4990012957579085,1.0,0.0
+mcp:20230330-M-Miami_Masters-QF-Karen_Khachanov-Francisco_Cerundolo,2023-03-30,mcp,Hard,Karen Khachanov,Francisco Cerundolo,30,0.677851303282181,0.6119753868448597,0.4309854529367251,1.0,0.0
+mcp:20230407-M-Estoril-R16-Ben_Shelton-Dominic_Thiem,2023-04-07,mcp,Clay,Ben Shelton,Dominic Thiem,20,0.5151472202055816,0.5203162408547177,0.4789312800972528,0.0,1.0
+mcp:20230409-M-Marrakech-F-Roberto_Carballes_Baena-Alexandre_Muller,2023-04-09,mcp,Clay,Roberto Carballes Baena,Alexandre Muller,40,0.5841276086132778,0.42577939295227035,0.33041476394551106,1.0,0.0
+mcp:20230410-M-Monte_Carlo_Masters-R64-Botic_Van_De_Zandschulp-Marton_Fucsovics,2023-04-10,mcp,Clay,Botic Van De Zandschulp,Marton Fucsovics,10,0.592011287714624,0.4491415735834332,0.2693761043183356,1.0,0.0
+mcp:20230410-M-Monte_Carlo_Masters-R64-Roberto_Bautista_Agut-Filip_Krajinovic,2023-04-10,mcp,Clay,Roberto Bautista Agut,Filip Krajinovic,30,0.6391959376929315,0.4783839977828041,0.327500419044237,1.0,0.0
+mcp:20230411-M-Monte_Carlo_Masters-R64-Lorenzo_Musetti-Miomir_Kecmanovic,2023-04-11,mcp,Clay,Lorenzo Musetti,Miomir Kecmanovic,40,0.5437918749391507,0.5300142823764757,0.4037433758508553,1.0,0.0
+mcp:20230412-M-Monte_Carlo_Masters-R32-Alex_De_Minaur-Jan_Lennard_Struff,2023-04-12,mcp,Clay,Alex De Minaur,Jan Lennard Struff,20,0.7159678970929454,0.5479132657574439,0.32182547948901463,0.0,1.0
+mcp:20230414-M-Monte_Carlo_Masters-QF-Stefanos_Tsitsipas-Taylor_Fritz,2023-04-14,mcp,Clay,Stefanos Tsitsipas,Taylor Fritz,10,0.763937551661623,0.6139957624263146,0.4553064154505458,0.0,1.0
+mcp:20230418-M-Barcelona-R32-Bernabe_Zapata_Miralles-Roberto_Bautista_Agut,2023-04-18,mcp,Clay,Bernabe Zapata Miralles,Roberto Bautista Agut,20,0.5197587132567645,0.3992156273269346,0.3790740839691593,0.0,1.0
+mcp:20230421-M-Banja_Luka-QF-Jiri_Lehecka-Miomir_Kecmanovic,2023-04-21,mcp,Clay,Jiri Lehecka,Miomir Kecmanovic,20,0.5855393297106012,0.39565815789865566,0.1972810126703443,0.0,1.0
+mcp:20230422-M-Munich-SF-Taylor_Fritz-Botic_Van_De_Zandschulp,2023-04-22,mcp,Clay,Taylor Fritz,Botic Van De Zandschulp,40,0.6612951511853512,0.4567030284474404,0.3349233349703483,0.0,1.0
+mcp:20230429-M-Madrid_Masters-R64-Jiri_Lehecka-Alexander_Shevchenko,2023-04-29,mcp,Clay,Jiri Lehecka,Alexander Shevchenko,10,0.7454343946313189,0.6073348011208404,0.38039602938298295,0.0,1.0
+mcp:20230501-M-Madrid_Masters-R32-Daniil_Medvedev-Alexander_Shevchenko,2023-05-01,mcp,Clay,Daniil Medvedev,Alexander Shevchenko,30,0.8014757266352476,0.560948171508821,0.29175577510234396,1.0,0.0
+mcp:20230510-M-Rome_Masters-R128-Andy_Murray-Fabio_Fognini,2023-05-10,mcp,Clay,Andy Murray,Fabio Fognini,20,0.5959105001971045,0.6001906585101612,0.4808626632434009,0.0,1.0
+mcp:20230511-M-Rome_Masters-R128-Nicolas_Jarry-Yannick_Hanfmann,2023-05-11,mcp,Clay,Nicolas Jarry,Yannick Hanfmann,50,0.6235252052114771,0.40440216589867783,0.23135714257274997,0.0,1.0
+mcp:20230514-M-Rome_Masters-R64-Taylor_Fritz-Yannick_Hanfmann,2023-05-14,mcp,Clay,Taylor Fritz,Yannick Hanfmann,40,0.7538419362713523,0.6680846891025719,0.4197529821358791,0.0,1.0
+mcp:20230520-M-Rome_Masters-SF-Casper_Ruud-Holger_Rune,2023-05-20,mcp,Clay,Casper Ruud,Holger Rune,10,0.5074083371903245,0.5127797625494284,0.4935725016289467,0.0,1.0
+mcp:20230526-M-Geneva-SF-Alexander_Zverev-Nicolas_Jarry,2023-05-26,mcp,Clay,Alexander Zverev,Nicolas Jarry,80,0.7551777204037766,0.5567837516749431,0.4882176740142969,0.0,1.0
+mcp:20230526-M-Lyon-SF-Cameron_Norrie-Francisco_Cerundolo,2023-05-26,mcp,Clay,Cameron Norrie,Francisco Cerundolo,10,0.5510743907263396,0.4175087884040544,0.2770804892844539,0.0,1.0
+mcp:20230528-M-Roland_Garros-R128-Hubert_Hurkacz-David_Goffin,2023-05-28,mcp,Clay,Hubert Hurkacz,David Goffin,10,0.6513701268213884,0.5448792862677959,0.3075681305246432,1.0,0.0
+mcp:20230601-M-Roland_Garros-R64-Jiri_Lehecka-Marcos_Giron,2023-06-01,mcp,Clay,Jiri Lehecka,Marcos Giron,10,0.5565407824851321,0.470401410231384,0.32654572885795907,0.0,1.0
+mcp:20230601-M-Roland_Garros-R64-Taylor_Fritz-Arthur_Rinderknech,2023-06-01,mcp,Clay,Taylor Fritz,Arthur Rinderknech,30,0.7924328644453766,0.6196832219716291,0.2767180783673253,1.0,0.0
+mcp:20230602-M-Roland_Garros-R32-Novak_Djokovic-Alejandro_Davidovich_Fokina,2023-06-02,mcp,Clay,Novak Djokovic,Alejandro Davidovich Fokina,30,0.8048925449246451,0.7460715408596162,0.43579108693958457,1.0,0.0
+mcp:20230603-M-Roland_Garros-R32-Alexander_Zverev-Frances_Tiafoe,2023-06-03,mcp,Clay,Alexander Zverev,Frances Tiafoe,50,0.6657972345399847,0.4939295518198536,0.2832217185350109,1.0,0.0
+mcp:20230604-M-Roland_Garros-R16-Carlos_Alcaraz-Lorenzo_Musetti,2023-06-04,mcp,Clay,Carlos Alcaraz,Lorenzo Musetti,20,0.7276941443655237,0.6337729604461813,0.44264748171314505,1.0,0.0
+mcp:20230606-M-Roland_Garros-QF-Novak_Djokovic-Karen_Khachanov,2023-06-06,mcp,Clay,Novak Djokovic,Karen Khachanov,30,0.7640434146859483,0.7186057387396302,0.4972487699038194,1.0,0.0
+mcp:20230612-M-Stuttgart-R32-Jiri_Lehecka-Marcos_Giron,2023-06-12,mcp,Grass,Jiri Lehecka,Marcos Giron,10,0.5235282380759221,0.514250272608471,0.4766712733502983,1.0,0.0
+mcp:20230612-M-s_Hertogenbosch-R32-Milos_Raonic-Miomir_Kecmanovic,2023-06-12,mcp,Grass,Milos Raonic,Miomir Kecmanovic,10,0.5185555834667596,0.5088434933488158,0.43967176453699464,1.0,0.0
+mcp:20230613-M-Stuttgart-R32-Jan_Lennard_Struff-Zhizhen_Zhang,2023-06-13,mcp,Grass,Jan Lennard Struff,Zhizhen Zhang,10,0.5086163189466335,0.4119245806301081,0.42454731627114595,1.0,0.0
+mcp:20230615-M-Stuttgart-R16-Tommy_Paul-Jan_Lennard_Struff,2023-06-15,mcp,Grass,Tommy Paul,Jan Lennard Struff,70,0.7344055113043135,0.5345795059386046,0.445632721361667,0.0,1.0
+mcp:20230618-M-s_Hertogenbosch-F-Tallon_Griekspoor-Jordan_Thompson,2023-06-18,mcp,Grass,Tallon Griekspoor,Jordan Thompson,40,0.5357245108255546,0.46150626957930085,0.33003952002541165,1.0,0.0
+mcp:20230703-M-Wimbledon-R128-Alexander_Bublik-Mackenzie_Mcdonald,2023-07-03,mcp,Grass,Alexander Bublik,Mackenzie Mcdonald,20,0.669187622590983,0.6245348030250555,0.454598797996392,1.0,0.0
+mcp:20230703-M-Wimbledon-R128-Emil_Ruusuvuori-Stan_Wawrinka,2023-07-03,mcp,Grass,Emil Ruusuvuori,Stan Wawrinka,20,0.6689781118689191,0.64668256662996,0.4575435656678165,0.0,1.0
+mcp:20230707-M-Wimbledon-R32-Hubert_Hurkacz-Lorenzo_Musetti,2023-07-07,mcp,Grass,Hubert Hurkacz,Lorenzo Musetti,30,0.5455550201414787,0.5436618391543653,0.39843795933772413,1.0,0.0
+mcp:20230708-M-Wimbledon-R32-Daniil_Medvedev-Marton_Fucsovics,2023-07-08,mcp,Grass,Daniil Medvedev,Marton Fucsovics,30,0.782135168285469,0.6668963134826973,0.45458060274060935,1.0,0.0
+mcp:20230712-M-Wimbledon-QF-Carlos_Alcaraz-Holger_Rune,2023-07-12,mcp,Grass,Carlos Alcaraz,Holger Rune,40,0.7143571216451388,0.6861641142826771,0.47514789164955407,1.0,0.0
+mcp:20230717-M-Gstaad-R32-Dominic_Thiem-Alexandre_Muller,2023-07-17,mcp,Clay,Dominic Thiem,Alexandre Muller,10,0.6129539555146101,0.6102134277962235,0.45124275731346825,1.0,0.0
+mcp:20230727-M-Hamburg-R16-Andrey_Rublev-Daniel_Altmaier,2023-07-27,mcp,Clay,Andrey Rublev,Daniel Altmaier,30,0.8232244398198604,0.6655828516162929,0.41848077912776627,0.0,1.0
+mcp:20230801-M-Washington-R32-Hubert_Hurkacz-Michael_Mmoh,2023-08-01,mcp,Hard,Hubert Hurkacz,Michael Mmoh,10,0.7914398663198059,0.6336968279286612,0.46860893196852316,0.0,1.0
+mcp:20230806-M-Washington-F-Daniel_Evans-Tallon_Griekspoor,2023-08-06,mcp,Hard,Daniel Evans,Tallon Griekspoor,10,0.5243288639491515,0.5237433508392999,0.3928100880552252,1.0,0.0
+mcp:20230809-M-Canada_Masters-R32-Hubert_Hurkacz-Miomir_Kecmanovic,2023-08-09,mcp,Hard,Hubert Hurkacz,Miomir Kecmanovic,80,0.6811079535190004,0.4424674508229099,0.3649049940206862,1.0,0.0
+mcp:20230809-M-Canada_Masters-R32-Stefanos_Tsitsipas-Gael_Monfils,2023-08-09,mcp,Hard,Stefanos Tsitsipas,Gael Monfils,40,0.8504274840531297,0.6551230816361295,0.46544826759105423,0.0,1.0
+mcp:20230811-M-Canada_Masters-QF-Daniil_Medvedev-Alex_De_Minaur,2023-08-11,mcp,Hard,Daniil Medvedev,Alex De Minaur,60,0.6346562705014803,0.6375882145403026,0.48575229701081785,0.0,1.0
+mcp:20230812-M-Canada_Masters-QF-Carlos_Alcaraz-Tommy_Paul,2023-08-12,mcp,Hard,Carlos Alcaraz,Tommy Paul,10,0.7243946320929511,0.5797813678740739,0.46548663104875526,0.0,1.0
+mcp:20230812-M-Canada_Masters-SF-Jannik_Sinner-Tommy_Paul,2023-08-12,mcp,Hard,Jannik Sinner,Tommy Paul,10,0.5886068842030314,0.47258702509568806,0.4282809467475528,1.0,0.0
+mcp:20230816-M-Cincinnati_Masters-R32-Hubert_Hurkacz-Borna_Coric,2023-08-16,mcp,Hard,Hubert Hurkacz,Borna Coric,20,0.6114750162696703,0.5511772720307092,0.3682531168379198,1.0,0.0
+mcp:20230817-M-Cincinnati_Masters-R16-Daniil_Medvedev-Alexander_Zverev,2023-08-17,mcp,Hard,Daniil Medvedev,Alexander Zverev,40,0.672136244936246,0.552662916551993,0.3578035071747559,0.0,1.0
+mcp:20230820-M-Cincinnati_Masters-F-Novak_Djokovic-Carlos_Alcaraz,2023-08-20,mcp,Hard,Novak Djokovic,Carlos Alcaraz,60,0.706273359549169,0.6009685830218187,0.4292665662393244,1.0,0.0
+mcp:20230826-M-Winston_Salem-F-Jiri_Lehecka-Sebastian_Baez,2023-08-26,mcp,Hard,Jiri Lehecka,Sebastian Baez,60,0.6303933110067745,0.43017027525553736,0.28032270757312067,0.0,1.0
+mcp:20230828-M-US_Open-R128-Casper_Ruud-Emilio_Nava,2023-08-28,mcp,Hard,Casper Ruud,Emilio Nava,40,0.7791807700493814,0.6354910354181127,0.4476474837236722,1.0,0.0
+mcp:20230828-M-US_Open-R128-Gregoire_Barrere-Jakub_Mensik,2023-08-28,mcp,Hard,Gregoire Barrere,Jakub Mensik,10,0.5692264007828499,0.5682362119959541,0.49212181930819093,0.0,1.0
+mcp:20230828-M-US_Open-R128-Jiri_Lehecka-Aslan_Karatsev,2023-08-28,mcp,Hard,Jiri Lehecka,Aslan Karatsev,40,0.7360210991747529,0.5971724835012455,0.4958530570759675,0.0,1.0
+mcp:20230829-M-US_Open-R128-Grigor_Dimitrov-Alex_Molcan,2023-08-29,mcp,Hard,Grigor Dimitrov,Alex Molcan,30,0.8135740842887599,0.7510385083651616,0.4980653349639669,1.0,0.0
+mcp:20230830-M-US_Open-R64-Casper_Ruud-Zhizhen_Zhang,2023-08-30,mcp,Hard,Casper Ruud,Zhizhen Zhang,30,0.7173380894469593,0.6150884270400319,0.2743445142930499,0.0,1.0
+mcp:20230831-M-US_Open-R64-Grigor_Dimitrov-Andy_Murray,2023-08-31,mcp,Hard,Grigor Dimitrov,Andy Murray,30,0.508027187037277,0.5213865874039647,0.4533942276381083,1.0,0.0
+mcp:20230831-M-US_Open-R64-Hubert_Hurkacz-Jack_Draper,2023-08-31,mcp,Hard,Hubert Hurkacz,Jack Draper,10,0.6535027476672045,0.5343387718176055,0.293224124658474,0.0,1.0
+mcp:20230901-M-US_Open-R32-Rinky_Hijikata-Zhizhen_Zhang,2023-09-01,mcp,Hard,Rinky Hijikata,Zhizhen Zhang,30,0.5007393553191142,0.49446746309507383,0.40882951808076723,1.0,0.0
+mcp:20230904-M-US_Open-R16-Daniil_Medvedev-Alex_De_Minaur,2023-09-04,mcp,Hard,Daniil Medvedev,Alex De Minaur,30,0.5857703676537512,0.5761830577816437,0.4134417553946278,1.0,0.0
+mcp:20230904-M-US_Open-R16-Jannik_Sinner-Alexander_Zverev,2023-09-04,mcp,Hard,Jannik Sinner,Alexander Zverev,40,0.6402899443196866,0.5276700266357024,0.37495793904763086,0.0,1.0
+mcp:20230905-M-US_Open-QF-Frances_Tiafoe-Ben_Shelton,2023-09-05,mcp,Hard,Frances Tiafoe,Ben Shelton,40,0.6289174755484735,0.507616278874147,0.358723538745249,0.0,1.0
+mcp:20230929-M-Beijing-R32-Casper_Ruud-Jan_Lennard_Struff,2023-09-29,mcp,Hard,Casper Ruud,Jan Lennard Struff,70,0.6352631559707762,0.6119159189377121,0.4559328011032541,1.0,0.0
+mcp:20230930-M-Astana-R16-Dominic_Thiem-Marcos_Giron,2023-09-30,mcp,Hard,Dominic Thiem,Marcos Giron,30,0.601273310014689,0.5958643542108657,0.47156934735778083,1.0,0.0
+mcp:20231001-M-Astana-QF-Dominic_Thiem-Sebastian_Ofner,2023-10-01,mcp,Hard,Dominic Thiem,Sebastian Ofner,40,0.6032046394977806,0.5250221812816581,0.3585689393368705,0.0,1.0
+mcp:20231001-M-Beijing-R16-Holger_Rune-Grigor_Dimitrov,2023-10-01,mcp,Hard,Holger Rune,Grigor Dimitrov,10,0.5860438043476544,0.43386059753015693,0.265459674797716,0.0,1.0
+mcp:20231004-M-Shanghai_Masters-R64-Richard_Gasquet-Zhizhen_Zhang,2023-10-04,mcp,Hard,Richard Gasquet,Zhizhen Zhang,10,0.5437222255055462,0.39796625556269405,0.2308386197078249,0.0,1.0
+mcp:20231009-M-Shanghai_Masters-R16-Casper_Ruud-Fabian_Marozsan,2023-10-09,mcp,Hard,Casper Ruud,Fabian Marozsan,30,0.6138948981327995,0.5979124219159967,0.40089634066044644,0.0,1.0
+mcp:20231009-M-Shanghai_Masters-R32-Grigor_Dimitrov-Karen_Khachanov,2023-10-09,mcp,Hard,Grigor Dimitrov,Karen Khachanov,70,0.5391934693625267,0.48073746302234527,0.41690188289152014,1.0,0.0
+mcp:20231009-M-Shanghai_Masters-R32-Lorenzo_Sonego-Nicolas_Jarry,2023-10-09,mcp,Hard,Lorenzo Sonego,Nicolas Jarry,70,0.5633298090536518,0.49502305325587725,0.49861537385340127,0.0,1.0
+mcp:20231011-M-Shanghai_Masters-R16-Carlos_Alcaraz-Grigor_Dimitrov,2023-10-11,mcp,Hard,Carlos Alcaraz,Grigor Dimitrov,30,0.7596200886786498,0.6051494772137153,0.4975467845279387,0.0,1.0
+mcp:20231012-M-Shanghai_Masters-QF-Hubert_Hurkacz-Fabian_Marozsan,2023-10-12,mcp,Hard,Hubert Hurkacz,Fabian Marozsan,20,0.6702755268466484,0.4824374333089284,0.22509073951962644,1.0,0.0
+mcp:20231018-M-Tokyo-R32-Hubert_Hurkacz-Zhizhen_Zhang,2023-10-18,mcp,Hard,Hubert Hurkacz,Zhizhen Zhang,10,0.8058508360536164,0.6586507598478507,0.4935206443011123,0.0,1.0
+mcp:20231022-M-Antwerp-F-Arthur_Fils-Alexander_Bublik,2023-10-22,mcp,Hard,Arthur Fils,Alexander Bublik,30,0.6007145878407225,0.40431796855283464,0.21362059482778697,0.0,1.0
+mcp:20231026-M-Basel-R16-Ugo_Humbert-Nicolas_Jarry,2023-10-26,mcp,Hard,Ugo Humbert,Nicolas Jarry,30,0.6261539541581356,0.6189473953435924,0.49146175450753654,1.0,0.0
+mcp:20231026-M-Vienna-R16-Daniil_Medvedev-Grigor_Dimitrov,2023-10-26,mcp,Hard,Daniil Medvedev,Grigor Dimitrov,30,0.7924448236831227,0.6380710259853895,0.4722871603989595,1.0,0.0
+mcp:20231027-M-Vienna-QF-Andrey_Rublev-Alexander_Zverev,2023-10-27,mcp,Hard,Andrey Rublev,Alexander Zverev,10,0.5354185251194237,0.5105145485627954,0.3727030871094377,1.0,0.0
+mcp:20231030-M-Paris_Masters-R64-Ben_Shelton-Alejandro_Davidovich_Fokina,2023-10-30,mcp,Hard,Ben Shelton,Alejandro Davidovich Fokina,60,0.6508060929975333,0.5416474515637284,0.4415333067614886,0.0,1.0
+mcp:20231031-M-Paris_Masters-R64-Arthur_Fils-Daniel_Altmaier,2023-10-31,mcp,Hard,Arthur Fils,Daniel Altmaier,30,0.7506843406418254,0.5789939149258027,0.3779757116974761,0.0,1.0
+mcp:20231101-M-Paris_Masters-R32-Casper_Ruud-Francisco_Cerundolo,2023-11-01,mcp,Hard,Casper Ruud,Francisco Cerundolo,20,0.5931247851869063,0.4322371362847651,0.34756038295740754,0.0,1.0
+mcp:20231113-M-Tour_Finals-RR-Carlos_Alcaraz-Alexander_Zverev,2023-11-13,mcp,Hard,Carlos Alcaraz,Alexander Zverev,20,0.6118195349239697,0.4356541153010599,0.27288877510210074,0.0,1.0
+mcp:20231117-M-Tour_Finals-RR-Andrey_Rublev-Alexander_Zverev,2023-11-17,mcp,Hard,Andrey Rublev,Alexander Zverev,80,0.5754325115928278,0.32637777022449904,0.22917871113063593,0.0,1.0
+mcp:20231126-M-Davis_Cup_Finals-RR-Matteo_Arnaldi-Alexei_Popyrin,2023-11-26,mcp,Hard,Matteo Arnaldi,Alexei Popyrin,30,0.516870258921212,0.5318380770746387,0.3956177973243513,1.0,0.0
+mcp:20231229-M-United_Cup-RR-Alex_De_Minaur-Cameron_Norrie,2023-12-29,mcp,Hard,Alex De Minaur,Cameron Norrie,10,0.5496280162670759,0.40044468229911634,0.24243315997500609,0.0,1.0
+mcp:20240104-M-Brisbane-R16-Tomas_Machac-Rinky_Hijikata,2024-01-04,mcp,Hard,Tomas Machac,Rinky Hijikata,40,0.5866928341293436,0.38014582190886415,0.24752349533284573,0.0,1.0
+mcp:20240105-M-Hong_Kong-QF-Frances_Tiafoe-Juncheng_Shang,2024-01-05,mcp,Hard,Frances Tiafoe,Juncheng Shang,30,0.7315456251961684,0.634650822298909,0.4510720921820708,0.0,1.0
+mcp:20240114-M-Australian_Open-R128-Jesper_De_Jong-Pedro_Cachin,2024-01-14,mcp,Hard,Jesper De Jong,Pedro Cachin,30,0.5016760620359153,0.5177167975964294,0.4970384767598529,1.0,0.0
+mcp:20240114-M-Australian_Open-R128-Matteo_Arnaldi-Adam_Walton,2024-01-14,mcp,Hard,Matteo Arnaldi,Adam Walton,70,0.7263313150789474,0.6733954136676443,0.46819238694672605,1.0,0.0
+mcp:20240115-M-Australian_Open-R128-Alex_Michelsen-James_Mccabe,2024-01-15,mcp,Hard,Alex Michelsen,James Mccabe,60,0.5500944621247676,0.552508169133128,0.37457837243373265,1.0,0.0
+mcp:20240116-M-Australian_Open-R128-Andy_Murray-Tomas_Martin_Etcheverry,2024-01-16,mcp,Hard,Andy Murray,Tomas Martin Etcheverry,10,0.5801701717563417,0.4698029313270771,0.3350773897474122,0.0,1.0
+mcp:20240119-M-Australian_Open-R32-Ben_Shelton-Adrian_Mannarino,2024-01-19,mcp,Hard,Ben Shelton,Adrian Mannarino,30,0.5699513587405981,0.5219876176830804,0.39388736799225305,0.0,1.0
+mcp:20240119-M-Australian_Open-R32-Tommy_Paul-Miomir_Kecmanovic,2024-01-19,mcp,Hard,Tommy Paul,Miomir Kecmanovic,20,0.6192508152646419,0.5010916243398275,0.33126743435524253,0.0,1.0
+mcp:20240120-M-Australian_Open-R32-Casper_Ruud-Cameron_Norrie,2024-01-20,mcp,Hard,Casper Ruud,Cameron Norrie,10,0.5750556389568342,0.5739897089001308,0.4848528751001077,0.0,1.0
+mcp:20240121-M-Australian_Open-R16-Stefanos_Tsitsipas-Taylor_Fritz,2024-01-21,mcp,Hard,Stefanos Tsitsipas,Taylor Fritz,20,0.5229250863628414,0.519069454280999,0.43215469317265287,0.0,1.0
+mcp:20240126-M-Australian_Open-SF-Daniil_Medvedev-Alexander_Zverev,2024-01-26,mcp,Hard,Daniil Medvedev,Alexander Zverev,10,0.607142197075747,0.5614895450808772,0.3570619650349739,1.0,0.0
+mcp:20240128-M-Australian_Open-F-Jannik_Sinner-Daniil_Medvedev,2024-01-28,mcp,Hard,Jannik Sinner,Daniil Medvedev,20,0.7615728861540553,0.6491570284531005,0.4764305052905964,1.0,0.0
+mcp:20240131-M-Montpellier-R16-Alexander_Bublik-Denis_Shapovalov,2024-01-31,mcp,Hard,Alexander Bublik,Denis Shapovalov,10,0.5340839702945993,0.4066511097480202,0.3418790315875855,1.0,0.0
+mcp:20240201-M-Montpellier-R16-Felix_Auger_Aliassime-Arthur_Cazaux,2024-02-01,mcp,Hard,Felix Auger Aliassime,Arthur Cazaux,40,0.6055592274142791,0.40664249650446427,0.42432910248692246,1.0,0.0
+mcp:20240210-M-Dallas-SF-Adrian_Mannarino-Marcos_Giron,2024-02-10,mcp,Hard,Adrian Mannarino,Marcos Giron,10,0.528567380073557,0.3879309373478048,0.2967348117596891,0.0,1.0
+mcp:20240210-M-Marseille-SF-Hubert_Hurkacz-Ugo_Humbert,2024-02-10,mcp,Hard,Hubert Hurkacz,Ugo Humbert,10,0.6247280368565091,0.452385338207447,0.2652512552355256,0.0,1.0
+mcp:20240212-M-Rotterdam-R32-Milos_Raonic-Jesper_De_Jong,2024-02-12,mcp,Hard,Milos Raonic,Jesper De Jong,50,0.6267952015114496,0.5268919088668365,0.44346072508752116,1.0,0.0
+mcp:20240213-M-Buenos_Aires-R32-Arthur_Fils-Dusan_Lajovic,2024-02-13,mcp,Clay,Arthur Fils,Dusan Lajovic,20,0.6707431262338868,0.5435971631710562,0.42339599368703934,0.0,1.0
+mcp:20240214-M-Rotterdam-R16-Alexander_Bublik-Milos_Raonic,2024-02-14,mcp,Hard,Alexander Bublik,Milos Raonic,20,0.6518772703091718,0.471209826394735,0.3243712349874692,0.0,1.0
+mcp:20240221-M-Doha-R16-Andy_Murray-Jakub_Mensik,2024-02-21,mcp,Hard,Andy Murray,Jakub Mensik,20,0.6191937073433007,0.46046030376415314,0.3436750419764397,0.0,1.0
+mcp:20240221-M-Rio_de_Janeiro-R32-Arthur_Fils-Joao_Fonseca,2024-02-21,mcp,Clay,Arthur Fils,Joao Fonseca,20,0.8474387241227358,0.6801388524430643,0.4756374812479822,0.0,1.0
+mcp:20240222-M-Doha-QF-Andrey_Rublev-Jakub_Mensik,2024-02-22,mcp,Hard,Andrey Rublev,Jakub Mensik,50,0.8396213305061703,0.6108199228377644,0.4991839725051433,0.0,1.0
+mcp:20240222-M-Doha-QF-Ugo_Humbert-Gael_Monfils,2024-02-22,mcp,Hard,Ugo Humbert,Gael Monfils,30,0.7160726869356806,0.43565128915174584,0.18439818636145178,0.0,1.0
+mcp:20240223-M-Doha-SF-Gael_Monfils-Jakub_Mensik,2024-02-23,mcp,Hard,Gael Monfils,Jakub Mensik,30,0.6505476072448639,0.4867092694820974,0.35617856571376827,0.0,1.0
+mcp:20240223-M-Los_Cabos-SF-Stefanos_Tsitsipas-Casper_Ruud,2024-02-23,mcp,Hard,Stefanos Tsitsipas,Casper Ruud,40,0.5918407041039304,0.3598957777448407,0.1943876187670977,0.0,1.0
+mcp:20240223-M-Rio_de_Janeiro-QF-Mariano_Navone-Joao_Fonseca,2024-02-23,mcp,Clay,Mariano Navone,Joao Fonseca,10,0.6891585875378708,0.5638641081749115,0.4439908814269424,1.0,0.0
+mcp:20240227-M-Dubai-R32-Ugo_Humbert-Gael_Monfils,2024-02-27,mcp,Hard,Ugo Humbert,Gael Monfils,40,0.6613694626440181,0.580220397650264,0.4626271150171838,1.0,0.0
+mcp:20240302-M-Santiago-SF-Alejandro_Tabilo-Corentin_Moutet,2024-03-02,mcp,Clay,Alejandro Tabilo,Corentin Moutet,50,0.6162400929562466,0.4178742909127934,0.3423193873591405,1.0,0.0
+mcp:20240306-M-Indian_Wells_Masters-R128-Emil_Ruusuvuori-Dusan_Lajovic,2024-03-06,mcp,Hard,Emil Ruusuvuori,Dusan Lajovic,70,0.7463799207437054,0.5307585224082979,0.4201490048949062,0.0,1.0
+mcp:20240309-M-Indian_Wells_Masters-R64-Grigor_Dimitrov-Alexandre_Muller,2024-03-09,mcp,Hard,Grigor Dimitrov,Alexandre Muller,20,0.8537870791782335,0.702961372841161,0.4820215750505102,1.0,0.0
+mcp:20240310-M-Indian_Wells_Masters-R32-Andrey_Rublev-Jiri_Lehecka,2024-03-10,mcp,Hard,Andrey Rublev,Jiri Lehecka,10,0.7591348263107315,0.6058466660010308,0.39776166324095574,0.0,1.0
+mcp:20240310-M-Indian_Wells_Masters-R64-Ben_Shelton-Jakub_Mensik,2024-03-10,mcp,Hard,Ben Shelton,Jakub Mensik,30,0.5571214725195349,0.5437173739622219,0.4962439530243859,1.0,0.0
+mcp:20240311-M-Indian_Wells_Masters-R32-Alexander_Zverev-Tallon_Griekspoor,2024-03-11,mcp,Hard,Alexander Zverev,Tallon Griekspoor,30,0.7940242156756366,0.5930727447667028,0.4454553037672532,1.0,0.0
+mcp:20240311-M-Indian_Wells_Masters-R32-Gael_Monfils-Cameron_Norrie,2024-03-11,mcp,Hard,Gael Monfils,Cameron Norrie,20,0.5880724861874903,0.4758412451325423,0.36268820241829436,1.0,0.0
+mcp:20240320-M-Miami_Masters-R128-Andy_Murray-Matteo_Berrettini,2024-03-20,mcp,Hard,Andy Murray,Matteo Berrettini,10,0.5907239765044993,0.42919487073084306,0.29752521217499,1.0,0.0
+mcp:20240321-M-Miami_Masters-R128-Brandon_Nakashima-Alejandro_Tabilo,2024-03-21,mcp,Hard,Brandon Nakashima,Alejandro Tabilo,10,0.5290942286485236,0.40647722864215236,0.3647213272379959,0.0,1.0
+mcp:20240321-M-Miami_Masters-R128-Emil_Ruusuvuori-Yannick_Hanfmann,2024-03-21,mcp,Hard,Emil Ruusuvuori,Yannick Hanfmann,30,0.7687326058748963,0.6297163041366006,0.44973451570878714,0.0,1.0
+mcp:20240324-M-Miami_Masters-R64-Jiri_Lehecka-Alexei_Popyrin,2024-03-24,mcp,Hard,Jiri Lehecka,Alexei Popyrin,40,0.6006931518452847,0.43098977874186617,0.2622397273794534,0.0,1.0
+mcp:20240325-M-Miami_Masters-R32-Ben_Shelton-Lorenzo_Musetti,2024-03-25,mcp,Hard,Ben Shelton,Lorenzo Musetti,20,0.686195076841649,0.5649796348253355,0.3841773965022517,0.0,1.0
+mcp:20240326-M-Miami_Masters-R16-Casper_Ruud-Nicolas_Jarry,2024-03-26,mcp,Hard,Casper Ruud,Nicolas Jarry,10,0.7764943945856853,0.6058237731335656,0.3473965376040073,0.0,1.0
+mcp:20240326-M-Miami_Masters-R16-Matteo_Arnaldi-Tomas_Machac,2024-03-26,mcp,Hard,Matteo Arnaldi,Tomas Machac,40,0.5236891205000984,0.34360830380184537,0.31537841485558854,0.0,1.0
+mcp:20240406-M-Estoril-SF-Casper_Ruud-Pedro_Martinez,2024-04-06,mcp,Clay,Casper Ruud,Pedro Martinez,60,0.8275515257509131,0.5478142983080377,0.4183718456172104,0.0,1.0
+mcp:20240407-M-Monte_Carlo_Masters-R64-Taylor_Fritz-Lorenzo_Musetti,2024-04-07,mcp,Clay,Taylor Fritz,Lorenzo Musetti,10,0.5772491535788307,0.5513491014466307,0.38377561777255514,0.0,1.0
+mcp:20240409-M-Monte_Carlo_Masters-R64-Matteo_Berrettini-Miomir_Kecmanovic,2024-04-09,mcp,Clay,Matteo Berrettini,Miomir Kecmanovic,30,0.698414825272463,0.5196283838151687,0.34483442845687057,0.0,1.0
+mcp:20240411-M-Monte_Carlo_Masters-R16-Grigor_Dimitrov-Holger_Rune,2024-04-11,mcp,Clay,Grigor Dimitrov,Holger Rune,50,0.5999544421108617,0.5227899260295561,0.41634907067903715,0.0,1.0
+mcp:20240411-M-Monte_Carlo_Masters-R16-Novak_Djokovic-Lorenzo_Musetti,2024-04-11,mcp,Clay,Novak Djokovic,Lorenzo Musetti,10,0.7753191002386325,0.6501861651521416,0.4348502621754369,1.0,0.0
+mcp:20240411-M-Monte_Carlo_Masters-R16-Stefanos_Tsitsipas-Alexander_Zverev,2024-04-11,mcp,Clay,Stefanos Tsitsipas,Alexander Zverev,30,0.5569966988952397,0.5438096241916748,0.48343353648659226,1.0,0.0
+mcp:20240413-M-Monte_Carlo_Masters-SF-Jannik_Sinner-Stefanos_Tsitsipas,2024-04-13,mcp,Clay,Jannik Sinner,Stefanos Tsitsipas,20,0.7077671079394134,0.5526329805554746,0.40141927067199834,0.0,1.0
+mcp:20240413-M-Monte_Carlo_Masters-SF-Novak_Djokovic-Casper_Ruud,2024-04-13,mcp,Clay,Novak Djokovic,Casper Ruud,10,0.6691109778784924,0.5224314893269898,0.38652679517725674,0.0,1.0
+mcp:20240415-M-Barcelona-R64-Martin_Landaluce-Nick_Hardt,2024-04-15,mcp,Clay,Martin Landaluce,Nick Hardt,10,0.5623577951968175,0.4712220577476788,0.39482926919544026,0.0,1.0
+mcp:20240416-M-Bucharest-R32-Lorenzo_Sonego-Joao_Fonseca,2024-04-16,mcp,Clay,Lorenzo Sonego,Joao Fonseca,80,0.6997127750748294,0.42226988810434746,0.26607711386306343,0.0,1.0
+mcp:20240417-M-Barcelona-R32-Lorenzo_Musetti-Roberto_Carballes_Baena,2024-04-17,mcp,Clay,Lorenzo Musetti,Roberto Carballes Baena,50,0.6288466740912215,0.5739342675534739,0.46926170430828723,0.0,1.0
+mcp:20240417-M-Barcelona-R32-Ugo_Humbert-Dusan_Lajovic,2024-04-17,mcp,Clay,Ugo Humbert,Dusan Lajovic,40,0.6387670535495449,0.4681454011298434,0.33773392108478517,0.0,1.0
+mcp:20240418-M-Bucharest-R16-Joao_Fonseca-Radu_Albot,2024-04-18,mcp,Clay,Joao Fonseca,Radu Albot,10,0.5980780192734849,0.47933516436630996,0.40869463897982716,1.0,0.0
+mcp:20240424-M-Madrid_Masters-R128-Corentin_Moutet-Juncheng_Shang,2024-04-24,mcp,Clay,Corentin Moutet,Juncheng Shang,30,0.5650030200991938,0.5528287504208536,0.41445522166535587,0.0,1.0
+mcp:20240426-M-Madrid_Masters-R64-Taylor_Fritz-Luciano_Darderi,2024-04-26,mcp,Clay,Taylor Fritz,Luciano Darderi,10,0.6281711310126875,0.6018637846833617,0.44768085046192385,1.0,0.0
+mcp:20240505-M-Madrid_Masters-F-Andrey_Rublev-Felix_Auger_Aliassime,2024-05-05,mcp,Clay,Andrey Rublev,Felix Auger Aliassime,10,0.6008735588600078,0.428242136585794,0.2033671412716898,1.0,0.0
+mcp:20240508-M-Rome_Masters-R128-Fabian_Marozsan-Alexander_Shevchenko,2024-05-08,mcp,Clay,Fabian Marozsan,Alexander Shevchenko,20,0.6758632011660852,0.5175544912763433,0.32713341566680854,0.0,1.0
+mcp:20240508-M-Rome_Masters-R128-Jakub_Mensik-Yannick_Hanfmann,2024-05-08,mcp,Clay,Jakub Mensik,Yannick Hanfmann,10,0.6754374951235169,0.543590046996155,0.4752248764016891,0.0,1.0
+mcp:20240511-M-Rome_Masters-R64-Hubert_Hurkacz-Rafael_Nadal,2024-05-11,mcp,Clay,Hubert Hurkacz,Rafael Nadal,10,0.5166409759213472,0.5085634932352806,0.4659397673351032,1.0,0.0
+mcp:20240512-M-Rome_Masters-R32-Novak_Djokovic-Alejandro_Tabilo,2024-05-12,mcp,Clay,Novak Djokovic,Alejandro Tabilo,20,0.8915826494904885,0.6944643513148362,0.4146107512474403,0.0,1.0
+mcp:20240513-M-Rome_Masters-R32-Hubert_Hurkacz-Tomas_Martin_Etcheverry,2024-05-13,mcp,Clay,Hubert Hurkacz,Tomas Martin Etcheverry,50,0.597348618273762,0.573404571534695,0.4803186980435525,1.0,0.0
+mcp:20240514-M-Rome_Masters-R16-Hubert_Hurkacz-Sebastian_Baez,2024-05-14,mcp,Clay,Hubert Hurkacz,Sebastian Baez,10,0.5680447430639775,0.42547097883766155,0.30959765574175857,1.0,0.0
+mcp:20240516-M-Rome_Masters-QF-Hubert_Hurkacz-Tommy_Paul,2024-05-16,mcp,Clay,Hubert Hurkacz,Tommy Paul,20,0.6368923986745106,0.4784094970070902,0.31797154941513783,0.0,1.0
+mcp:20240526-M-Geneva-F-Casper_Ruud-Tomas_Machac,2024-05-26,mcp,Clay,Casper Ruud,Tomas Machac,20,0.6828584932511884,0.5595140305758256,0.4180485719657392,1.0,0.0
+mcp:20240526-M-Roland_Garros-R128-Andy_Murray-Stan_Wawrinka,2024-05-26,mcp,Clay,Andy Murray,Stan Wawrinka,10,0.6991080163939014,0.6182914943611265,0.4988212453480224,0.0,1.0
+mcp:20240526-M-Roland_Garros-R128-Ugo_Humbert-Lorenzo_Sonego,2024-05-26,mcp,Clay,Ugo Humbert,Lorenzo Sonego,30,0.6283436266984139,0.5094952043258556,0.4956899448728639,0.0,1.0
+mcp:20240527-M-Roland_Garros-R128-Max_Purcell-Henri_Squire,2024-05-27,mcp,Clay,Max Purcell,Henri Squire,20,0.5459902190409811,0.42329649113980894,0.24682030094320617,0.0,1.0
+mcp:20240527-M-Roland_Garros-R128-Thiago_Seyboth_Wild-Gael_Monfils,2024-05-27,mcp,Clay,Thiago Seyboth Wild,Gael Monfils,10,0.550435725025731,0.44420257392236395,0.23696836128514756,0.0,1.0
+mcp:20240528-M-Roland_Garros-R128-Giovanni_Mpetshi_Perricard-David_Goffin,2024-05-28,mcp,Clay,Giovanni Mpetshi Perricard,David Goffin,10,0.6731362213373167,0.6308897349062434,0.4176264896986331,0.0,1.0
+mcp:20240530-M-Roland_Garros-R64-Casper_Ruud-Alejandro_Davidovich_Fokina,2024-05-30,mcp,Clay,Casper Ruud,Alejandro Davidovich Fokina,60,0.7575949018210492,0.7151261308807038,0.3719259678854782,1.0,0.0
+mcp:20240602-M-Roland_Garros-R16-Grigor_Dimitrov-Hubert_Hurkacz,2024-06-02,mcp,Clay,Grigor Dimitrov,Hubert Hurkacz,60,0.5651236108133477,0.44300025335228715,0.2430294201675961,1.0,0.0
+mcp:20240602-M-Roland_Garros-R16-Jannik_Sinner-Corentin_Moutet,2024-06-02,mcp,Clay,Jannik Sinner,Corentin Moutet,20,0.9179761217648721,0.800505914387025,0.47433281193666493,1.0,0.0
+mcp:20240604-M-Roland_Garros-R16-Alexander_Zverev-Holger_Rune,2024-06-04,mcp,Clay,Alexander Zverev,Holger Rune,40,0.71102689532173,0.5727038672385918,0.48741516229800474,1.0,0.0
+mcp:20240607-M-Roland_Garros-SF-Carlos_Alcaraz-Jannik_Sinner,2024-06-07,mcp,Clay,Carlos Alcaraz,Jannik Sinner,10,0.5537063246635672,0.4714754140592514,0.28599816659701505,1.0,0.0
+mcp:20240616-M-s_Hertogenbosch-F-Alex_De_Minaur-Sebastian_Korda,2024-06-16,mcp,Grass,Alex De Minaur,Sebastian Korda,10,0.534418294707295,0.5375941613370999,0.4752429737946594,1.0,0.0
+mcp:20240618-M-Halle-R32-Tomas_Machac-Arthur_Fils,2024-06-18,mcp,Grass,Tomas Machac,Arthur Fils,50,0.6265556140047831,0.39437053586132753,0.2552519269576114,0.0,1.0
+mcp:20240619-M-Halle-R16-Arthur_Fils-Dominik_Koepfer,2024-06-19,mcp,Grass,Arthur Fils,Dominik Koepfer,10,0.5596505108669466,0.5504070633837266,0.48094525518245823,1.0,0.0
+mcp:20240620-M-Halle-R16-Stefanos_Tsitsipas-Jan_Lennard_Struff,2024-06-20,mcp,Grass,Stefanos Tsitsipas,Jan Lennard Struff,30,0.660488891099289,0.44186294047856894,0.3863018901744924,0.0,1.0
+mcp:20240626-M-Eastbourne-R16-Miomir_Kecmanovic-Sebastian_Baez,2024-06-26,mcp,Grass,Miomir Kecmanovic,Sebastian Baez,20,0.5975922708031741,0.5864521145156654,0.43752732994882626,1.0,0.0
+mcp:20240701-M-Wimbledon-R128-Alex_Michelsen-Lloyd_Harris,2024-07-01,mcp,Grass,Alex Michelsen,Lloyd Harris,30,0.6630347091382152,0.5871008284225375,0.37617946805646085,0.0,1.0
+mcp:20240701-M-Wimbledon-R128-Gael_Monfils-Adrian_Mannarino,2024-07-01,mcp,Grass,Gael Monfils,Adrian Mannarino,10,0.5587538706907099,0.5579373694709749,0.4808280041532169,1.0,0.0
+mcp:20240702-M-Wimbledon-R128-Andrey_Rublev-Francisco_Comesana,2024-07-02,mcp,Grass,Andrey Rublev,Francisco Comesana,50,0.8387701717930489,0.6843817466814072,0.46628946926468423,0.0,1.0
+mcp:20240702-M-Wimbledon-R128-Thiago_Seyboth_Wild-Paul_Jubb,2024-07-02,mcp,Grass,Thiago Seyboth Wild,Paul Jubb,10,0.5351016701866972,0.4431756732520955,0.44655889250930614,1.0,0.0
+mcp:20240702-M-Wimbledon-R128-Tomas_Machac-David_Goffin,2024-07-02,mcp,Grass,Tomas Machac,David Goffin,10,0.570453081838577,0.5514567912210375,0.37967041617665637,1.0,0.0
+mcp:20240703-M-Wimbledon-R64-Tommy_Paul-Otto_Virtanen,2024-07-03,mcp,Grass,Tommy Paul,Otto Virtanen,50,0.8291687909731329,0.6752081638592908,0.42223203206163623,1.0,0.0
+mcp:20240704-M-Wimbledon-R64-Giovanni_Mpetshi_Perricard-Yoshihito_Nishioka,2024-07-04,mcp,Grass,Giovanni Mpetshi Perricard,Yoshihito Nishioka,30,0.572007543082779,0.5500804161746856,0.43087448273583484,1.0,0.0
+mcp:20240708-M-Wimbledon-R16-Lorenzo_Musetti-Giovanni_Mpetshi_Perricard,2024-07-08,mcp,Grass,Lorenzo Musetti,Giovanni Mpetshi Perricard,40,0.636150206511989,0.47756734936062445,0.46480088138714726,1.0,0.0
+mcp:20240710-M-Wimbledon-QF-Taylor_Fritz-Lorenzo_Musetti,2024-07-10,mcp,Grass,Taylor Fritz,Lorenzo Musetti,20,0.6341406938085724,0.6246600598747624,0.42211086649736207,0.0,1.0
+mcp:20240716-M-Newport-R32-Rinky_Hijikata-Mackenzie_Mcdonald,2024-07-16,mcp,Grass,Rinky Hijikata,Mackenzie Mcdonald,40,0.6108890436491765,0.5269724632868302,0.24093931594497356,0.0,1.0
+mcp:20240725-M-Atlanta-R16-Ben_Shelton-Juncheng_Shang,2024-07-25,mcp,Hard,Ben Shelton,Juncheng Shang,30,0.602964853178142,0.5973391477206166,0.48667628835634735,0.0,1.0
+mcp:20240731-M-Paris_Olympics-R16-Stefanos_Tsitsipas-Sebastian_Baez,2024-07-31,mcp,Clay,Stefanos Tsitsipas,Sebastian Baez,10,0.6944219573125785,0.5476432225497813,0.30917621172289056,1.0,0.0
+mcp:20240808-M-Canada_Masters-R32-Andrey_Rublev-Tomas_Martin_Etcheverry,2024-08-08,mcp,Hard,Andrey Rublev,Tomas Martin Etcheverry,10,0.7647177116155267,0.6131414821591241,0.44705091714839607,1.0,0.0
+mcp:20240808-M-Canada_Masters-R32-Stefanos_Tsitsipas-Kei_Nishikori,2024-08-08,mcp,Hard,Stefanos Tsitsipas,Kei Nishikori,30,0.890596782036789,0.6459939567107237,0.3688790908750663,0.0,1.0
+mcp:20240808-M-Canada_Masters-R64-Gael_Monfils-Thanasi_Kokkinakis,2024-08-08,mcp,Hard,Gael Monfils,Thanasi Kokkinakis,30,0.5903538212991004,0.3958423704832075,0.2240614605855807,0.0,1.0
+mcp:20240810-M-Canada_Masters-R16-Hubert_Hurkacz-Arthur_Rinderknech,2024-08-10,mcp,Hard,Hubert Hurkacz,Arthur Rinderknech,10,0.7085613787508396,0.5458670767298666,0.4570877605848297,1.0,0.0
+mcp:20240810-M-Canada_Masters-R64-Hubert_Hurkacz-Thanasi_Kokkinakis,2024-08-10,mcp,Hard,Hubert Hurkacz,Thanasi Kokkinakis,50,0.715568188658007,0.46658270655232026,0.2715678135182028,1.0,0.0
+mcp:20240811-M-Canada_Masters-QF-Alexander_Zverev-Sebastian_Korda,2024-08-11,mcp,Hard,Alexander Zverev,Sebastian Korda,70,0.717628869726876,0.6129858802213421,0.44791225084958347,0.0,1.0
+mcp:20240811-M-Canada_Masters-QF-Hubert_Hurkacz-Alexei_Popyrin,2024-08-11,mcp,Hard,Hubert Hurkacz,Alexei Popyrin,20,0.6335241243012222,0.4935210835192164,0.45136715280503215,0.0,1.0
+mcp:20240812-M-Canada_Masters-F-Andrey_Rublev-Alexei_Popyrin,2024-08-12,mcp,Hard,Andrey Rublev,Alexei Popyrin,10,0.7372418346364532,0.5812716891567569,0.45582469750337873,0.0,1.0
+mcp:20240815-M-Cincinnati_Masters-R32-Hubert_Hurkacz-Yoshihito_Nishioka,2024-08-15,mcp,Hard,Hubert Hurkacz,Yoshihito Nishioka,40,0.6971371361850859,0.6278716863943243,0.42422849803805684,1.0,0.0
+mcp:20240815-M-Cincinnati_Masters-R32-Lorenzo_Musetti-Frances_Tiafoe,2024-08-15,mcp,Hard,Lorenzo Musetti,Frances Tiafoe,40,0.5441741669966778,0.49492578664169357,0.35987914223303763,0.0,1.0
+mcp:20240818-M-Cincinnati_Masters-SF-Jannik_Sinner-Alexander_Zverev,2024-08-18,mcp,Hard,Jannik Sinner,Alexander Zverev,20,0.5797977649099306,0.43385814642321485,0.3637817637906808,1.0,0.0
+mcp:20240826-M-US_Open-R128-Gael_Monfils-Diego_Schwartzman,2024-08-26,mcp,Hard,Gael Monfils,Diego Schwartzman,60,0.7890991247245859,0.7209441022179431,0.46280051288989266,1.0,0.0
+mcp:20240826-M-US_Open-R128-Giovanni_Mpetshi_Perricard-Tomas_Martin_Etcheverry,2024-08-26,mcp,Hard,Giovanni Mpetshi Perricard,Tomas Martin Etcheverry,10,0.5015272841597163,0.5099201099703476,0.4573283453289364,0.0,1.0
+mcp:20240826-M-US_Open-R128-Pedro_Martinez-Maks_Kasnikowski,2024-08-26,mcp,Hard,Pedro Martinez,Maks Kasnikowski,10,0.5378028687790689,0.5329081186442316,0.41976534831280937,1.0,0.0
+mcp:20240827-M-US_Open-R128-Stan_Wawrinka-Mattia_Bellucci,2024-08-27,mcp,Hard,Stan Wawrinka,Mattia Bellucci,20,0.5281778302998283,0.5076966011003197,0.38513163107413617,0.0,1.0
+mcp:20240827-M-US_Open-R128-Stefanos_Tsitsipas-Thanasi_Kokkinakis,2024-08-27,mcp,Hard,Stefanos Tsitsipas,Thanasi Kokkinakis,40,0.716571089511399,0.5667334292035205,0.4778904340583402,0.0,1.0
+mcp:20240828-M-US_Open-R64-Lorenzo_Musetti-Miomir_Kecmanovic,2024-08-28,mcp,Hard,Lorenzo Musetti,Miomir Kecmanovic,10,0.6353137584282378,0.590642762637605,0.38537444131465726,1.0,0.0
+mcp:20240830-M-US_Open-R32-Ben_Shelton-Frances_Tiafoe,2024-08-30,mcp,Hard,Ben Shelton,Frances Tiafoe,10,0.5486859029048814,0.5510449264441263,0.4858360511314225,0.0,1.0
+mcp:20240902-M-US_Open-R16-Jannik_Sinner-Tommy_Paul,2024-09-02,mcp,Hard,Jannik Sinner,Tommy Paul,30,0.8925071283650595,0.7622832201455276,0.4149236350112774,1.0,0.0
+mcp:20240906-M-US_Open-SF-Taylor_Fritz-Frances_Tiafoe,2024-09-06,mcp,Hard,Taylor Fritz,Frances Tiafoe,50,0.6506077163740889,0.5071149004106746,0.3320013703179015,1.0,0.0
+mcp:20240910-M-Davis_Cup_World_Group-RR-Botic_Van_De_Zandschulp-Raphael_Collignon,2024-09-10,mcp,Hard,Botic Van De Zandschulp,Raphael Collignon,20,0.6393575871310454,0.6323110332904875,0.443814056967679,1.0,0.0
+mcp:20240910-M-Davis_Cup_World_Group-RR-Tallon_Griekspoor-Zizou_Bergs,2024-09-10,mcp,Hard,Tallon Griekspoor,Zizou Bergs,10,0.6149765994923662,0.44652696715003565,0.23762278082154076,0.0,1.0
+mcp:20240920-M-Chengdu-R16-Giovanni_Mpetshi_Perricard-Yannick_Hanfmann,2024-09-20,mcp,Hard,Giovanni Mpetshi Perricard,Yannick Hanfmann,20,0.5898275036232812,0.40274914958325636,0.22897110461611023,0.0,1.0
+mcp:20240926-M-Tokyo-R32-Taylor_Fritz-Arthur_Fils,2024-09-26,mcp,Hard,Taylor Fritz,Arthur Fils,50,0.7800055699003935,0.5644454193299024,0.4476809388421323,0.0,1.0
+mcp:20241001-M-Tokyo-F-Ugo_Humbert-Arthur_Fils,2024-10-01,mcp,Hard,Ugo Humbert,Arthur Fils,20,0.6371729001268113,0.6307421497800776,0.47178457790224393,0.0,1.0
+mcp:20241003-M-Shanghai_Masters-R128-Giovanni_Mpetshi_Perricard-Stan_Wawrinka,2024-10-03,mcp,Hard,Giovanni Mpetshi Perricard,Stan Wawrinka,60,0.5319015262180298,0.5137744819582669,0.47701906469827915,0.0,1.0
+mcp:20241018-M-Antwerp-QF-Stefanos_Tsitsipas-Jiri_Lehecka,2024-10-18,mcp,Hard,Stefanos Tsitsipas,Jiri Lehecka,30,0.5016952713255705,0.49082470746241813,0.37927521285335186,0.0,1.0
+mcp:20241022-M-Vienna-R32-Luciano_Darderi-Dominic_Thiem,2024-10-22,mcp,Hard,Luciano Darderi,Dominic Thiem,20,0.5534436500134363,0.523958747476728,0.43305551513495333,1.0,0.0
+mcp:20241025-M-Basel-QF-Arthur_Fils-Stefanos_Tsitsipas,2024-10-25,mcp,Hard,Arthur Fils,Stefanos Tsitsipas,10,0.5455940924452978,0.5207988838183982,0.46346185765351755,1.0,0.0
+mcp:20241026-M-Basel-SF-Ben_Shelton-Arthur_Fils,2024-10-26,mcp,Hard,Ben Shelton,Arthur Fils,10,0.5029812601070355,0.4983638928845134,0.4382896141153769,1.0,0.0
+mcp:20241029-M-Paris_Masters-R64-Hubert_Hurkacz-Alex_Michelsen,2024-10-29,mcp,Hard,Hubert Hurkacz,Alex Michelsen,10,0.5836546893883053,0.4211521739655413,0.22585469510146672,0.0,1.0
+mcp:20241031-M-Paris_Masters-R16-Karen_Khachanov-Alexei_Popyrin,2024-10-31,mcp,Hard,Karen Khachanov,Alexei Popyrin,10,0.5970594737688067,0.47345591742918347,0.4155056666005932,1.0,0.0
+mcp:20241112-M-Tour_Finals-RR-Alex_De_Minaur-Daniil_Medvedev,2024-11-12,mcp,Hard,Alex De Minaur,Daniil Medvedev,30,0.565337096429974,0.4402983898717244,0.37851137699689585,0.0,1.0
+mcp:20241119-M-Davis_Cup_Finals-QF-Rafael_Nadal-Botic_Van_De_Zandschulp,2024-11-19,mcp,Hard,Rafael Nadal,Botic Van De Zandschulp,40,0.5298270501602023,0.5503298953536625,0.44126287137808684,0.0,1.0
+mcp:20241121-M-Davis_Cup_Finals-RR-Ben_Shelton-Thanasi_Kokkinakis,2024-11-21,mcp,Hard,Ben Shelton,Thanasi Kokkinakis,20,0.7073979338696383,0.5132858535065898,0.39412186002827787,0.0,1.0
+mcp:20241122-M-Davis_Cup_Finals-RR-Tallon_Griekspoor-Jan_Lennard_Struff,2024-11-22,mcp,Hard,Tallon Griekspoor,Jan Lennard Struff,40,0.5954368629576873,0.5532583984663022,0.4164128687897085,1.0,0.0
+mcp:20241230-M-Brisbane-R32-Holger_Rune-Jiri_Lehecka,2024-12-30,mcp,Hard,Holger Rune,Jiri Lehecka,30,0.6534611415696407,0.4648723720319781,0.39074280133961137,0.0,1.0
+mcp:20241230-M-Hong_Kong-R32-Brandon_Nakashima-Lorenzo_Sonego,2024-12-30,mcp,Hard,Brandon Nakashima,Lorenzo Sonego,70,0.619556455914893,0.3978558992871081,0.3407455993248486,0.0,1.0
+mcp:20241230-M-United_Cup-RR-Casper_Ruud-Hubert_Hurkacz,2024-12-30,mcp,Hard,Casper Ruud,Hubert Hurkacz,10,0.5592071155141466,0.5344532607917741,0.38493408023032727,1.0,0.0
+mcp:20250110-M-Auckland-SF-Gael_Monfils-Nishesh_Basavareddy,2025-01-10,mcp,Hard,Gael Monfils,Nishesh Basavareddy,80,0.6917932211894974,0.5726849118916741,0.3567528933412735,1.0,0.0
+mcp:20250113-M-Australian_Open-R128-Alex_Michelsen-Stefanos_Tsitsipas,2025-01-13,mcp,Hard,Alex Michelsen,Stefanos Tsitsipas,10,0.5337844228144631,0.5333029758639753,0.35912747226273545,1.0,0.0
+mcp:20250114-M-Australian_Open-R128-Andrey_Rublev-Joao_Fonseca,2025-01-14,mcp,Hard,Andrey Rublev,Joao Fonseca,30,0.6126916794327917,0.607710479381395,0.4594733393868714,0.0,1.0
+mcp:20250114-M-Australian_Open-R128-Hubert_Hurkacz-Tallon_Griekspoor,2025-01-14,mcp,Hard,Hubert Hurkacz,Tallon Griekspoor,10,0.6209955429734427,0.6194295292681655,0.4437552501135048,1.0,0.0
+mcp:20250116-M-Australian_Open-R64-Gael_Monfils-Daniel_Altmaier,2025-01-16,mcp,Hard,Gael Monfils,Daniel Altmaier,50,0.8138604554711566,0.6812294603900824,0.4033874997168554,1.0,0.0
+mcp:20250116-M-Australian_Open-R64-Hubert_Hurkacz-Miomir_Kecmanovic,2025-01-16,mcp,Hard,Hubert Hurkacz,Miomir Kecmanovic,10,0.6942382504370762,0.5811101783972306,0.3526521904349611,0.0,1.0
+mcp:20250121-M-Australian_Open-QF-Alexander_Zverev-Tommy_Paul,2025-01-21,mcp,Hard,Alexander Zverev,Tommy Paul,60,0.7498886397244671,0.6268907661826559,0.25133963730874254,1.0,0.0
+mcp:20250128-M-Montpellier-R32-Richard_Gasquet-Adrian_Mannarino,2025-01-28,mcp,Hard,Richard Gasquet,Adrian Mannarino,10,0.5112222136095915,0.5109483122848578,0.44918824089873477,1.0,0.0
+mcp:20250130-M-Montpellier-R16-Tallon_Griekspoor-Richard_Gasquet,2025-01-30,mcp,Hard,Tallon Griekspoor,Richard Gasquet,30,0.6201765464133141,0.6035596219122576,0.47137096705882864,1.0,0.0
+mcp:20250207-M-Rotterdam-QF-Stefanos_Tsitsipas-Mattia_Bellucci,2025-02-07,mcp,Hard,Stefanos Tsitsipas,Mattia Bellucci,60,0.7039347438556571,0.4581851504864486,0.45023021913820077,0.0,1.0
+mcp:20250209-M-Dallas-F-Casper_Ruud-Denis_Shapovalov,2025-02-09,mcp,Hard,Casper Ruud,Denis Shapovalov,30,0.5671821140245263,0.5799123603477571,0.4861153955012183,0.0,1.0
+mcp:20250213-M-Marseille-R16-Hubert_Hurkacz-Zhizhen_Zhang,2025-02-13,mcp,Hard,Hubert Hurkacz,Zhizhen Zhang,10,0.7591444891327246,0.5932561860311816,0.3775166394617411,0.0,1.0
+mcp:20250216-M-Delray_Beach-F-Alejandro_Davidovich_Fokina-Miomir_Kecmanovic,2025-02-16,mcp,Hard,Alejandro Davidovich Fokina,Miomir Kecmanovic,10,0.5031601387750749,0.5115977550261205,0.4564953495630013,0.0,1.0
+mcp:20250218-M-Doha-R32-Stefanos_Tsitsipas-Hamad_Medjedovic,2025-02-18,mcp,Hard,Stefanos Tsitsipas,Hamad Medjedovic,10,0.502418143922834,0.4785984447045085,0.4468084605258664,0.0,1.0
+mcp:20250222-M-Doha-F-Andrey_Rublev-Jack_Draper,2025-02-22,mcp,Hard,Andrey Rublev,Jack Draper,10,0.5146530292265302,0.5188551456522409,0.4645426107437973,1.0,0.0
+mcp:20250224-M-Dubai-R32-Giovanni_Mpetshi_Perricard-Zhizhen_Zhang,2025-02-24,mcp,Hard,Giovanni Mpetshi Perricard,Zhizhen Zhang,20,0.5655763494787851,0.5531835375283188,0.48572335831331714,1.0,0.0
+mcp:20250225-M-Dubai-R32-Ugo_Humbert-Jiri_Lehecka,2025-02-25,mcp,Hard,Ugo Humbert,Jiri Lehecka,20,0.5524969812796393,0.49420746245594527,0.41095906293562023,1.0,0.0
+mcp:20250305-M-Indian_Wells_Masters-R128-Tallon_Griekspoor-Miomir_Kecmanovic,2025-03-05,mcp,Hard,Tallon Griekspoor,Miomir Kecmanovic,10,0.514665643270658,0.5204580656412177,0.4616150553048155,1.0,0.0
+mcp:20250306-M-Indian_Wells_Masters-R128-Lorenzo_Sonego-David_Goffin,2025-03-06,mcp,Hard,Lorenzo Sonego,David Goffin,50,0.5423774317804242,0.4832843896672179,0.37613018617200883,0.0,1.0
+mcp:20250307-M-Indian_Wells_Masters-R64-Lorenzo_Musetti-Roman_Safiullin,2025-03-07,mcp,Hard,Lorenzo Musetti,Roman Safiullin,40,0.5840254832223858,0.5468849901818185,0.423708568188378,1.0,0.0
+mcp:20250308-M-Indian_Wells_Masters-R64-Novak_Djokovic-Botic_Van_De_Zandschulp,2025-03-08,mcp,Hard,Novak Djokovic,Botic Van De Zandschulp,20,0.8851158154716311,0.7408904275472912,0.4027423768185202,0.0,1.0
+mcp:20250309-M-Indian_Wells_Masters-R32-Arthur_Fils-Lorenzo_Musetti,2025-03-09,mcp,Hard,Arthur Fils,Lorenzo Musetti,10,0.5867862893751913,0.42840727054891775,0.28516985530550987,1.0,0.0
+mcp:20250310-M-Indian_Wells_Masters-R32-Francisco_Cerundolo-Botic_Van_De_Zandschulp,2025-03-10,mcp,Hard,Francisco Cerundolo,Botic Van De Zandschulp,20,0.5922656311094439,0.47247957929964335,0.44512470263827975,1.0,0.0
+mcp:20250310-M-Indian_Wells_Masters-R32-Grigor_Dimitrov-Gael_Monfils,2025-03-10,mcp,Hard,Grigor Dimitrov,Gael Monfils,20,0.5565456860632954,0.5458156006584426,0.4991580235151571,1.0,0.0
+mcp:20250311-M-Indian_Wells_Masters-R16-Arthur_Fils-Marcos_Giron,2025-03-11,mcp,Hard,Arthur Fils,Marcos Giron,10,0.593510750524656,0.5913122657053602,0.46223946906162294,1.0,0.0
+mcp:20250311-M-Indian_Wells_Masters-R16-Stefanos_Tsitsipas-Holger_Rune,2025-03-11,mcp,Hard,Stefanos Tsitsipas,Holger Rune,20,0.5529056623690591,0.46282304331464474,0.35562759561960244,0.0,1.0
+mcp:20250313-M-Indian_Wells_Masters-QF-Holger_Rune-Tallon_Griekspoor,2025-03-13,mcp,Hard,Holger Rune,Tallon Griekspoor,30,0.5892061716953123,0.5211410743779629,0.40162155729282734,1.0,0.0
+mcp:20250315-M-Indian_Wells_Masters-SF-Daniil_Medvedev-Holger_Rune,2025-03-15,mcp,Hard,Daniil Medvedev,Holger Rune,80,0.7485050571917424,0.48824567467675845,0.3463493699588472,0.0,1.0
+mcp:20250319-M-Miami_Masters-R128-Francisco_Comesana-Federico_Cina,2025-03-19,mcp,Hard,Francisco Comesana,Federico Cina,10,0.6470683938220237,0.4915340526853068,0.27177324488810584,0.0,1.0
+mcp:20250322-M-Miami_Masters-R64-Ugo_Humbert-Joao_Fonseca,2025-03-22,mcp,Hard,Ugo Humbert,Joao Fonseca,10,0.665706873861538,0.5134312727816466,0.37034185375422246,0.0,1.0
+mcp:20250323-M-Miami_Masters-R32-Gael_Monfils-Jaume_Munar,2025-03-23,mcp,Hard,Gael Monfils,Jaume Munar,40,0.6653478254736322,0.648344455880635,0.475169442630343,1.0,0.0
+mcp:20250324-M-Miami_Masters-R32-Alex_De_Minaur-Joao_Fonseca,2025-03-24,mcp,Hard,Alex De Minaur,Joao Fonseca,50,0.7440282787381697,0.6312012654700836,0.48832911899592896,1.0,0.0
+mcp:20250324-M-Miami_Masters-R32-Taylor_Fritz-Denis_Shapovalov,2025-03-24,mcp,Hard,Taylor Fritz,Denis Shapovalov,60,0.6722513182167962,0.5678643068506747,0.38460829013788156,1.0,0.0
+mcp:20250326-M-Miami_Masters-QF-Grigor_Dimitrov-Francisco_Cerundolo,2025-03-26,mcp,Hard,Grigor Dimitrov,Francisco Cerundolo,10,0.5286861211988302,0.4160688642563818,0.31516682913713845,1.0,0.0
+mcp:20250405-M-Marrakech-SF-Tallon_Griekspoor-Kamil_Majchrzak,2025-04-05,mcp,Clay,Tallon Griekspoor,Kamil Majchrzak,20,0.6512187046787856,0.5898914630447464,0.42783784027963073,1.0,0.0
+mcp:20250406-M-Bucharest-F-Sebastian_Baez-Flavio_Cobolli,2025-04-06,mcp,Clay,Sebastian Baez,Flavio Cobolli,20,0.5301385718211731,0.47436824637847513,0.4984152885970012,0.0,1.0
+mcp:20250408-M-Monte_Carlo_Masters-R32-Stefanos_Tsitsipas-Jordan_Thompson,2025-04-08,mcp,Clay,Stefanos Tsitsipas,Jordan Thompson,50,0.8411054097610703,0.6134376086152162,0.3801351138452794,1.0,0.0
+mcp:20250409-M-Monte_Carlo_Masters-R32-Lorenzo_Musetti-Jiri_Lehecka,2025-04-09,mcp,Clay,Lorenzo Musetti,Jiri Lehecka,20,0.5197105978654166,0.380342225655279,0.2499021193334169,1.0,0.0
+mcp:20250410-M-Monte_Carlo_Masters-R16-Casper_Ruud-Alexei_Popyrin,2025-04-10,mcp,Clay,Casper Ruud,Alexei Popyrin,70,0.708710976774259,0.4925962277016813,0.461174480140752,0.0,1.0
+mcp:20250411-M-Monte_Carlo_Masters-QF-Carlos_Alcaraz-Arthur_Fils,2025-04-11,mcp,Clay,Carlos Alcaraz,Arthur Fils,10,0.7506705886285547,0.6175931898369282,0.4472657162180298,1.0,0.0
+mcp:20250412-M-Monte_Carlo_Masters-SF-Lorenzo_Musetti-Alex_De_Minaur,2025-04-12,mcp,Clay,Lorenzo Musetti,Alex De Minaur,10,0.5050887569652636,0.4481474049183871,0.4617267725997642,1.0,0.0
+mcp:20250418-M-Barcelona-QF-Casper_Ruud-Holger_Rune,2025-04-18,mcp,Clay,Casper Ruud,Holger Rune,10,0.6083708218389162,0.49172173647386225,0.4227023528464638,0.0,1.0
+mcp:20250425-M-Madrid_Masters-R64-Hubert_Hurkacz-Benjamin_Bonzi,2025-04-25,mcp,Clay,Hubert Hurkacz,Benjamin Bonzi,50,0.7232871174623056,0.48923626535680653,0.3503990020610655,0.0,1.0
+mcp:20250427-M-Madrid_Masters-R32-Andrey_Rublev-Alexander_Bublik,2025-04-27,mcp,Clay,Andrey Rublev,Alexander Bublik,30,0.7758488785766702,0.5900524452951426,0.431106020065891,0.0,1.0
+mcp:20250429-M-Madrid_Masters-R32-Stefanos_Tsitsipas-Lorenzo_Musetti,2025-04-29,mcp,Clay,Stefanos Tsitsipas,Lorenzo Musetti,70,0.5046366982607747,0.449645504153429,0.3903946642083522,0.0,1.0
+mcp:20250507-M-Rome_Masters-R128-Tallon_Griekspoor-Miomir_Kecmanovic,2025-05-07,mcp,Clay,Tallon Griekspoor,Miomir Kecmanovic,10,0.5366572512639616,0.5357679146213739,0.4790067867856686,1.0,0.0
+mcp:20250510-M-Rome_Masters-R64-Ben_Shelton-Jaume_Munar,2025-05-10,mcp,Clay,Ben Shelton,Jaume Munar,40,0.6297350423283108,0.44532948006581186,0.29683851544179773,0.0,1.0
+mcp:20250511-M-Rome_Masters-R32-Holger_Rune-Corentin_Moutet,2025-05-11,mcp,Clay,Holger Rune,Corentin Moutet,80,0.7958952882839362,0.5404638989785937,0.39737981256370386,0.0,1.0
+mcp:20250513-M-Rome_Masters-R16-Jakub_Mensik-Hubert_Hurkacz,2025-05-13,mcp,Clay,Jakub Mensik,Hubert Hurkacz,80,0.6465711471842686,0.4275352394968538,0.2851589094554196,0.0,1.0
+mcp:20250525-M-Roland_Garros-R128-Ben_Shelton-Lorenzo_Sonego,2025-05-25,mcp,Clay,Ben Shelton,Lorenzo Sonego,40,0.6837830520576436,0.6219917296151294,0.36828395233368133,1.0,0.0
+mcp:20250525-M-Roland_Garros-R128-Brandon_Nakashima-Mariano_Navone,2025-05-25,mcp,Clay,Brandon Nakashima,Mariano Navone,30,0.5537224826989406,0.552043587415141,0.45650131868262084,0.0,1.0
+mcp:20250525-M-Roland_Garros-R128-Giovanni_Mpetshi_Perricard-Zizou_Bergs,2025-05-25,mcp,Clay,Giovanni Mpetshi Perricard,Zizou Bergs,10,0.5766231024747674,0.4485749373234296,0.26488080322487384,1.0,0.0
+mcp:20250525-M-Roland_Garros-R128-Tommy_Paul-Elmer_Moller,2025-05-25,mcp,Clay,Tommy Paul,Elmer Moller,40,0.7518043646955321,0.628138892837961,0.4494609864747263,1.0,0.0
+mcp:20250525-M-Roland_Garros-R128-Valentin_Royer-Daniel_Elahi_Galan,2025-05-25,mcp,Clay,Valentin Royer,Daniel Elahi Galan,40,0.6297701940865419,0.6157918634405029,0.445464270115715,0.0,1.0
+mcp:20250526-M-Roland_Garros-R128-Alejandro_Tabilo-Arthur_Cazaux,2025-05-26,mcp,Clay,Alejandro Tabilo,Arthur Cazaux,60,0.5449053979567461,0.5414234874267496,0.4016938853732063,1.0,0.0
+mcp:20250526-M-Roland_Garros-R128-Terence_Atmane-Richard_Gasquet,2025-05-26,mcp,Clay,Terence Atmane,Richard Gasquet,10,0.5545664538882036,0.4563097914988855,0.3326189705879742,0.0,1.0
+mcp:20250527-M-Roland_Garros-R128-Hubert_Hurkacz-Joao_Fonseca,2025-05-27,mcp,Clay,Hubert Hurkacz,Joao Fonseca,20,0.6388199576568311,0.5236124687787334,0.2946224120842609,0.0,1.0
+mcp:20250529-M-Roland_Garros-R64-Arthur_Fils-Jaume_Munar,2025-05-29,mcp,Clay,Arthur Fils,Jaume Munar,10,0.7106918734975904,0.6145468491390854,0.34222199380000673,1.0,0.0
+mcp:20250529-M-Roland_Garros-R64-Tallon_Griekspoor-Gabriel_Diallo,2025-05-29,mcp,Clay,Tallon Griekspoor,Gabriel Diallo,10,0.5029967453787018,0.49992769278429167,0.4204197754475254,1.0,0.0
+mcp:20250530-M-Roland_Garros-R32-Sebastian_Korda-Frances_Tiafoe,2025-05-30,mcp,Clay,Sebastian Korda,Frances Tiafoe,90,0.5544571395413813,0.4561695467590978,0.42337908283247067,0.0,1.0
+mcp:20250530-M-Roland_Garros-R32-Tommy_Paul-Karen_Khachanov,2025-05-30,mcp,Clay,Tommy Paul,Karen Khachanov,20,0.5516015520259379,0.5500086726105745,0.43868568895974874,1.0,0.0
+mcp:20250531-M-Roland_Garros-R32-Tallon_Griekspoor-Ethan_Quinn,2025-05-31,mcp,Clay,Tallon Griekspoor,Ethan Quinn,10,0.6847848424230438,0.6657368749671854,0.4854384241097519,1.0,0.0
+mcp:20250604-M-Roland_Garros-QF-Novak_Djokovic-Alexander_Zverev,2025-06-04,mcp,Clay,Novak Djokovic,Alexander Zverev,10,0.5413004542931982,0.4325872944190944,0.2860517558200703,1.0,0.0
+mcp:20250608-M-Roland_Garros-F-Jannik_Sinner-Carlos_Alcaraz,2025-06-08,mcp,Clay,Jannik Sinner,Carlos Alcaraz,10,0.5211523282769195,0.515998935827976,0.41427108043596783,0.0,1.0
+mcp:20250614-M-Stuttgart-SF-Taylor_Fritz-Felix_Auger_Aliassime,2025-06-14,mcp,Grass,Taylor Fritz,Felix Auger Aliassime,30,0.5802425833006407,0.5486452550978911,0.43930347588907864,1.0,0.0
+mcp:20250621-M-Halle-SF-Alexander_Zverev-Daniil_Medvedev,2025-06-21,mcp,Grass,Alexander Zverev,Daniil Medvedev,60,0.6335543540074127,0.567764392030325,0.49289611618409546,0.0,1.0
+mcp:20250622-M-Halle-F-Alexander_Bublik-Daniil_Medvedev,2025-06-22,mcp,Grass,Alexander Bublik,Daniil Medvedev,10,0.5082273823316055,0.5132626169295609,0.4740650555549455,1.0,0.0
+mcp:20250630-M-Wimbledon-R128-Alexei_Popyrin-Arthur_Fery,2025-06-30,mcp,Grass,Alexei Popyrin,Arthur Fery,40,0.8821354000050017,0.769116876973055,0.42465950157619997,0.0,1.0
+mcp:20250707-M-Wimbledon-R16-Novak_Djokovic-Alex_De_Minaur,2025-07-07,mcp,Grass,Novak Djokovic,Alex De Minaur,30,0.6943433798393136,0.5270351000453088,0.2960483725136655,1.0,0.0
+mcp:20250718-M-Gstaad-QF-Alexander_Bublik-Francisco_Comesana,2025-07-18,mcp,Clay,Alexander Bublik,Francisco Comesana,40,0.551533683311926,0.5422436322854968,0.44699948022312935,1.0,0.0
+mcp:20250719-M-Gstaad-SF-Juan_Manuel_Cerundolo-Ignacio_Buse,2025-07-19,mcp,Clay,Juan Manuel Cerundolo,Ignacio Buse,20,0.5493840079942303,0.5690243486511556,0.46926151717831366,1.0,0.0
+mcp:20250720-M-Gstaad-F-Alexander_Bublik-Juan_Manuel_Cerundolo,2025-07-20,mcp,Clay,Alexander Bublik,Juan Manuel Cerundolo,10,0.6444857272067306,0.5040701194028483,0.36357465119916615,1.0,0.0
+mcp:20250727-M-Washington-F-Alex_De_Minaur-Alejandro_Davidovich_Fokina,2025-07-27,mcp,Hard,Alex De Minaur,Alejandro Davidovich Fokina,20,0.6917740120192353,0.6393789561181912,0.4791906876504014,1.0,0.0
+mcp:20250801-M-Canada_Masters-R32-Jakub_Mensik-Alejandro_Davidovich_Fokina,2025-08-01,mcp,Hard,Jakub Mensik,Alejandro Davidovich Fokina,20,0.5636974464549681,0.4370804191635802,0.38074377785865016,0.0,1.0
+mcp:20250807-M-Canada_Masters-F-Ben_Shelton-Karen_Khachanov,2025-08-07,mcp,Hard,Ben Shelton,Karen Khachanov,30,0.60431172673968,0.5909179238208293,0.49933169541391353,1.0,0.0
+mcp:20250824-M-US_Open-R128-Adrian_Mannarino-Tallon_Griekspoor,2025-08-24,mcp,Hard,Adrian Mannarino,Tallon Griekspoor,20,0.5089843889541871,0.5140099893736408,0.4665515316352546,1.0,0.0
+mcp:20250907-M-US_Open-F-Jannik_Sinner-Carlos_Alcaraz,2025-09-07,mcp,Hard,Jannik Sinner,Carlos Alcaraz,10,0.5665645294923247,0.5605729484645288,0.46133675385823164,0.0,1.0
+mcp:20250912-M-Davis_Cup_Qualifiers-RR-Francisco_Cerundolo-Botic_Van_De_Zandschulp,2025-09-12,mcp,Hard,Francisco Cerundolo,Botic Van De Zandschulp,30,0.5411467802050531,0.42462701492848276,0.41856137755513356,1.0,0.0
+mcp:20250926-M-Tokyo-R16-Casper_Ruud-Matteo_Berrettini,2025-09-26,mcp,Hard,Casper Ruud,Matteo Berrettini,10,0.6136148188434558,0.6111013678479305,0.47667861710627446,1.0,0.0
+mcp:20250928-M-Beijing-QF-Daniil_Medvedev-Alexander_Zverev,2025-09-28,mcp,Hard,Daniil Medvedev,Alexander Zverev,20,0.5010528317651708,0.5027213036384542,0.42325740927075767,1.0,0.0
+mcp:20251002-M-Shanghai_Masters-R128-Jesper_De_Jong-Yi_Zhou,2025-10-02,mcp,Hard,Jesper De Jong,Yi Zhou,70,0.6471944245253267,0.6232110225066437,0.4579987471924319,1.0,0.0
+mcp:20251005-M-Shanghai_Masters-R32-Taylor_Fritz-Giovanni_Mpetshi_Perricard,2025-10-05,mcp,Hard,Taylor Fritz,Giovanni Mpetshi Perricard,40,0.8058628356643859,0.5874553123802511,0.4137955118614487,0.0,1.0
+mcp:20251010-M-Shanghai_Masters-QF-Alex_De_Minaur-Daniil_Medvedev,2025-10-10,mcp,Hard,Alex De Minaur,Daniil Medvedev,40,0.6630406482740043,0.4589359277962564,0.3077081946079697,0.0,1.0
+mcp:20251013-M-Stockholm-R32-Tallon_Griekspoor-Jacob_Fearnley,2025-10-13,mcp,Hard,Tallon Griekspoor,Jacob Fearnley,30,0.6495446292848188,0.45271985862832964,0.4440929529523516,0.0,1.0
+mcp:20251014-M-Almaty-R32-Brandon_Nakashima-Hamad_Medjedovic,2025-10-14,mcp,Hard,Brandon Nakashima,Hamad Medjedovic,30,0.5321037195835645,0.5312874676965741,0.47191146822345614,1.0,0.0
+mcp:20251015-M-Brussels-R16-Francisco_Comesana-Raphael_Collignon,2025-10-15,mcp,Hard,Francisco Comesana,Raphael Collignon,30,0.6034191847614541,0.5888244642502022,0.46786349476037137,0.0,1.0
+mcp:20251017-M-Brussels-QF-Lorenzo_Musetti-Giovanni_Mpetshi_Perricard,2025-10-17,mcp,Hard,Lorenzo Musetti,Giovanni Mpetshi Perricard,10,0.6701618389482222,0.49586895841329004,0.332904430395895,0.0,1.0
+mcp:20251017-M-Stockholm-QF-Casper_Ruud-Sebastian_Korda,2025-10-17,mcp,Hard,Casper Ruud,Sebastian Korda,60,0.5214213331089707,0.5284878155442344,0.4862541506049054,1.0,0.0
+mcp:20251018-M-Stockholm-SF-Casper_Ruud-Denis_Shapovalov,2025-10-18,mcp,Hard,Casper Ruud,Denis Shapovalov,10,0.5805993128000646,0.5551242785812347,0.48253403790533134,1.0,0.0
+mcp:20251019-M-Almaty-F-Daniil_Medvedev-Corentin_Moutet,2025-10-19,mcp,Hard,Daniil Medvedev,Corentin Moutet,10,0.7552510056704187,0.6211648433053558,0.4079629163131734,1.0,0.0
+mcp:20251021-M-Basel-R32-Giovanni_Mpetshi_Perricard-Joao_Fonseca,2025-10-21,mcp,Hard,Giovanni Mpetshi Perricard,Joao Fonseca,20,0.5219836606762328,0.5220376314595432,0.4583056526898151,0.0,1.0
+mcp:20251025-M-Basel-SF-Jaume_Munar-Joao_Fonseca,2025-10-25,mcp,Hard,Jaume Munar,Joao Fonseca,70,0.5834682332452921,0.5730324549427341,0.4584782999229574,0.0,1.0
+mcp:20251027-M-Paris_Masters-R64-Arthur_Cazaux-Luciano_Darderi,2025-10-27,mcp,Hard,Arthur Cazaux,Luciano Darderi,20,0.6231643043259627,0.6122880738504681,0.48958640620160204,1.0,0.0
+mcp:20251030-M-Paris_Masters-R16-Valentin_Vacherot-Cameron_Norrie,2025-10-30,mcp,Hard,Valentin Vacherot,Cameron Norrie,10,0.5890460377848312,0.5273665798886062,0.3668783811620246,1.0,0.0
+mcp:20251102-M-Athens-R32-Sebastian_Korda-Alexei_Popyrin,2025-11-02,mcp,Hard,Sebastian Korda,Alexei Popyrin,30,0.5763375778247917,0.3829101251834063,0.22543322144256175,1.0,0.0
+mcp:20251108-M-Athens-F-Novak_Djokovic-Lorenzo_Musetti,2025-11-08,mcp,Hard,Novak Djokovic,Lorenzo Musetti,20,0.6910362237413316,0.5178633852928697,0.3134803738281925,1.0,0.0
+mcp:20251110-M-Tour_Finals-RR-Taylor_Fritz-Lorenzo_Musetti,2025-11-10,mcp,Hard,Taylor Fritz,Lorenzo Musetti,10,0.5241928744246871,0.5236255607230458,0.39279928780662704,1.0,0.0
+mcp:20251111-M-Tour_Finals-RR-Alex_De_Minaur-Lorenzo_Musetti,2025-11-11,mcp,Hard,Alex De Minaur,Lorenzo Musetti,60,0.5879158840785991,0.563381148777894,0.48139128666500713,0.0,1.0
+mcp:20260107-M-Hong_Kong-R16-Lorenzo_Musetti-Tomas_Martin_Etcheverry,2026-01-07,mcp,Hard,Lorenzo Musetti,Tomas Martin Etcheverry,30,0.7272561204018999,0.6311222833659815,0.4713121176963684,1.0,0.0
+mcp:20260108-M-United_Cup-QF-Jakub_Mensik-Zizou_Bergs,2026-01-08,mcp,Hard,Jakub Mensik,Zizou Bergs,20,0.6880761848085072,0.4706217209650564,0.23275740474430068,0.0,1.0
+mcp:20260110-M-United_Cup-SF-Taylor_Fritz-Hubert_Hurkacz,2026-01-10,mcp,Hard,Taylor Fritz,Hubert Hurkacz,70,0.5717123755138216,0.5174479368271883,0.47095046880437574,0.0,1.0
+mcp:20260119-M-Australian_Open-R128-Brandon_Nakashima-Botic_Van_De_Zandschulp,2026-01-19,mcp,Hard,Brandon Nakashima,Botic Van De Zandschulp,10,0.6336995786463899,0.5219146730808384,0.2767253608341731,0.0,1.0
+mcp:20260119-M-Australian_Open-R128-Learner_Tien-Marcos_Giron,2026-01-19,mcp,Hard,Learner Tien,Marcos Giron,10,0.6576790564630322,0.557677075460232,0.4903298277322352,1.0,0.0
+mcp:20260119-M-Australian_Open-R128-Stan_Wawrinka-Laslo_Djere,2026-01-19,mcp,Hard,Stan Wawrinka,Laslo Djere,60,0.5917438502932018,0.46799934779010877,0.3316003969936655,1.0,0.0
+mcp:20260120-M-Australian_Open-R128-Hubert_Hurkacz-Zizou_Bergs,2026-01-20,mcp,Hard,Hubert Hurkacz,Zizou Bergs,40,0.6294533673447019,0.5975334257970958,0.4721020605329355,1.0,0.0
+mcp:20260122-M-Australian_Open-R64-Casper_Ruud-Jaume_Munar,2026-01-22,mcp,Hard,Casper Ruud,Jaume Munar,10,0.5676394153647013,0.5666576347959031,0.37203920753445374,1.0,0.0
+mcp:20260122-M-Australian_Open-R64-Hubert_Hurkacz-Ethan_Quinn,2026-01-22,mcp,Hard,Hubert Hurkacz,Ethan Quinn,30,0.7546112890827332,0.6266798651113754,0.3751476539199704,0.0,1.0
+mcp:20260123-M-Australian_Open-R32-Learner_Tien-Nuno_Borges,2026-01-23,mcp,Hard,Learner Tien,Nuno Borges,40,0.6406594046038423,0.5101722038839904,0.2977384633550118,1.0,0.0
+mcp:20260124-M-Australian_Open-R32-Jannik_Sinner-Eliot_Spizzirri,2026-01-24,mcp,Hard,Jannik Sinner,Eliot Spizzirri,50,0.9663092265337688,0.8751196565221995,0.49049286026199884,1.0,0.0
+mcp:20260125-M-Australian_Open-R16-Daniil_Medvedev-Learner_Tien,2026-01-25,mcp,Hard,Daniil Medvedev,Learner Tien,10,0.5986170370942828,0.49864978843920416,0.3707865274495191,0.0,1.0
+mcp:20260126-M-Australian_Open-R16-Taylor_Fritz-Lorenzo_Musetti,2026-01-26,mcp,Hard,Taylor Fritz,Lorenzo Musetti,30,0.5483999202365173,0.5168761461163303,0.376616147671877,0.0,1.0
+mcp:20260204-M-Montpellier-R32-Aleksandar_Kovacevic-Moise_Kouame,2026-02-04,mcp,Hard,Aleksandar Kovacevic,Moise Kouame,70,0.7135539380351741,0.4881609561489476,0.27555422475608204,1.0,0.0
+mcp:20260205-M-Montpellier-R16-Pablo_Carreno_Busta-Tallon_Griekspoor,2026-02-05,mcp,Hard,Pablo Carreno Busta,Tallon Griekspoor,10,0.5500647855943974,0.38665266310065594,0.21268669560851788,0.0,1.0
+mcp:20260209-M-Rotterdam-R32-Valentin_Royer-Christopher_Oconnell,2026-02-09,mcp,Hard,Valentin Royer,Christopher Oconnell,30,0.5847825159186202,0.4697118164681767,0.43476187166647984,0.0,1.0
+mcp:20260211-M-Rotterdam-R32-Marton_Fucsovics-Guy_Den_Ouden,2026-02-11,mcp,Hard,Marton Fucsovics,Guy Den Ouden,30,0.6412499115684577,0.47555752333107304,0.3005224566220887,0.0,1.0
+mcp:20260213-M-Rotterdam-QF-Jaume_Munar-Alexander_Bublik,2026-02-13,mcp,Hard,Jaume Munar,Alexander Bublik,10,0.5073779941427524,0.35885700528082165,0.21684004759188183,0.0,1.0
+mcp:20260215-M-Rotterdam-F-Alex_De_Minaur-Felix_Auger_Aliassime,2026-02-15,mcp,Hard,Alex De Minaur,Felix Auger Aliassime,20,0.5022548185721128,0.4979819232872667,0.4872672762714412,1.0,0.0
+mcp:20260218-M-Delray_Beach-R16-Casper_Ruud-Marcos_Giron,2026-02-18,mcp,Hard,Casper Ruud,Marcos Giron,30,0.6995662111080119,0.5341091182380052,0.3467318740095854,1.0,0.0
+mcp:20260220-M-Rio_de_Janeiro-QF-Juan_Manuel_Cerundolo-Vit_Kopriva,2026-02-20,mcp,Clay,Juan Manuel Cerundolo,Vit Kopriva,10,0.5289067985327869,0.39034981749471326,0.17295843951919848,0.0,1.0
+mcp:20260304-M-Indian_Wells_Masters-R128-Matteo_Berrettini-Adrian_Mannarino,2026-03-04,mcp,Hard,Matteo Berrettini,Adrian Mannarino,10,0.5282071719530397,0.5193997386685418,0.4490056504939234,1.0,0.0
+mcp:20260319-M-Miami_Masters-R128-Hubert_Hurkacz-Ethan_Quinn,2026-03-19,mcp,Hard,Hubert Hurkacz,Ethan Quinn,30,0.6612117396285843,0.48875120710876074,0.3998179827233326,0.0,1.0
+mcp:20260323-M-Miami_Masters-R32-Jakub_Mensik-Frances_Tiafoe,2026-03-23,mcp,Hard,Jakub Mensik,Frances Tiafoe,60,0.5896612832546095,0.543439517902105,0.4996581340695879,0.0,1.0
+mcp:20260325-M-Miami_Masters-QF-Arthur_Fils-Tommy_Paul,2026-03-25,mcp,Hard,Arthur Fils,Tommy Paul,20,0.5429705994283398,0.5408191674912617,0.45789291128817566,1.0,0.0
+mcp:20260405-M-Monte_Carlo_Masters-R64-Tallon_Griekspoor-Gael_Monfils,2026-04-05,mcp,Clay,Tallon Griekspoor,Gael Monfils,40,0.7311439144741538,0.5861431166581079,0.49284662289534864,0.0,1.0
+mcp:20260412-M-Monte_Carlo_Masters-F-Carlos_Alcaraz-Jannik_Sinner,2026-04-12,mcp,Clay,Carlos Alcaraz,Jannik Sinner,30,0.5777223326157759,0.5646524794055322,0.486389436776268,0.0,1.0
+mcp:20260418-M-Barcelona-SF-Rafael_Jodar-Arthur_Fils,2026-04-18,mcp,Clay,Rafael Jodar,Arthur Fils,40,0.5143381003509265,0.44676887680192395,0.34357466079469584,0.0,1.0
+mcp:20260419-M-Barcelona-F-Arthur_Fils-Andrey_Rublev,2026-04-19,mcp,Clay,Arthur Fils,Andrey Rublev,10,0.5754155976820295,0.42088178487819794,0.22049967315354144,1.0,0.0
+mcp:20260428-M-Madrid_Masters-R16-Casper_Ruud-Stefanos_Tsitsipas,2026-04-28,mcp,Clay,Casper Ruud,Stefanos Tsitsipas,70,0.6785894159417041,0.48360487732570423,0.47194463662123315,1.0,0.0
+mcp:20260507-M-Rome_Masters-R128-Stefanos_Tsitsipas-Tomas_Machac,2026-05-07,mcp,Clay,Stefanos Tsitsipas,Tomas Machac,20,0.5893633673835521,0.5330278192027553,0.43148243808782466,0.0,1.0
+slam:2023-usopen-1107,2023-08-25,slam,Hard,Thanasi Kokkinakis,Yu Hsiou Hsu,30,0.7477633521845761,0.5629520252011309,0.1467959516312113,0.0,1.0
+slam:2023-usopen-1110,2023-08-25,slam,Hard,Daniel Altmaier,Constant Lestienne,20,0.6073080895623835,0.5031860716969727,0.22577775686855697,1.0,0.0
+slam:2023-usopen-1114,2023-08-25,slam,Hard,Stan Wawrinka,Yoshihito Nishioka,10,0.5755862085182285,0.574504699906246,0.48659633792092144,1.0,0.0
+slam:2023-usopen-1123,2023-08-25,slam,Hard,Yibing Wu,Dusan Lajovic,30,0.5999778608710324,0.4915155211797033,0.35789599926438653,1.0,0.0
+slam:2023-usopen-1125,2023-08-25,slam,Hard,Karen Khachanov,Michael Mmoh,20,0.7122449423903895,0.5893711857673113,0.4920229073144194,0.0,1.0
+slam:2023-usopen-1133,2023-08-25,slam,Hard,Casper Ruud,Emilio Nava,40,0.7791807700493814,0.63808270020498,0.4391442968385593,1.0,0.0
+slam:2023-usopen-1134,2023-08-25,slam,Hard,J.J. Wolf,Zhizhen Zhang,30,0.6213259575451568,0.5635812818153723,0.37965003035599615,0.0,1.0
+slam:2023-usopen-1135,2023-08-25,slam,Hard,Rinky Hijikata,Pavel Kotov,30,0.593461521944123,0.49645614372762104,0.38646422386920437,1.0,0.0
+slam:2023-usopen-1138,2023-08-25,slam,Hard,Richard Gasquet,Fabian Marozsan,10,0.6742298112904291,0.5574323536800921,0.2914427611212845,0.0,1.0
+slam:2023-usopen-1139,2023-08-25,slam,Hard,Sebastian Ofner,Nuno Borges,10,0.5404966173759782,0.43165850940795036,0.21290556460112636,1.0,0.0
+slam:2023-usopen-1145,2023-08-25,slam,Hard,Alexander Bublik,Dominic Thiem,20,0.5298157780955708,0.47992697164260856,0.3172514608084255,0.0,1.0
+slam:2023-usopen-1151,2023-08-25,slam,Hard,Quentin Halys,Benjamin Bonzi,10,0.5209783249488241,0.5206889087854749,0.3503467966157944,0.0,1.0
+slam:2023-usopen-1153,2023-08-25,slam,Hard,Lorenzo Musetti,Titouan Droguet,50,0.7776267537817771,0.6913845936501463,0.4701718910701046,0.0,1.0
+slam:2023-usopen-1157,2023-08-25,slam,Hard,Felix Auger Aliassime,Mackenzie McDonald,30,0.5997931677206307,0.6085045757117592,0.48541290167803575,0.0,1.0
+slam:2023-usopen-1162,2023-08-25,slam,Hard,Sho Shimabukuro,Hugo Gaston,20,0.53352973581411,0.4163338712209167,0.24329763089472847,0.0,1.0
+slam:2023-usopen-1203,2023-08-25,slam,Hard,Arthur Fils,Matteo Arnaldi,10,0.5482711387149548,0.46542820607526203,0.38264349158947353,0.0,1.0
+slam:2023-usopen-1211,2023-08-25,slam,Hard,Nicolas Jarry,Alex Michelsen,10,0.5522117395532561,0.43982481027662423,0.32397062743665295,1.0,0.0
+slam:2023-usopen-1213,2023-08-25,slam,Hard,Michael Mmoh,John Isner,60,0.5066699845864243,0.3187721450984384,0.1585579076384609,1.0,0.0
+slam:2023-usopen-1217,2023-08-25,slam,Hard,Casper Ruud,Zhizhen Zhang,30,0.7173380894469593,0.6101129247125975,0.273649686174645,0.0,1.0
+slam:2023-usopen-1224,2023-08-25,slam,Hard,Aslan Karatsev,Roberto Carballes Baena,10,0.5534680886008998,0.5630733011312411,0.4888448577080017,1.0,0.0
+slam:2023-usopen-1229,2023-08-25,slam,Hard,Mackenzie McDonald,Borna Gojo,50,0.6550553253564706,0.5682697894854437,0.4536167105335918,0.0,1.0
+slam:2023-usopen-1303,2023-08-25,slam,Hard,Alexander Zverev,Grigor Dimitrov,10,0.6549483001417262,0.5969271718675502,0.4086001059523302,1.0,0.0
+slam:2023-usopen-1313,2023-08-25,slam,Hard,Dominic Stricker,Benjamin Bonzi,10,0.6106030503436647,0.4796673424578951,0.18824728764259197,1.0,0.0
+slam:2023-usopen-1403,2023-08-25,slam,Hard,Daniil Medvedev,Alex de Minaur,30,0.5857703676537512,0.5761188540948475,0.41242517814636426,1.0,0.0
+slam:2023-usopen-1502,2023-08-25,slam,Hard,Daniil Medvedev,Andrey Rublev,10,0.7155305008604893,0.5849281937256059,0.21653444625570023,1.0,0.0
+slam:2023-usopen-1503,2023-08-25,slam,Hard,Frances Tiafoe,Ben Shelton,40,0.6289174755484735,0.5051053281152098,0.3546181236679885,0.0,1.0
+slam:2023-wimbledon-1107,2023-07-01,slam,Grass,Matteo Berrettini,Lorenzo Sonego,20,0.5808006379305694,0.5604878773101658,0.42445763505056483,1.0,0.0
+slam:2023-wimbledon-1111,2023-07-01,slam,Grass,Ilya Ivashka,Federico Coria,50,0.6913892677979099,0.5210003662374159,0.4612363168239367,1.0,0.0
+slam:2023-wimbledon-1113,2023-07-01,slam,Grass,Alejandro Davidovich Fokina,Arthur Fils,20,0.612001474378809,0.545376720343126,0.3538160591002217,1.0,0.0
+slam:2023-wimbledon-1126,2023-07-01,slam,Grass,Christopher Eubanks,Thiago Monteiro,20,0.7049150160079896,0.5532946234099345,0.28294367709684254,1.0,0.0
+slam:2023-wimbledon-1130,2023-07-01,slam,Grass,Maxime Cressy,Laslo Djere,50,0.5946519950275635,0.5990928217772393,0.46830664913090175,0.0,1.0
+slam:2023-wimbledon-1134,2023-07-01,slam,Grass,Miomir Kecmanovic,Diego Schwartzman,30,0.6528492541993607,0.5092419888809806,0.33900747440530926,0.0,1.0
+slam:2023-wimbledon-1135,2023-07-01,slam,Grass,Aleksandar Vukic,Daniel Altmaier,20,0.6364907929811429,0.611387658847492,0.38838307170440073,1.0,0.0
+slam:2023-wimbledon-1137,2023-07-01,slam,Grass,Yoshihito Nishioka,Daniel Elahi Galan,10,0.6076159397682882,0.5974510386352616,0.4832698740370197,0.0,1.0
+slam:2023-wimbledon-1141,2023-07-01,slam,Grass,Borna Coric,Guido Pella,20,0.7836334950410734,0.6538115880510945,0.4148276277640903,0.0,1.0
+slam:2023-wimbledon-1142,2023-07-01,slam,Grass,Benjamin Bonzi,Harold Mayot,40,0.766329378572537,0.5989648639683273,0.308310900215996,0.0,1.0
+slam:2023-wimbledon-1147,2023-07-01,slam,Grass,Liam Broady,Constant Lestienne,10,0.5212852799490069,0.5294332207033111,0.47667393448022477,1.0,0.0
+slam:2023-wimbledon-1151,2023-07-01,slam,Grass,Sebastian Baez,Tomas Barrios Vera,30,0.6804133561448257,0.6491459232568534,0.3701925445557421,0.0,1.0
+slam:2023-wimbledon-1153,2023-07-01,slam,Grass,Alexander Bublik,Mackenzie McDonald,20,0.669187622590983,0.6247122284291167,0.4571253307643587,1.0,0.0
+slam:2023-wimbledon-1162,2023-07-01,slam,Grass,Emil Ruusuvuori,Stan Wawrinka,20,0.6689781118689191,0.6466662595577843,0.4571334974051895,0.0,1.0
+slam:2023-wimbledon-1163,2023-07-01,slam,Grass,Jordan Thompson,Brandon Nakashima,10,0.5019162341958028,0.37452585694907925,0.1834334137004563,1.0,0.0
+slam:2023-wimbledon-1211,2023-07-01,slam,Grass,Francisco Cerundolo,Jiri Lehecka,10,0.5301582279026199,0.4380554896325536,0.3405665820803223,0.0,1.0
+slam:2023-wimbledon-1213,2023-07-01,slam,Grass,Cameron Norrie,Christopher Eubanks,10,0.5490087252967527,0.5340896113151379,0.4891037333495327,0.0,1.0
+slam:2023-wimbledon-1222,2023-07-01,slam,Grass,Corentin Moutet,Roman Safiullin,10,0.5152626923749041,0.3962880687720272,0.16082468750279919,0.0,1.0
+slam:2023-wimbledon-1303,2023-07-01,slam,Grass,Frances Tiafoe,Grigor Dimitrov,30,0.5544035598240487,0.4567183623196848,0.30384394386597147,0.0,1.0
+slam:2023-wimbledon-1305,2023-07-01,slam,Grass,Daniil Medvedev,Marton Fucsovics,30,0.782135168285469,0.6683199625845121,0.4534750745278657,1.0,0.0
+slam:2023-wimbledon-1312,2023-07-01,slam,Grass,Denis Shapovalov,Liam Broady,70,0.7409507045162448,0.6664545727370373,0.44847108070259645,1.0,0.0
+slam:2023-wimbledon-1501,2023-07-01,slam,Grass,Carlos Alcaraz,Holger Rune,40,0.7143571216451388,0.6855474625257667,0.4703449183305777,1.0,0.0
+slam:2023-wimbledon-1701,2023-07-01,slam,Grass,Carlos Alcaraz,Novak Djokovic,10,0.5404004377713549,0.5210545763874468,0.4770026268774646,1.0,0.0
+slam:2024-usopen-1106,2024-08-25,slam,Hard,Jaume Munar,Gabriel Diallo,20,0.529529158358667,0.503157966159541,0.46289973488947184,0.0,1.0
+slam:2024-usopen-1109,2024-08-25,slam,Hard,Stefanos Tsitsipas,Thanasi Kokkinakis,40,0.716571089511399,0.5663857299179152,0.47738068154691427,0.0,1.0
+slam:2024-usopen-1118,2024-08-25,slam,Hard,Denis Shapovalov,Botic van De Zandschulp,30,0.6583973390250731,0.5845419147328301,0.3680858100406089,0.0,1.0
+slam:2024-usopen-1121,2024-08-25,slam,Hard,Alejandro Tabilo,David Goffin,90,0.6396662918639678,0.5053924362319595,0.4500586569220013,0.0,1.0
+slam:2024-usopen-1122,2024-08-25,slam,Hard,Borna Coric,Adrian Mannarino,10,0.5568260028080279,0.5382157962666356,0.48916901390490736,0.0,1.0
+slam:2024-usopen-1126,2024-08-25,slam,Hard,Otto Virtanen,Quentin Halys,10,0.5226452587402601,0.5223318693707191,0.4529758839764099,1.0,0.0
+slam:2024-usopen-1127,2024-08-25,slam,Hard,Mariano Navone,Daniel Altmaier,20,0.6162244378776787,0.5899388854174382,0.40337572423892404,1.0,0.0
+slam:2024-usopen-1134,2024-08-25,slam,Hard,Gael Monfils,Diego Schwartzman,60,0.7890991247245859,0.7209222625192836,0.46527326653370094,1.0,0.0
+slam:2024-usopen-1141,2024-08-25,slam,Hard,Holger Rune,Brandon Nakashima,30,0.6204676953790755,0.6031674599052306,0.4161477557722138,0.0,1.0
+slam:2024-usopen-1145,2024-08-25,slam,Hard,Francisco Cerundolo,Sebastian Ofner,10,0.6262665801330533,0.5476912456334087,0.35466855272655984,1.0,0.0
+slam:2024-usopen-1146,2024-08-25,slam,Hard,Giovanni Mpetshi Perricard,Tomas Martin Etcheverry,10,0.5015272841597163,0.5097984878426101,0.45465173613264687,0.0,1.0
+slam:2024-usopen-1151,2024-08-25,slam,Hard,Hugo Grenier,Mitchell Krueger,40,0.5038837323526325,0.6101928095570913,0.386901891173584,0.0,1.0
+slam:2024-usopen-1162,2024-08-25,slam,Hard,Pedro Martinez,Maks Kasnikowski,10,0.5378028687790689,0.5323129851875584,0.4225804206041972,1.0,0.0
+slam:2024-usopen-1205,2024-08-25,slam,Hard,Thanasi Kokkinakis,Nuno Borges,50,0.5103349203453956,0.3587369700996864,0.42114478468042504,0.0,1.0
+slam:2024-usopen-1207,2024-08-25,slam,Hard,Flavio Cobolli,Zizou Bergs,40,0.6656090454239751,0.5121569127028363,0.33975085673107847,1.0,0.0
+slam:2024-usopen-1211,2024-08-25,slam,Hard,David Goffin,Adrian Mannarino,10,0.5161800675075923,0.5046392416536463,0.4336026666428173,1.0,0.0
+slam:2024-usopen-1214,2024-08-25,slam,Hard,Mariano Navone,Daniel Evans,50,0.5998699153939319,0.500699031732952,0.1752983032588379,0.0,1.0
+slam:2024-usopen-1215,2024-08-25,slam,Hard,Matteo Arnaldi,Roman Safiullin,10,0.5184864351320497,0.4968316152908915,0.4316923061187596,1.0,0.0
+slam:2024-usopen-1217,2024-08-25,slam,Hard,Casper Ruud,Gael Monfils,10,0.5695784550429954,0.5454022154730158,0.4661643628411165,1.0,0.0
+slam:2024-usopen-1303,2024-08-25,slam,Hard,Nuno Borges,Jakub Mensik,70,0.5437059432260212,0.49704369693062006,0.4142453734060027,1.0,0.0
+slam:2024-usopen-1315,2024-08-25,slam,Hard,Ben Shelton,Frances Tiafoe,10,0.5486859029048814,0.5511140627220121,0.4874348007488977,0.0,1.0
+slam:2024-usopen-1401,2024-08-25,slam,Hard,Jannik Sinner,Tommy Paul,30,0.8925071283650595,0.7616709490828286,0.4177350686018902,1.0,0.0
+slam:2024-usopen-1403,2024-08-25,slam,Hard,Jack Draper,Tomas Machac,10,0.6486882944269643,0.6196893715615724,0.3753325893732863,1.0,0.0
+slam:2024-usopen-1407,2024-08-25,slam,Hard,Andrey Rublev,Grigor Dimitrov,20,0.5169330010981686,0.44997341403381036,0.29187818546413974,0.0,1.0
+slam:2024-usopen-1602,2024-08-25,slam,Hard,Taylor Fritz,Frances Tiafoe,50,0.6506077163740889,0.5086742416348874,0.33404214900805657,1.0,0.0
+slam:2024-wimbledon-1105,2024-07-01,slam,Grass,Nicolas Jarry,Denis Shapovalov,10,0.5886634615400247,0.5312299815161542,0.35404000854057727,0.0,1.0
+slam:2024-wimbledon-1106,2024-07-01,slam,Grass,Daniel Altmaier,Arthur Fery,50,0.5517675487505975,0.40302195858431744,0.36633788620171304,1.0,0.0
+slam:2024-wimbledon-1112,2024-07-01,slam,Grass,Gael Monfils,Adrian Mannarino,10,0.5587538706907099,0.5579373694709749,0.4808280041532169,1.0,0.0
+slam:2024-wimbledon-1114,2024-07-01,slam,Grass,Jan Lennard Struff,Fabian Marozsan,20,0.6685281586415198,0.5200324514178093,0.34541102894331555,1.0,0.0
+slam:2024-wimbledon-1127,2024-07-01,slam,Grass,Zizou Bergs,Arthur Cazaux,10,0.5528266100093328,0.4945812830207925,0.31118860519335256,0.0,1.0
+slam:2024-wimbledon-1133,2024-07-01,slam,Grass,Andrey Rublev,Francisco Comesana,50,0.8387701717930489,0.6899859404078154,0.46593264149258984,0.0,1.0
+slam:2024-wimbledon-1139,2024-07-01,slam,Grass,Emil Ruusuvuori,Mackenzie McDonald,40,0.6661647713256456,0.6314745400317887,0.45902458209606484,1.0,0.0
+slam:2024-wimbledon-1143,2024-07-01,slam,Grass,Flavio Cobolli,Rinky Hijikata,10,0.564582480225249,0.5376190718446264,0.316910939990408,1.0,0.0
+slam:2024-wimbledon-1152,2024-07-01,slam,Grass,Roman Safiullin,Francisco Cerundolo,20,0.5588747979469456,0.5580490663952762,0.486136165019213,1.0,0.0
+slam:2024-wimbledon-1163,2024-07-01,slam,Grass,Jacob Fearnley,Alejandro Moro Canas,20,0.5659161182121903,0.5511843957944729,0.49017913078211356,1.0,0.0
+slam:2024-wimbledon-1203,2024-07-01,slam,Grass,Denis Shapovalov,Daniel Altmaier,50,0.6802553929687132,0.6443158535017838,0.3939293698644186,1.0,0.0
+slam:2024-wimbledon-1205,2024-07-01,slam,Grass,Grigor Dimitrov,Juncheng Shang,60,0.7112638248776199,0.6071964253525068,0.38688789499457626,1.0,0.0
+slam:2024-wimbledon-1213,2024-07-01,slam,Grass,Tommy Paul,Otto Virtanen,50,0.8291687909731329,0.677943557395687,0.41948719403644147,1.0,0.0
+slam:2024-wimbledon-1215,2024-07-01,slam,Grass,Lorenzo Sonego,Roberto Bautista Agut,50,0.5819026152503648,0.40218234607358505,0.23886009651543885,0.0,1.0
+slam:2024-wimbledon-1217,2024-07-01,slam,Grass,Francisco Comesana,Adam Walton,40,0.523855157226349,0.49944286142698924,0.4228691031828659,1.0,0.0
+slam:2024-wimbledon-1219,2024-07-01,slam,Grass,Giovanni Mpetshi Perricard,Yoshihito Nishioka,30,0.572007543082779,0.5476982329090122,0.4365780454620255,1.0,0.0
+slam:2024-wimbledon-1308,2024-07-01,slam,Grass,Roberto Bautista Agut,Fabio Fognini,80,0.6504068412522918,0.5405884139939287,0.3925047096783228,1.0,0.0
+slam:2024-wimbledon-1310,2024-07-01,slam,Grass,Giovanni Mpetshi Perricard,Emil Ruusuvuori,20,0.5571290206306432,0.4184976423465798,0.3068580482900306,1.0,0.0
+slam:2024-wimbledon-1313,2024-07-01,slam,Grass,Arthur Fils,Roman Safiullin,60,0.5169710373463096,0.4554740951508156,0.35219046140927196,1.0,0.0
+slam:2024-wimbledon-1315,2024-07-01,slam,Grass,Holger Rune,Quentin Halys,10,0.6879110732220413,0.6097083073281818,0.4236070049124348,1.0,0.0
+slam:2024-wimbledon-1405,2024-07-01,slam,Grass,Lorenzo Musetti,Giovanni Mpetshi Perricard,40,0.636150206511989,0.48746304005615837,0.45055411457170974,1.0,0.0
+slam:2024-wimbledon-1502,2024-07-01,slam,Grass,Carlos Alcaraz,Tommy Paul,40,0.6276946731079285,0.5529118792475045,0.36953890877150725,1.0,0.0

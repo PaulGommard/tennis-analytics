@@ -1,0 +1,29 @@
+[chronology]
+# Ordered structural stages. F and BR share the same final-stage batch.
+ordered_rounds = ["Q1", "Q2", "Q3", "Q4", "RR", "ER", "R128", "R64", "R32", "R16", "QF", "SF", "F"]
+conservative_levels = ["D"]
+
+[search]
+k_values = [8, 12, 16, 20, 24, 28, 32, 36, 40, 48, 64]
+scale_values = [250, 300, 350, 400, 450, 500, 600]
+surface_c_values = [5, 10, 20, 30, 50, 75, 100]
+inactivity_threshold_days = [90, 180, 365]
+inactivity_strengths = [0.05, 0.10, 0.20]
+
+[evaluation]
+validation_start = "2019-01-01"
+validation_end = "2022-12-31"
+test_start = "2023-01-01"
+
+# Frozen after validation-only selection on 2019-2022. The pipeline recomputes
+# these values from the search grids and never reads this section for tuning.
+[selected]
+k_factor = 20
+scale = 300
+surface_c = 75
+raw_variant = "surface_shrinkage"
+inactivity_threshold_days = 90
+inactivity_strength = 0.10
+calibration = "platt"
+platt_intercept = -0.13046015485555887
+platt_slope = 1.0405030108413569

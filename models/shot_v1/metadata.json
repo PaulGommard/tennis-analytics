@@ -1,0 +1,16 @@
+{
+  "model_version": "shot_v1_logistic",
+  "checkpoints": [
+    1,
+    2,
+    3,
+    5
+  ],
+  "comparison_rows": 24,
+  "test_points_by_checkpoint": {
+    "1": 283075,
+    "2": 225399,
+    "3": 170208,
+    "5": 99364
+  }
+}

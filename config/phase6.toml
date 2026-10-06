@@ -1,0 +1,101 @@
+[protocol]
+validation_years = [2018, 2019, 2020, 2021, 2022]
+benchmark_start = "2023-01-01"
+random_seed = 20261006
+early_stopping_rounds = 75
+calibration_min_year = 2019
+shap_sample_size = 2000
+interaction_sample_size = 300
+permutation_repeats = 3
+
+# A compact, hypothesis-driven search. Every configuration is evaluated on all
+# five temporal folds and both feature variants.
+[[xgboost]]
+id = "xgb_d2_smooth"
+max_depth = 2
+learning_rate = 0.03
+n_estimators = 1200
+min_child_weight = 10.0
+subsample = 0.85
+colsample_bytree = 0.85
+reg_alpha = 0.0
+reg_lambda = 5.0
+
+[[xgboost]]
+id = "xgb_d3_balanced"
+max_depth = 3
+learning_rate = 0.03
+n_estimators = 1200
+min_child_weight = 10.0
+subsample = 0.85
+colsample_bytree = 0.85
+reg_alpha = 0.1
+reg_lambda = 5.0
+
+[[xgboost]]
+id = "xgb_d4_regularized"
+max_depth = 4
+learning_rate = 0.03
+n_estimators = 1200
+min_child_weight = 15.0
+subsample = 0.80
+colsample_bytree = 0.80
+reg_alpha = 0.1
+reg_lambda = 8.0
+
+[[lightgbm]]
+id = "lgb_leaves7"
+num_leaves = 7
+max_depth = 3
+learning_rate = 0.03
+n_estimators = 1200
+min_data_in_leaf = 100
+feature_fraction = 0.85
+bagging_fraction = 0.85
+lambda_l1 = 0.0
+lambda_l2 = 5.0
+
+[[lightgbm]]
+id = "lgb_leaves15"
+num_leaves = 15
+max_depth = 4
+learning_rate = 0.03
+n_estimators = 1200
+min_data_in_leaf = 120
+feature_fraction = 0.85
+bagging_fraction = 0.85
+lambda_l1 = 0.1
+lambda_l2 = 7.0
+
+[[lightgbm]]
+id = "lgb_leaves31_regularized"
+num_leaves = 31
+max_depth = 5
+learning_rate = 0.03
+n_estimators = 1200
+min_data_in_leaf = 180
+feature_fraction = 0.80
+bagging_fraction = 0.80
+lambda_l1 = 0.2
+lambda_l2 = 10.0
+
+[[catboost]]
+id = "cat_depth4"
+depth = 4
+learning_rate = 0.03
+iterations = 1200
+l2_leaf_reg = 5.0
+
+[[catboost]]
+id = "cat_depth5"
+depth = 5
+learning_rate = 0.03
+iterations = 1200
+l2_leaf_reg = 8.0
+
+[[catboost]]
+id = "cat_depth6_regularized"
+depth = 6
+learning_rate = 0.03
+iterations = 1200
+l2_leaf_reg = 12.0

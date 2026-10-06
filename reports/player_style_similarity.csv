@@ -1,0 +1,1256 @@
+player_id,player_name,rank,similar_player_id,similar_player_name,cosine_similarity
+mcp:name:a3ddad9e6e8f2070,Rafael Nadal,1,mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,0.9999270969479233
+mcp:name:a3ddad9e6e8f2070,Rafael Nadal,2,mcp:name:642cbc1c2183b2af,Sebastian Baez,0.9999162039127591
+mcp:name:a3ddad9e6e8f2070,Rafael Nadal,3,mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,0.9998918199915466
+mcp:name:a3ddad9e6e8f2070,Rafael Nadal,4,mcp:name:8a9e6f4346848193,Juncheng Shang,0.9998592421828818
+mcp:name:a3ddad9e6e8f2070,Rafael Nadal,5,mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,0.999857211390107
+mcp:name:5c17d1141d8a72aa,Denis Shapovalov,1,mcp:name:b08157a491cf26ee,Alexei Popyrin,0.9997929001997612
+mcp:name:5c17d1141d8a72aa,Denis Shapovalov,2,mcp:name:795731b757adac07,Nicolas Jarry,0.999776571364624
+mcp:name:5c17d1141d8a72aa,Denis Shapovalov,3,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9996850391140226
+mcp:name:5c17d1141d8a72aa,Denis Shapovalov,4,mcp:name:4546a200872fbaa1,Tallon Griekspoor,0.9996344117142285
+mcp:name:5c17d1141d8a72aa,Denis Shapovalov,5,mcp:name:10c864d7d032ed6e,Gabriel Diallo,0.9996342229107351
+mcp:name:e805ce034d9cf236,Felix Auger Aliassime,1,mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,0.9998978008317853
+mcp:name:e805ce034d9cf236,Felix Auger Aliassime,2,mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,0.9998938022313775
+mcp:name:e805ce034d9cf236,Felix Auger Aliassime,3,mcp:name:0de7234698f169f8,Gijs Brouwer,0.9998927742303225
+mcp:name:e805ce034d9cf236,Felix Auger Aliassime,4,mcp:name:12c038b4ed7411ae,Robin Soderling,0.9998771469473556
+mcp:name:e805ce034d9cf236,Felix Auger Aliassime,5,mcp:name:2158169c4b8f202d,Marin Cilic,0.9998729006109468
+mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,1,mcp:name:98c00545df968267,Federico Coria,0.9998677065215454
+mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,2,mcp:name:01c9f161b5b468a2,Andy Murray,0.9998560702622445
+mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,3,mcp:name:08fa8decc34178f8,Guido Pella,0.9998544221022526
+mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,4,mcp:name:f0d40165d102fdba,Albert Ramos,0.9998529499014526
+mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,5,mcp:name:bd74a57979374971,Novak Djokovic,0.9998516029684846
+mcp:name:bd74a57979374971,Novak Djokovic,1,mcp:name:01c9f161b5b468a2,Andy Murray,0.9999469053248882
+mcp:name:bd74a57979374971,Novak Djokovic,2,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.999911401620931
+mcp:name:bd74a57979374971,Novak Djokovic,3,mcp:name:8fa217c919cb5293,Gael Monfils,0.9999094444177653
+mcp:name:bd74a57979374971,Novak Djokovic,4,mcp:name:44b44c63a003a018,Arnaud Clement,0.999903204248457
+mcp:name:bd74a57979374971,Novak Djokovic,5,mcp:name:a85f8420823ea1bf,Pedro Martinez,0.9999019465033321
+mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,1,mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,0.9999592339843121
+mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,2,mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,0.9999390039000715
+mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,3,mcp:name:a3ddad9e6e8f2070,Rafael Nadal,0.9999270969479233
+mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,4,mcp:name:642cbc1c2183b2af,Sebastian Baez,0.9998545405244613
+mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,5,mcp:name:8a9e6f4346848193,Juncheng Shang,0.9998343212302891
+mcp:name:33590321680d18af,Daniel Evans,1,mcp:name:26c5ad708cf115c2,Janko Tipsarevic,0.9998218376222044
+mcp:name:33590321680d18af,Daniel Evans,2,mcp:name:b1e5abbb3de99f2a,Jimmy Connors,0.9997862862501796
+mcp:name:33590321680d18af,Daniel Evans,3,mcp:name:e667b9a7208005de,Viktor Troicki,0.999776443735125
+mcp:name:33590321680d18af,Daniel Evans,4,mcp:name:5a85634ba23d70e1,Alexander Zverev,0.9997537706756231
+mcp:name:33590321680d18af,Daniel Evans,5,mcp:name:3b70ff515db3444e,Botic Van De Zandschulp,0.9997424793438694
+mcp:name:128470c7c106ed35,Robin Haase,1,mcp:name:cdea68fb7d69eced,Grigor Dimitrov,0.9999612576377134
+mcp:name:128470c7c106ed35,Robin Haase,2,mcp:name:c3cb1c6cec5a0480,Tomas Berdych,0.9999239240255459
+mcp:name:128470c7c106ed35,Robin Haase,3,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9999141708987044
+mcp:name:128470c7c106ed35,Robin Haase,4,mcp:name:25e2cbffa2850ed3,Sebastien Grosjean,0.9999050221792394
+mcp:name:128470c7c106ed35,Robin Haase,5,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.9999027199575024
+mcp:name:4546a200872fbaa1,Tallon Griekspoor,1,mcp:name:b08157a491cf26ee,Alexei Popyrin,0.9998841985722198
+mcp:name:4546a200872fbaa1,Tallon Griekspoor,2,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9997777987466568
+mcp:name:4546a200872fbaa1,Tallon Griekspoor,3,mcp:name:c1fa2844ef3d4c5f,James Duckworth,0.9997673148960994
+mcp:name:4546a200872fbaa1,Tallon Griekspoor,4,mcp:name:795731b757adac07,Nicolas Jarry,0.9997004871864351
+mcp:name:4546a200872fbaa1,Tallon Griekspoor,5,mcp:name:10c864d7d032ed6e,Gabriel Diallo,0.9996801337432469
+mcp:name:01c9f161b5b468a2,Andy Murray,1,mcp:name:bd74a57979374971,Novak Djokovic,0.9999469053248882
+mcp:name:01c9f161b5b468a2,Andy Murray,2,mcp:name:30fa25c6f8067717,Nikolay Davydenko,0.9998729713660541
+mcp:name:01c9f161b5b468a2,Andy Murray,3,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.9998705113076094
+mcp:name:01c9f161b5b468a2,Andy Murray,4,mcp:name:ad1773aa5a15134a,Michael Chang,0.999859917119532
+mcp:name:01c9f161b5b468a2,Andy Murray,5,mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,0.9998560702622445
+mcp:name:25d965dd068ad96f,Vasek Pospisil,1,mcp:name:a4084687c328e55a,Sam Querrey,0.9998856138441209
+mcp:name:25d965dd068ad96f,Vasek Pospisil,2,mcp:name:c58f176af91f17da,Tim Van Rijthoven,0.9998606762991783
+mcp:name:25d965dd068ad96f,Vasek Pospisil,3,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9997985555571609
+mcp:name:25d965dd068ad96f,Vasek Pospisil,4,mcp:name:3825b6c5f795ac39,Jan Lennard Struff,0.9997742837725625
+mcp:name:25d965dd068ad96f,Vasek Pospisil,5,mcp:name:fa79e59f9908fd14,Mardy Fish,0.9996626392891313
+mcp:name:508da26188cf8069,Reilly Opelka,1,mcp:name:c8f0ceb631594008,Christopher Eubanks,0.9998155965229413
+mcp:name:508da26188cf8069,Reilly Opelka,2,mcp:name:68debfd9f6ca016a,John Isner,0.999325472814073
+mcp:name:508da26188cf8069,Reilly Opelka,3,mcp:name:b01b2be0a460f54d,Milos Raonic,0.9992911094093493
+mcp:name:508da26188cf8069,Reilly Opelka,4,mcp:name:a4084687c328e55a,Sam Querrey,0.9991945810245473
+mcp:name:508da26188cf8069,Reilly Opelka,5,mcp:name:25d965dd068ad96f,Vasek Pospisil,0.9989740198468483
+mcp:name:3b70ff515db3444e,Botic Van De Zandschulp,1,mcp:name:26c5ad708cf115c2,Janko Tipsarevic,0.9997456344207986
+mcp:name:3b70ff515db3444e,Botic Van De Zandschulp,2,mcp:name:33590321680d18af,Daniel Evans,0.9997424793438694
+mcp:name:3b70ff515db3444e,Botic Van De Zandschulp,3,mcp:name:11e354d759853480,Corentin Moutet,0.9997043892669983
+mcp:name:3b70ff515db3444e,Botic Van De Zandschulp,4,mcp:name:c7296863b87c3e4c,Jesper De Jong,0.9996874341207048
+mcp:name:3b70ff515db3444e,Botic Van De Zandschulp,5,mcp:name:e667b9a7208005de,Viktor Troicki,0.9996771452056176
+mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,1,mcp:name:34716b7d5288464b,Alex Corretja,0.9999614592827613
+mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,2,mcp:name:145f3ce4b14a562e,Jaume Munar,0.9999467124655297
+mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,3,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.9999259419035077
+mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,4,mcp:name:17f1c1045aeaafa4,Francisco Cerundolo,0.9999046073459122
+mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,5,mcp:name:3974d1098f0cc119,Pablo Carreno Busta,0.9998739526408281
+mcp:name:5fb265f97890fef4,Alexander Bublik,1,mcp:name:fbec46a8321548db,Kevin Anderson,0.9995836004825452
+mcp:name:5fb265f97890fef4,Alexander Bublik,2,mcp:name:25d965dd068ad96f,Vasek Pospisil,0.9995373265857121
+mcp:name:5fb265f97890fef4,Alexander Bublik,3,mcp:name:0832cecbb64afb98,Hamad Medjedovic,0.9995367905162279
+mcp:name:5fb265f97890fef4,Alexander Bublik,4,mcp:name:c58f176af91f17da,Tim Van Rijthoven,0.99949993238015
+mcp:name:5fb265f97890fef4,Alexander Bublik,5,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9994602499155507
+mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,1,mcp:name:c89c3202afa7ba34,Fabian Marozsan,0.9999172580158356
+mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,2,mcp:name:e805ce034d9cf236,Felix Auger Aliassime,0.9998978008317853
+mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,3,mcp:name:2ea935cbca6c5b66,Holger Rune,0.99987738890371
+mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,4,mcp:name:c3cb1c6cec5a0480,Tomas Berdych,0.999867607521845
+mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,5,mcp:name:12c038b4ed7411ae,Robin Soderling,0.9998619030724317
+mcp:name:052afe8eb025f4b6,Roger Federer,1,mcp:name:e68e742746c14984,Yevgeny Kafelnikov,0.9998516152666129
+mcp:name:052afe8eb025f4b6,Roger Federer,2,mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,0.9998509925326134
+mcp:name:052afe8eb025f4b6,Roger Federer,3,mcp:name:25b2a926aaa335f5,Ivan Ljubicic,0.9998496686279476
+mcp:name:052afe8eb025f4b6,Roger Federer,4,mcp:name:bd514ec75f5a95fc,Hubert Hurkacz,0.9998429064185888
+mcp:name:052afe8eb025f4b6,Roger Federer,5,mcp:name:fc8f1d8d707edac9,Andy Roddick,0.9997987660752714
+mcp:name:4d017710eded4eb5,Dominic Thiem,1,mcp:name:cdea68fb7d69eced,Grigor Dimitrov,0.9999587319123514
+mcp:name:4d017710eded4eb5,Dominic Thiem,2,mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,0.9999433915070911
+mcp:name:4d017710eded4eb5,Dominic Thiem,3,mcp:name:f864014c5b3e9ad4,Mattia Bellucci,0.9999423649052972
+mcp:name:4d017710eded4eb5,Dominic Thiem,4,mcp:name:2e2371691e4b5ec9,Fernando Verdasco,0.9999398198546593
+mcp:name:4d017710eded4eb5,Dominic Thiem,5,mcp:name:b32b6cd4aaa7b813,Casper Ruud,0.9999389107895353
+mcp:name:5a85634ba23d70e1,Alexander Zverev,1,mcp:name:0ce995acfa31b615,Christopher Oconnell,0.9998968695870575
+mcp:name:5a85634ba23d70e1,Alexander Zverev,2,mcp:name:622e9dac5090a6df,Jack Draper,0.9998472706024544
+mcp:name:5a85634ba23d70e1,Alexander Zverev,3,mcp:name:c7296863b87c3e4c,Jesper De Jong,0.9998157814628604
+mcp:name:5a85634ba23d70e1,Alexander Zverev,4,mcp:name:e510292b64208ec5,Tommy Haas,0.9998077350651675
+mcp:name:5a85634ba23d70e1,Alexander Zverev,5,mcp:name:cdea68fb7d69eced,Grigor Dimitrov,0.9998011493748375
+mcp:name:90e7835497edb200,Daniil Medvedev,1,mcp:name:bd74a57979374971,Novak Djokovic,0.9998863494665376
+mcp:name:90e7835497edb200,Daniil Medvedev,2,mcp:name:c856bc8dcd22698c,Sergi Bruguera,0.9998397346554
+mcp:name:90e7835497edb200,Daniil Medvedev,3,mcp:name:ad1773aa5a15134a,Michael Chang,0.9998343804412125
+mcp:name:90e7835497edb200,Daniil Medvedev,4,mcp:name:0c2a7acde13e6928,Juan Carlos Ferrero,0.9998245240164391
+mcp:name:90e7835497edb200,Daniil Medvedev,5,mcp:name:01c9f161b5b468a2,Andy Murray,0.9998175470036079
+mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,1,mcp:name:65bc3bdcaf37c6ec,Lucas Pouille,0.9999014983787504
+mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,2,mcp:name:e805ce034d9cf236,Felix Auger Aliassime,0.9998938022313775
+mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,3,mcp:name:0d5ef74dd7a57b1c,Otto Virtanen,0.9998603983277266
+mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,4,mcp:name:e4e238f6eeec4000,Jiri Lehecka,0.9998511759592416
+mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,5,mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,0.9998327622384058
+mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,1,mcp:name:4f02e7bfe8bad131,Cristian Garin,0.999921439358781
+mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,2,mcp:name:2763404ce3c12b80,Tommy Paul,0.9999187637217446
+mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,3,mcp:name:3974d1098f0cc119,Pablo Carreno Busta,0.9999076761620128
+mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,4,mcp:name:77ca75742e5e15ab,Jarkko Nieminen,0.9998748455017394
+mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,5,mcp:name:33aed30a5d5c27a1,Karen Khachanov,0.9998704292442617
+mcp:name:a5a262f8b66134a9,Alex De Minaur,1,mcp:name:b437d327e439a811,Jenson Brooksby,0.999851801587647
+mcp:name:a5a262f8b66134a9,Alex De Minaur,2,mcp:name:7a0f7714974a0cd9,Pablo Andujar,0.9998249432089696
+mcp:name:a5a262f8b66134a9,Alex De Minaur,3,mcp:name:617722ec2cb54bbb,Hyeon Chung,0.9998171949668748
+mcp:name:a5a262f8b66134a9,Alex De Minaur,4,mcp:name:34716b7d5288464b,Alex Corretja,0.9998075336960021
+mcp:name:a5a262f8b66134a9,Alex De Minaur,5,mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,0.9997865844312095
+mcp:name:b32b6cd4aaa7b813,Casper Ruud,1,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9999389107895353
+mcp:name:b32b6cd4aaa7b813,Casper Ruud,2,mcp:name:22d8e83ee60e90b2,Cameron Norrie,0.9999375127120581
+mcp:name:b32b6cd4aaa7b813,Casper Ruud,3,mcp:name:f680888208420202,Luciano Darderi,0.9999335088126958
+mcp:name:b32b6cd4aaa7b813,Casper Ruud,4,mcp:name:2e2371691e4b5ec9,Fernando Verdasco,0.9999138453433131
+mcp:name:b32b6cd4aaa7b813,Casper Ruud,5,mcp:name:61cdd49c984961f5,Arthur Cazaux,0.9999069542954878
+mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,1,mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,0.9999592339843121
+mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,2,mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,0.9999308751270395
+mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,3,mcp:name:a3ddad9e6e8f2070,Rafael Nadal,0.9998918199915466
+mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,4,mcp:name:30fa25c6f8067717,Nikolay Davydenko,0.9998661689612235
+mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,5,mcp:name:01c9f161b5b468a2,Andy Murray,0.9998545791723018
+mcp:name:6075475e06014e4c,Frances Tiafoe,1,mcp:name:f864014c5b3e9ad4,Mattia Bellucci,0.9999201482118574
+mcp:name:6075475e06014e4c,Frances Tiafoe,2,mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,0.9999021150860818
+mcp:name:6075475e06014e4c,Frances Tiafoe,3,mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,0.9998881302221527
+mcp:name:6075475e06014e4c,Frances Tiafoe,4,mcp:name:53360170f5a94fde,Gregoire Barrere,0.9998842335990822
+mcp:name:6075475e06014e4c,Frances Tiafoe,5,mcp:name:04d3dab05e18e3b7,Filip Krajinovic,0.9998814379834926
+mcp:name:917ef3f5a0a9575c,Alejandro Davidovich Fokina,1,mcp:name:9568ad1ddd4f1975,Valentin Vacherot,0.9998003848732756
+mcp:name:917ef3f5a0a9575c,Alejandro Davidovich Fokina,2,mcp:name:d9a8bdf6909fcdfa,Guillermo Garcia Lopez,0.999782587794344
+mcp:name:917ef3f5a0a9575c,Alejandro Davidovich Fokina,3,mcp:name:b6c6d36e74a83075,Dominik Koepfer,0.9997342271295996
+mcp:name:917ef3f5a0a9575c,Alejandro Davidovich Fokina,4,mcp:name:11e354d759853480,Corentin Moutet,0.9995988619344373
+mcp:name:917ef3f5a0a9575c,Alejandro Davidovich Fokina,5,mcp:name:42057fa22d846d1c,Jiri Novak,0.9995787418664606
+mcp:name:cdea68fb7d69eced,Grigor Dimitrov,1,mcp:name:128470c7c106ed35,Robin Haase,0.9999612576377134
+mcp:name:cdea68fb7d69eced,Grigor Dimitrov,2,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9999587319123514
+mcp:name:cdea68fb7d69eced,Grigor Dimitrov,3,mcp:name:f864014c5b3e9ad4,Mattia Bellucci,0.9999421809162123
+mcp:name:cdea68fb7d69eced,Grigor Dimitrov,4,mcp:name:33aed30a5d5c27a1,Karen Khachanov,0.9999389718948104
+mcp:name:cdea68fb7d69eced,Grigor Dimitrov,5,mcp:name:61cdd49c984961f5,Arthur Cazaux,0.99993584085692
+mcp:name:8fa217c919cb5293,Gael Monfils,1,mcp:name:301bac69d4722217,Lorenzo Musetti,0.9999547534106671
+mcp:name:8fa217c919cb5293,Gael Monfils,2,mcp:name:ce5c163798f7272b,Laslo Djere,0.9999379730361836
+mcp:name:8fa217c919cb5293,Gael Monfils,3,mcp:name:33aed30a5d5c27a1,Karen Khachanov,0.999937711558402
+mcp:name:8fa217c919cb5293,Gael Monfils,4,mcp:name:88cd6f2d275e1376,Andreas Seppi,0.9999336882920781
+mcp:name:8fa217c919cb5293,Gael Monfils,5,mcp:name:bd74a57979374971,Novak Djokovic,0.9999094444177653
+mcp:name:98446d42a78a5437,Radu Albot,1,mcp:name:95c0894c6458a63b,Carlos Moya,0.9998935185904215
+mcp:name:98446d42a78a5437,Radu Albot,2,mcp:name:2763404ce3c12b80,Tommy Paul,0.9998628582297376
+mcp:name:98446d42a78a5437,Radu Albot,3,mcp:name:493f5c9de1ab8611,Federico Delbonis,0.99985245230539
+mcp:name:98446d42a78a5437,Radu Albot,4,mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,0.9997809605408883
+mcp:name:98446d42a78a5437,Radu Albot,5,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.9997279394498696
+mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,1,mcp:name:bd514ec75f5a95fc,Hubert Hurkacz,0.9999538327294489
+mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,2,mcp:name:fec36fcc86d0812f,Jim Courier,0.9998963211121396
+mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,3,mcp:name:89bafcf0638d86e5,Ben Shelton,0.9998526430421759
+mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,4,mcp:name:052afe8eb025f4b6,Roger Federer,0.9998509925326134
+mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,5,mcp:name:fc8f1d8d707edac9,Andy Roddick,0.9998425762582829
+mcp:name:4f02e7bfe8bad131,Cristian Garin,1,mcp:name:33aed30a5d5c27a1,Karen Khachanov,0.9999487326597895
+mcp:name:4f02e7bfe8bad131,Cristian Garin,2,mcp:name:61cdd49c984961f5,Arthur Cazaux,0.9999364298121831
+mcp:name:4f02e7bfe8bad131,Cristian Garin,3,mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,0.999921439358781
+mcp:name:4f02e7bfe8bad131,Cristian Garin,4,mcp:name:17f1c1045aeaafa4,Francisco Cerundolo,0.9999132024053419
+mcp:name:4f02e7bfe8bad131,Cristian Garin,5,mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,0.9999106128008375
+mcp:name:b01b2be0a460f54d,Milos Raonic,1,mcp:name:68debfd9f6ca016a,John Isner,0.9995792310313747
+mcp:name:b01b2be0a460f54d,Milos Raonic,2,mcp:name:c8f0ceb631594008,Christopher Eubanks,0.9995303790791885
+mcp:name:b01b2be0a460f54d,Milos Raonic,3,mcp:name:879bced301bab9fe,Pierre Hugues Herbert,0.9994614294776786
+mcp:name:b01b2be0a460f54d,Milos Raonic,4,mcp:name:508da26188cf8069,Reilly Opelka,0.9992911094093493
+mcp:name:b01b2be0a460f54d,Milos Raonic,5,mcp:name:208a71e9b5508a8f,Giovanni Mpetshi Perricard,0.9991940275960038
+mcp:name:2158169c4b8f202d,Marin Cilic,1,mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,0.9999619868494999
+mcp:name:2158169c4b8f202d,Marin Cilic,2,mcp:name:bbd53498815bdbb1,Joao Fonseca,0.9999370336608229
+mcp:name:2158169c4b8f202d,Marin Cilic,3,mcp:name:81c6f30892333db8,Yannick Hanfmann,0.9999308573513588
+mcp:name:2158169c4b8f202d,Marin Cilic,4,mcp:name:d26789a6b4befd6b,Thanasi Kokkinakis,0.9998872645719656
+mcp:name:2158169c4b8f202d,Marin Cilic,5,mcp:name:e805ce034d9cf236,Felix Auger Aliassime,0.9998729006109468
+mcp:name:bd514ec75f5a95fc,Hubert Hurkacz,1,mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,0.9999538327294489
+mcp:name:bd514ec75f5a95fc,Hubert Hurkacz,2,mcp:name:fc8f1d8d707edac9,Andy Roddick,0.9999183907464015
+mcp:name:bd514ec75f5a95fc,Hubert Hurkacz,3,mcp:name:fec36fcc86d0812f,Jim Courier,0.9998447661225266
+mcp:name:bd514ec75f5a95fc,Hubert Hurkacz,4,mcp:name:052afe8eb025f4b6,Roger Federer,0.9998429064185888
+mcp:name:bd514ec75f5a95fc,Hubert Hurkacz,5,mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,0.9998365560064544
+mcp:name:99c32f1208d74f43,Aljaz Bedene,1,mcp:name:b5d153a82812bfd1,Borna Coric,0.9998798656990234
+mcp:name:99c32f1208d74f43,Aljaz Bedene,2,mcp:name:212ec07f257142b6,David Goffin,0.9998744786096253
+mcp:name:99c32f1208d74f43,Aljaz Bedene,3,mcp:name:301bac69d4722217,Lorenzo Musetti,0.9998668582431826
+mcp:name:99c32f1208d74f43,Aljaz Bedene,4,mcp:name:88cd6f2d275e1376,Andreas Seppi,0.9998657181694136
+mcp:name:99c32f1208d74f43,Aljaz Bedene,5,mcp:name:61084ca9ca789de3,Nicolas Almagro,0.9998323271651637
+mcp:name:14c77f282e87e90b,Fabio Fognini,1,mcp:name:fba9c928e27c3eb9,Kei Nishikori,0.9999473654558737
+mcp:name:14c77f282e87e90b,Fabio Fognini,2,mcp:name:77ca75742e5e15ab,Jarkko Nieminen,0.9999097682138863
+mcp:name:14c77f282e87e90b,Fabio Fognini,3,mcp:name:4f02e7bfe8bad131,Cristian Garin,0.9998982570386706
+mcp:name:14c77f282e87e90b,Fabio Fognini,4,mcp:name:15493bf40d2ee6b7,Denis Istomin,0.999892955541694
+mcp:name:14c77f282e87e90b,Fabio Fognini,5,mcp:name:33aed30a5d5c27a1,Karen Khachanov,0.9998612354516883
+mcp:name:04d3dab05e18e3b7,Filip Krajinovic,1,mcp:name:8cf21c4a88e01006,Marat Safin,0.9999352258411884
+mcp:name:04d3dab05e18e3b7,Filip Krajinovic,2,mcp:name:e510292b64208ec5,Tommy Haas,0.9998980210090189
+mcp:name:04d3dab05e18e3b7,Filip Krajinovic,3,mcp:name:6075475e06014e4c,Frances Tiafoe,0.9998814379834926
+mcp:name:04d3dab05e18e3b7,Filip Krajinovic,4,mcp:name:9d6201421a25e42e,Tomas Machac,0.999853951451384
+mcp:name:04d3dab05e18e3b7,Filip Krajinovic,5,mcp:name:fd097a4bc4b08546,Benjamin Bonzi,0.9998158302434914
+mcp:name:31135eb0c7e830fe,Taylor Fritz,1,mcp:name:622e9dac5090a6df,Jack Draper,0.9999453430317613
+mcp:name:31135eb0c7e830fe,Taylor Fritz,2,mcp:name:b5d153a82812bfd1,Borna Coric,0.9999440560587718
+mcp:name:31135eb0c7e830fe,Taylor Fritz,3,mcp:name:f864014c5b3e9ad4,Mattia Bellucci,0.9999307509831107
+mcp:name:31135eb0c7e830fe,Taylor Fritz,4,mcp:name:3798495a1b0b935d,Andrey Rublev,0.9999209880042077
+mcp:name:31135eb0c7e830fe,Taylor Fritz,5,mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,0.999915831718439
+mcp:name:265c75e2d08ae570,Philipp Kohlschreiber,1,mcp:name:fba9c928e27c3eb9,Kei Nishikori,0.9999166727994309
+mcp:name:265c75e2d08ae570,Philipp Kohlschreiber,2,mcp:name:1e6dc730d112c3b5,Nuno Borges,0.9999063998771593
+mcp:name:265c75e2d08ae570,Philipp Kohlschreiber,3,mcp:name:c3cb1c6cec5a0480,Tomas Berdych,0.9998756843637484
+mcp:name:265c75e2d08ae570,Philipp Kohlschreiber,4,mcp:name:509e5bb6dc77ad77,Kyle Edmund,0.9998666028302704
+mcp:name:265c75e2d08ae570,Philipp Kohlschreiber,5,mcp:name:14c77f282e87e90b,Fabio Fognini,0.9998563634272238
+mcp:name:be71fbfa58829ae0,Marton Fucsovics,1,mcp:name:145f3ce4b14a562e,Jaume Munar,0.9999556263395168
+mcp:name:be71fbfa58829ae0,Marton Fucsovics,2,mcp:name:a85f8420823ea1bf,Pedro Martinez,0.9999461642288836
+mcp:name:be71fbfa58829ae0,Marton Fucsovics,3,mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,0.9999259419035077
+mcp:name:be71fbfa58829ae0,Marton Fucsovics,4,mcp:name:17f1c1045aeaafa4,Francisco Cerundolo,0.9999136621152884
+mcp:name:be71fbfa58829ae0,Marton Fucsovics,5,mcp:name:bd74a57979374971,Novak Djokovic,0.999911401620931
+mcp:name:d0ee5e3fa9027bfd,Lorenzo Sonego,1,mcp:name:550fdb190e2bf4b2,Leonardo Mayer,0.9999559876694386
+mcp:name:d0ee5e3fa9027bfd,Lorenzo Sonego,2,mcp:name:89bafcf0638d86e5,Ben Shelton,0.9998628142888546
+mcp:name:d0ee5e3fa9027bfd,Lorenzo Sonego,3,mcp:name:e4e238f6eeec4000,Jiri Lehecka,0.9997765913937882
+mcp:name:d0ee5e3fa9027bfd,Lorenzo Sonego,4,mcp:name:88722768397004f1,Alex Michelsen,0.9996974414766362
+mcp:name:d0ee5e3fa9027bfd,Lorenzo Sonego,5,mcp:name:fec36fcc86d0812f,Jim Courier,0.9996602475197492
+mcp:name:33aed30a5d5c27a1,Karen Khachanov,1,mcp:name:61cdd49c984961f5,Arthur Cazaux,0.9999633041281569
+mcp:name:33aed30a5d5c27a1,Karen Khachanov,2,mcp:name:ce5c163798f7272b,Laslo Djere,0.9999548598950301
+mcp:name:33aed30a5d5c27a1,Karen Khachanov,3,mcp:name:4f02e7bfe8bad131,Cristian Garin,0.9999487326597895
+mcp:name:33aed30a5d5c27a1,Karen Khachanov,4,mcp:name:cdea68fb7d69eced,Grigor Dimitrov,0.9999389718948104
+mcp:name:33aed30a5d5c27a1,Karen Khachanov,5,mcp:name:8fa217c919cb5293,Gael Monfils,0.999937711558402
+mcp:name:b81b746b1534e083,Ugo Humbert,1,mcp:name:3798495a1b0b935d,Andrey Rublev,0.9999378276338008
+mcp:name:b81b746b1534e083,Ugo Humbert,2,mcp:name:5b9770471acccef1,Rafael Jodar,0.9999003070214484
+mcp:name:b81b746b1534e083,Ugo Humbert,3,mcp:name:31135eb0c7e830fe,Taylor Fritz,0.9998686353927075
+mcp:name:b81b746b1534e083,Ugo Humbert,4,mcp:name:c8bfa0642863dc0b,Martin Klizan,0.9998598570186323
+mcp:name:b81b746b1534e083,Ugo Humbert,5,mcp:name:b5d153a82812bfd1,Borna Coric,0.9998503101304828
+mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,1,mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,0.9999708922293369
+mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,2,mcp:name:f864014c5b3e9ad4,Mattia Bellucci,0.9999620375314926
+mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,3,mcp:name:a3f6cc9193b40830,Daniel Altmaier,0.9999342162473254
+mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,4,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9999184743251499
+mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,5,mcp:name:31135eb0c7e830fe,Taylor Fritz,0.999915831718439
+mcp:name:26c5ad708cf115c2,Janko Tipsarevic,1,mcp:name:4b38b3b79cdb9656,Juan Martin Del Potro,0.9999044824199714
+mcp:name:26c5ad708cf115c2,Janko Tipsarevic,2,mcp:name:77ca75742e5e15ab,Jarkko Nieminen,0.999849972985961
+mcp:name:26c5ad708cf115c2,Janko Tipsarevic,3,mcp:name:33590321680d18af,Daniel Evans,0.9998218376222044
+mcp:name:26c5ad708cf115c2,Janko Tipsarevic,4,mcp:name:14c77f282e87e90b,Fabio Fognini,0.9998155668867722
+mcp:name:26c5ad708cf115c2,Janko Tipsarevic,5,mcp:name:4f04d3d78b468c4d,David Nalbandian,0.999809647737098
+mcp:name:11e354d759853480,Corentin Moutet,1,mcp:name:493f5c9de1ab8611,Federico Delbonis,0.9997529094369274
+mcp:name:11e354d759853480,Corentin Moutet,2,mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,0.9997224926125674
+mcp:name:11e354d759853480,Corentin Moutet,3,mcp:name:a3ddad9e6e8f2070,Rafael Nadal,0.9997189235920533
+mcp:name:11e354d759853480,Corentin Moutet,4,mcp:name:3b70ff515db3444e,Botic Van De Zandschulp,0.9997043892669983
+mcp:name:11e354d759853480,Corentin Moutet,5,mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,0.9997030863850536
+mcp:name:88cd6f2d275e1376,Andreas Seppi,1,mcp:name:30fa25c6f8067717,Nikolay Davydenko,0.9999623005602182
+mcp:name:88cd6f2d275e1376,Andreas Seppi,2,mcp:name:301bac69d4722217,Lorenzo Musetti,0.9999398773573097
+mcp:name:88cd6f2d275e1376,Andreas Seppi,3,mcp:name:8fa217c919cb5293,Gael Monfils,0.9999336882920781
+mcp:name:88cd6f2d275e1376,Andreas Seppi,4,mcp:name:61084ca9ca789de3,Nicolas Almagro,0.9999326972619622
+mcp:name:88cd6f2d275e1376,Andreas Seppi,5,mcp:name:1e924a7608a1c33d,Learner Tien,0.9999188615011229
+mcp:name:212ec07f257142b6,David Goffin,1,mcp:name:301bac69d4722217,Lorenzo Musetti,0.9999592048754549
+mcp:name:212ec07f257142b6,David Goffin,2,mcp:name:2215bdc5cdba3c16,Marcos Giron,0.9999131385317717
+mcp:name:212ec07f257142b6,David Goffin,3,mcp:name:61cdd49c984961f5,Arthur Cazaux,0.9999105613088123
+mcp:name:212ec07f257142b6,David Goffin,4,mcp:name:bceed640e8eea16f,Dusan Lajovic,0.9999083514326538
+mcp:name:212ec07f257142b6,David Goffin,5,mcp:name:88cd6f2d275e1376,Andreas Seppi,0.9999030726883231
+mcp:name:598d933afe9f24cd,Nikoloz Basilashvili,1,mcp:name:57c4023549832138,Alexander Shevchenko,0.9997319542332268
+mcp:name:598d933afe9f24cd,Nikoloz Basilashvili,2,mcp:name:3e87e975ee11393b,Bernard Tomic,0.99969726535195
+mcp:name:598d933afe9f24cd,Nikoloz Basilashvili,3,mcp:name:0a7012dc615cb7f9,Flavio Cobolli,0.999659915614247
+mcp:name:598d933afe9f24cd,Nikoloz Basilashvili,4,mcp:name:5705a4458bf90811,Hugo Gaston,0.9996486868152172
+mcp:name:598d933afe9f24cd,Nikoloz Basilashvili,5,mcp:name:11844128aa58e6e1,Tennys Sandgren,0.9995836997385318
+mcp:name:3798495a1b0b935d,Andrey Rublev,1,mcp:name:5b9770471acccef1,Rafael Jodar,0.9999477572178541
+mcp:name:3798495a1b0b935d,Andrey Rublev,2,mcp:name:b81b746b1534e083,Ugo Humbert,0.9999378276338008
+mcp:name:3798495a1b0b935d,Andrey Rublev,3,mcp:name:31135eb0c7e830fe,Taylor Fritz,0.9999209880042077
+mcp:name:3798495a1b0b935d,Andrey Rublev,4,mcp:name:83eab719d14aef26,Thiago Monteiro,0.9998744474264429
+mcp:name:3798495a1b0b935d,Andrey Rublev,5,mcp:name:c8bfa0642863dc0b,Martin Klizan,0.9998506725947287
+mcp:name:3974d1098f0cc119,Pablo Carreno Busta,1,mcp:name:17f1c1045aeaafa4,Francisco Cerundolo,0.999911195941535
+mcp:name:3974d1098f0cc119,Pablo Carreno Busta,2,mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,0.9999076761620128
+mcp:name:3974d1098f0cc119,Pablo Carreno Busta,3,mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,0.9998739526408281
+mcp:name:3974d1098f0cc119,Pablo Carreno Busta,4,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.9998568830822209
+mcp:name:3974d1098f0cc119,Pablo Carreno Busta,5,mcp:name:145f3ce4b14a562e,Jaume Munar,0.9998529862579958
+mcp:name:3e301e4536e717f3,Jeremy Chardy,1,mcp:name:13e5a2307d01f032,Jack Sock,0.9999218058318554
+mcp:name:3e301e4536e717f3,Jeremy Chardy,2,mcp:name:dd2d21284a0dea38,Zizou Bergs,0.9997056287778068
+mcp:name:3e301e4536e717f3,Jeremy Chardy,3,mcp:name:aa5ca9ce50a9886f,Steve Johnson,0.9995770584942181
+mcp:name:3e301e4536e717f3,Jeremy Chardy,4,mcp:name:550fdb190e2bf4b2,Leonardo Mayer,0.9994532035906318
+mcp:name:3e301e4536e717f3,Jeremy Chardy,5,mcp:name:e805ce034d9cf236,Felix Auger Aliassime,0.9994353514039163
+mcp:name:83eab719d14aef26,Thiago Monteiro,1,mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,0.9999258271540234
+mcp:name:83eab719d14aef26,Thiago Monteiro,2,mcp:name:d26789a6b4befd6b,Thanasi Kokkinakis,0.9998956698517946
+mcp:name:83eab719d14aef26,Thiago Monteiro,3,mcp:name:509e5bb6dc77ad77,Kyle Edmund,0.9998948988404319
+mcp:name:83eab719d14aef26,Thiago Monteiro,4,mcp:name:2e2371691e4b5ec9,Fernando Verdasco,0.9998847393499555
+mcp:name:83eab719d14aef26,Thiago Monteiro,5,mcp:name:31135eb0c7e830fe,Taylor Fritz,0.9998825184222012
+mcp:name:bceed640e8eea16f,Dusan Lajovic,1,mcp:name:212ec07f257142b6,David Goffin,0.9999083514326538
+mcp:name:bceed640e8eea16f,Dusan Lajovic,2,mcp:name:1175cbd0a4cfdbd6,Adrian Mannarino,0.9999054380522986
+mcp:name:bceed640e8eea16f,Dusan Lajovic,3,mcp:name:22d8e83ee60e90b2,Cameron Norrie,0.9998946422680102
+mcp:name:bceed640e8eea16f,Dusan Lajovic,4,mcp:name:b32b6cd4aaa7b813,Casper Ruud,0.9998844850282619
+mcp:name:bceed640e8eea16f,Dusan Lajovic,5,mcp:name:2215bdc5cdba3c16,Marcos Giron,0.9998794418282907
+mcp:name:68debfd9f6ca016a,John Isner,1,mcp:name:b01b2be0a460f54d,Milos Raonic,0.9995792310313747
+mcp:name:68debfd9f6ca016a,John Isner,2,mcp:name:c8f0ceb631594008,Christopher Eubanks,0.999471788887166
+mcp:name:68debfd9f6ca016a,John Isner,3,mcp:name:208a71e9b5508a8f,Giovanni Mpetshi Perricard,0.9994176458993916
+mcp:name:68debfd9f6ca016a,John Isner,4,mcp:name:879bced301bab9fe,Pierre Hugues Herbert,0.9993817175604222
+mcp:name:68debfd9f6ca016a,John Isner,5,mcp:name:508da26188cf8069,Reilly Opelka,0.999325472814073
+mcp:name:3825b6c5f795ac39,Jan Lennard Struff,1,mcp:name:a4084687c328e55a,Sam Querrey,0.9997896566045013
+mcp:name:3825b6c5f795ac39,Jan Lennard Struff,2,mcp:name:25d965dd068ad96f,Vasek Pospisil,0.9997742837725625
+mcp:name:3825b6c5f795ac39,Jan Lennard Struff,3,mcp:name:c58f176af91f17da,Tim Van Rijthoven,0.9997369182251344
+mcp:name:3825b6c5f795ac39,Jan Lennard Struff,4,mcp:name:6086069cdc93a7ed,Petr Korda,0.9997273480178459
+mcp:name:3825b6c5f795ac39,Jan Lennard Struff,5,mcp:name:fa79e59f9908fd14,Mardy Fish,0.999719067856459
+mcp:name:22d8e83ee60e90b2,Cameron Norrie,1,mcp:name:b32b6cd4aaa7b813,Casper Ruud,0.9999375127120581
+mcp:name:22d8e83ee60e90b2,Cameron Norrie,2,mcp:name:61cdd49c984961f5,Arthur Cazaux,0.9999232579125983
+mcp:name:22d8e83ee60e90b2,Cameron Norrie,3,mcp:name:bceed640e8eea16f,Dusan Lajovic,0.9998946422680102
+mcp:name:22d8e83ee60e90b2,Cameron Norrie,4,mcp:name:016a1d82c65f1c72,Nicolas Massu,0.9998848686817923
+mcp:name:22d8e83ee60e90b2,Cameron Norrie,5,mcp:name:212ec07f257142b6,David Goffin,0.9998584500414567
+mcp:name:ff9698ebf3f22768,Marco Cecchinato,1,mcp:name:f194379ec3b1b1af,Jakub Mensik,0.9999477128928362
+mcp:name:ff9698ebf3f22768,Marco Cecchinato,2,mcp:name:0a7012dc615cb7f9,Flavio Cobolli,0.9999038972732661
+mcp:name:ff9698ebf3f22768,Marco Cecchinato,3,mcp:name:25e2cbffa2850ed3,Sebastien Grosjean,0.9998830168355032
+mcp:name:ff9698ebf3f22768,Marco Cecchinato,4,mcp:name:08aa98ef776e9474,Arthur Fils,0.9998803483440346
+mcp:name:ff9698ebf3f22768,Marco Cecchinato,5,mcp:name:2ea935cbca6c5b66,Holger Rune,0.9998785766036711
+mcp:name:09f2b5d50435699f,Benoit Paire,1,mcp:name:4546a200872fbaa1,Tallon Griekspoor,0.9996591619603077
+mcp:name:09f2b5d50435699f,Benoit Paire,2,mcp:name:6086069cdc93a7ed,Petr Korda,0.9994810690138096
+mcp:name:09f2b5d50435699f,Benoit Paire,3,mcp:name:c1fa2844ef3d4c5f,James Duckworth,0.9993528205245669
+mcp:name:09f2b5d50435699f,Benoit Paire,4,mcp:name:795731b757adac07,Nicolas Jarry,0.9993234461290887
+mcp:name:09f2b5d50435699f,Benoit Paire,5,mcp:name:e4e238f6eeec4000,Jiri Lehecka,0.9993225278721924
+mcp:name:a4084687c328e55a,Sam Querrey,1,mcp:name:25d965dd068ad96f,Vasek Pospisil,0.9998856138441209
+mcp:name:a4084687c328e55a,Sam Querrey,2,mcp:name:c58f176af91f17da,Tim Van Rijthoven,0.9998543655475468
+mcp:name:a4084687c328e55a,Sam Querrey,3,mcp:name:3825b6c5f795ac39,Jan Lennard Struff,0.9997896566045013
+mcp:name:a4084687c328e55a,Sam Querrey,4,mcp:name:6086069cdc93a7ed,Petr Korda,0.9997319467573366
+mcp:name:a4084687c328e55a,Sam Querrey,5,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9996594862952475
+mcp:name:f97f6231e8d2c7c9,Gilles Simon,1,mcp:name:20d41513d293423d,Alex Molcan,0.9998628000792269
+mcp:name:f97f6231e8d2c7c9,Gilles Simon,2,mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,0.999833579308439
+mcp:name:f97f6231e8d2c7c9,Gilles Simon,3,mcp:name:362d6ef7d5a02751,Guillermo Coria,0.999738227029167
+mcp:name:f97f6231e8d2c7c9,Gilles Simon,4,mcp:name:736bec36d16357d9,Mariano Navone,0.9997247405809375
+mcp:name:f97f6231e8d2c7c9,Gilles Simon,5,mcp:name:1ea7f7b8d7fa75e1,John Millman,0.9996788659010422
+mcp:name:7a0f7714974a0cd9,Pablo Andujar,1,mcp:name:42057fa22d846d1c,Jiri Novak,0.9998367389925432
+mcp:name:7a0f7714974a0cd9,Pablo Andujar,2,mcp:name:a5a262f8b66134a9,Alex De Minaur,0.9998249432089696
+mcp:name:7a0f7714974a0cd9,Pablo Andujar,3,mcp:name:34716b7d5288464b,Alex Corretja,0.9997825292656775
+mcp:name:7a0f7714974a0cd9,Pablo Andujar,4,mcp:name:a85f8420823ea1bf,Pedro Martinez,0.9997823656450068
+mcp:name:7a0f7714974a0cd9,Pablo Andujar,5,mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,0.9997793162595299
+mcp:name:f0d40165d102fdba,Albert Ramos,1,mcp:name:08fa8decc34178f8,Guido Pella,0.9999795017576335
+mcp:name:f0d40165d102fdba,Albert Ramos,2,mcp:name:98c00545df968267,Federico Coria,0.9999636830028537
+mcp:name:f0d40165d102fdba,Albert Ramos,3,mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,0.9998529499014526
+mcp:name:f0d40165d102fdba,Albert Ramos,4,mcp:name:1e924a7608a1c33d,Learner Tien,0.9998414655376318
+mcp:name:f0d40165d102fdba,Albert Ramos,5,mcp:name:ff15c6b7e55aeee9,Thomas Muster,0.9998227997147268
+mcp:name:9d7615452c8af1c8,Richard Gasquet,1,mcp:name:e510292b64208ec5,Tommy Haas,0.9998631380540303
+mcp:name:9d7615452c8af1c8,Richard Gasquet,2,mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,0.9998431838697178
+mcp:name:9d7615452c8af1c8,Richard Gasquet,3,mcp:name:e6f32411db41062e,Mikhail Youzhny,0.9998328772363139
+mcp:name:9d7615452c8af1c8,Richard Gasquet,4,mcp:name:8cf21c4a88e01006,Marat Safin,0.9998127777853819
+mcp:name:9d7615452c8af1c8,Richard Gasquet,5,mcp:name:4f04d3d78b468c4d,David Nalbandian,0.9997973490017649
+mcp:name:65bc3bdcaf37c6ec,Lucas Pouille,1,mcp:name:fd097a4bc4b08546,Benjamin Bonzi,0.9999455535291956
+mcp:name:65bc3bdcaf37c6ec,Lucas Pouille,2,mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,0.9999014983787504
+mcp:name:65bc3bdcaf37c6ec,Lucas Pouille,3,mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,0.9998471678435783
+mcp:name:65bc3bdcaf37c6ec,Lucas Pouille,4,mcp:name:aa4a7b779f49e99d,James Blake,0.999814104724898
+mcp:name:65bc3bdcaf37c6ec,Lucas Pouille,5,mcp:name:bbd53498815bdbb1,Joao Fonseca,0.9998092286387388
+mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,1,mcp:name:65bc3bdcaf37c6ec,Lucas Pouille,0.9998471678435783
+mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,2,mcp:name:fd097a4bc4b08546,Benjamin Bonzi,0.9998094795673214
+mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,3,mcp:name:81c6f30892333db8,Yannick Hanfmann,0.9997862408649706
+mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,4,mcp:name:dd2d21284a0dea38,Zizou Bergs,0.999779984669748
+mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,5,mcp:name:c8bfa0642863dc0b,Martin Klizan,0.9997722368590352
+mcp:name:145f3ce4b14a562e,Jaume Munar,1,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.9999556263395168
+mcp:name:145f3ce4b14a562e,Jaume Munar,2,mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,0.9999467124655297
+mcp:name:145f3ce4b14a562e,Jaume Munar,3,mcp:name:34716b7d5288464b,Alex Corretja,0.9999353194963456
+mcp:name:145f3ce4b14a562e,Jaume Munar,4,mcp:name:a85f8420823ea1bf,Pedro Martinez,0.9999028895344768
+mcp:name:145f3ce4b14a562e,Jaume Munar,5,mcp:name:1175cbd0a4cfdbd6,Adrian Mannarino,0.9998755338058889
+mcp:name:11844128aa58e6e1,Tennys Sandgren,1,mcp:name:57c4023549832138,Alexander Shevchenko,0.9999439949558604
+mcp:name:11844128aa58e6e1,Tennys Sandgren,2,mcp:name:2e2371691e4b5ec9,Fernando Verdasco,0.9999083192760968
+mcp:name:11844128aa58e6e1,Tennys Sandgren,3,mcp:name:f864014c5b3e9ad4,Mattia Bellucci,0.9998841024433395
+mcp:name:11844128aa58e6e1,Tennys Sandgren,4,mcp:name:4d017710eded4eb5,Dominic Thiem,0.999875468351756
+mcp:name:11844128aa58e6e1,Tennys Sandgren,5,mcp:name:61cdd49c984961f5,Arthur Cazaux,0.9998742098593393
+mcp:name:dbfa43991a2c7279,Nick Kyrgios,1,mcp:name:0832cecbb64afb98,Hamad Medjedovic,0.9996844029557963
+mcp:name:dbfa43991a2c7279,Nick Kyrgios,2,mcp:name:fbec46a8321548db,Kevin Anderson,0.9996006361088394
+mcp:name:dbfa43991a2c7279,Nick Kyrgios,3,mcp:name:5fb265f97890fef4,Alexander Bublik,0.9993555343932198
+mcp:name:dbfa43991a2c7279,Nick Kyrgios,4,mcp:name:c58f176af91f17da,Tim Van Rijthoven,0.999270440110299
+mcp:name:dbfa43991a2c7279,Nick Kyrgios,5,mcp:name:c1fa2844ef3d4c5f,James Duckworth,0.9992470450446227
+mcp:name:13e5a2307d01f032,Jack Sock,1,mcp:name:3e301e4536e717f3,Jeremy Chardy,0.9999218058318554
+mcp:name:13e5a2307d01f032,Jack Sock,2,mcp:name:dd2d21284a0dea38,Zizou Bergs,0.9996659321966666
+mcp:name:13e5a2307d01f032,Jack Sock,3,mcp:name:e805ce034d9cf236,Felix Auger Aliassime,0.9995139548438992
+mcp:name:13e5a2307d01f032,Jack Sock,4,mcp:name:0de7234698f169f8,Gijs Brouwer,0.9994428140914161
+mcp:name:13e5a2307d01f032,Jack Sock,5,mcp:name:b08157a491cf26ee,Alexei Popyrin,0.999434718702161
+mcp:name:fc18985769717989,Karim Mohamed Maamoun,1,mcp:name:61084ca9ca789de3,Nicolas Almagro,0.9999413710075333
+mcp:name:fc18985769717989,Karim Mohamed Maamoun,2,mcp:name:30fa25c6f8067717,Nikolay Davydenko,0.9999361947209939
+mcp:name:fc18985769717989,Karim Mohamed Maamoun,3,mcp:name:88cd6f2d275e1376,Andreas Seppi,0.9999151807844557
+mcp:name:fc18985769717989,Karim Mohamed Maamoun,4,mcp:name:195cda3cf4ce1236,Taro Daniel,0.9998827635639917
+mcp:name:fc18985769717989,Karim Mohamed Maamoun,5,mcp:name:4b38b3b79cdb9656,Juan Martin Del Potro,0.9998637032618073
+mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,1,mcp:name:1ea7f7b8d7fa75e1,John Millman,0.9999076614447535
+mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,2,mcp:name:20d41513d293423d,Alex Molcan,0.9998696307046206
+mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,3,mcp:name:642cbc1c2183b2af,Sebastian Baez,0.9998393314034553
+mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,4,mcp:name:f97f6231e8d2c7c9,Gilles Simon,0.999833579308439
+mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,5,mcp:name:b437d327e439a811,Jenson Brooksby,0.9998278310643364
+mcp:name:69d17412bf23735d,Feliciano Lopez,1,mcp:name:39bb3613c1266fdb,Marc Rosset,0.9997699259079512
+mcp:name:69d17412bf23735d,Feliciano Lopez,2,mcp:name:fa79e59f9908fd14,Mardy Fish,0.999713624123559
+mcp:name:69d17412bf23735d,Feliciano Lopez,3,mcp:name:595cc18158c7921f,Mario Ancic,0.9996135985005173
+mcp:name:69d17412bf23735d,Feliciano Lopez,4,mcp:name:08f23c034ddd2bb0,Ethan Quinn,0.9995893633887114
+mcp:name:69d17412bf23735d,Feliciano Lopez,5,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9995065942829108
+mcp:name:b6c6d36e74a83075,Dominik Koepfer,1,mcp:name:917ef3f5a0a9575c,Alejandro Davidovich Fokina,0.9997342271295996
+mcp:name:b6c6d36e74a83075,Dominik Koepfer,2,mcp:name:9568ad1ddd4f1975,Valentin Vacherot,0.999719628695728
+mcp:name:b6c6d36e74a83075,Dominik Koepfer,3,mcp:name:a44076992a783151,Marcel Granollers,0.9997128772966623
+mcp:name:b6c6d36e74a83075,Dominik Koepfer,4,mcp:name:42057fa22d846d1c,Jiri Novak,0.9996775860617262
+mcp:name:b6c6d36e74a83075,Dominik Koepfer,5,mcp:name:e667b9a7208005de,Viktor Troicki,0.9996385094750073
+mcp:name:87377de7f0c5420e,Denis Kudla,1,mcp:name:15493bf40d2ee6b7,Denis Istomin,0.9998212318563731
+mcp:name:87377de7f0c5420e,Denis Kudla,2,mcp:name:14c77f282e87e90b,Fabio Fognini,0.9997888680502105
+mcp:name:87377de7f0c5420e,Denis Kudla,3,mcp:name:fba9c928e27c3eb9,Kei Nishikori,0.9997658068126855
+mcp:name:87377de7f0c5420e,Denis Kudla,4,mcp:name:4b38b3b79cdb9656,Juan Martin Del Potro,0.9997377552669662
+mcp:name:87377de7f0c5420e,Denis Kudla,5,mcp:name:26c5ad708cf115c2,Janko Tipsarevic,0.9997370911627715
+mcp:name:a57560b810a5122d,Joao Sousa,1,mcp:name:98446d42a78a5437,Radu Albot,0.9996581280741347
+mcp:name:a57560b810a5122d,Joao Sousa,2,mcp:name:493f5c9de1ab8611,Federico Delbonis,0.9995621205803895
+mcp:name:a57560b810a5122d,Joao Sousa,3,mcp:name:268c3aece86d5940,Tommy Robredo,0.9995440449914924
+mcp:name:a57560b810a5122d,Joao Sousa,4,mcp:name:95c0894c6458a63b,Carlos Moya,0.9994751528817644
+mcp:name:a57560b810a5122d,Joao Sousa,5,mcp:name:016a1d82c65f1c72,Nicolas Massu,0.9992813855093768
+mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,1,mcp:name:2e2371691e4b5ec9,Fernando Verdasco,0.9999447575425272
+mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,2,mcp:name:83eab719d14aef26,Thiago Monteiro,0.9999258271540234
+mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,3,mcp:name:509e5bb6dc77ad77,Kyle Edmund,0.9999247637342923
+mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,4,mcp:name:e5c82d324df2a5ad,Pablo Cuevas,0.9998932697241951
+mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,5,mcp:name:1e6dc730d112c3b5,Nuno Borges,0.9998911631314276
+mcp:name:509e5bb6dc77ad77,Kyle Edmund,1,mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,0.9999247637342923
+mcp:name:509e5bb6dc77ad77,Kyle Edmund,2,mcp:name:6ad8757cc1d69846,Peter Gojowczyk,0.9999035864950332
+mcp:name:509e5bb6dc77ad77,Kyle Edmund,3,mcp:name:83eab719d14aef26,Thiago Monteiro,0.9998948988404319
+mcp:name:509e5bb6dc77ad77,Kyle Edmund,4,mcp:name:d26789a6b4befd6b,Thanasi Kokkinakis,0.999873286292874
+mcp:name:509e5bb6dc77ad77,Kyle Edmund,5,mcp:name:1e6dc730d112c3b5,Nuno Borges,0.9998710897509663
+mcp:name:9db8845c4b5334e8,Jordan Thompson,1,mcp:name:c7296863b87c3e4c,Jesper De Jong,0.9999714694977863
+mcp:name:9db8845c4b5334e8,Jordan Thompson,2,mcp:name:0ce995acfa31b615,Christopher Oconnell,0.99988035827936
+mcp:name:9db8845c4b5334e8,Jordan Thompson,3,mcp:name:c3cb1c6cec5a0480,Tomas Berdych,0.9998497311110806
+mcp:name:9db8845c4b5334e8,Jordan Thompson,4,mcp:name:52d76978566a1328,Mackenzie Mcdonald,0.9998433933418132
+mcp:name:9db8845c4b5334e8,Jordan Thompson,5,mcp:name:12c038b4ed7411ae,Robin Soderling,0.9998244604164184
+mcp:name:6ad8757cc1d69846,Peter Gojowczyk,1,mcp:name:509e5bb6dc77ad77,Kyle Edmund,0.9999035864950332
+mcp:name:6ad8757cc1d69846,Peter Gojowczyk,2,mcp:name:c8bfa0642863dc0b,Martin Klizan,0.9997890609131654
+mcp:name:6ad8757cc1d69846,Peter Gojowczyk,3,mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,0.9997626559502572
+mcp:name:6ad8757cc1d69846,Peter Gojowczyk,4,mcp:name:d26789a6b4befd6b,Thanasi Kokkinakis,0.9997605631491224
+mcp:name:6ad8757cc1d69846,Peter Gojowczyk,5,mcp:name:265c75e2d08ae570,Philipp Kohlschreiber,0.9997379195673067
+mcp:name:a85f8420823ea1bf,Pedro Martinez,1,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.9999461642288836
+mcp:name:a85f8420823ea1bf,Pedro Martinez,2,mcp:name:145f3ce4b14a562e,Jaume Munar,0.9999028895344768
+mcp:name:a85f8420823ea1bf,Pedro Martinez,3,mcp:name:bd74a57979374971,Novak Djokovic,0.9999019465033321
+mcp:name:a85f8420823ea1bf,Pedro Martinez,4,mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,0.9998974877922558
+mcp:name:a85f8420823ea1bf,Pedro Martinez,5,mcp:name:4f02e7bfe8bad131,Cristian Garin,0.9998963333827523
+mcp:name:2763404ce3c12b80,Tommy Paul,1,mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,0.9999187637217446
+mcp:name:2763404ce3c12b80,Tommy Paul,2,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.9998847807515094
+mcp:name:2763404ce3c12b80,Tommy Paul,3,mcp:name:5ba1574b70dca737,Alejandro Tabilo,0.9998820490005438
+mcp:name:2763404ce3c12b80,Tommy Paul,4,mcp:name:98446d42a78a5437,Radu Albot,0.9998628582297376
+mcp:name:2763404ce3c12b80,Tommy Paul,5,mcp:name:128470c7c106ed35,Robin Haase,0.9998478015051897
+mcp:name:1175cbd0a4cfdbd6,Adrian Mannarino,1,mcp:name:bceed640e8eea16f,Dusan Lajovic,0.9999054380522986
+mcp:name:1175cbd0a4cfdbd6,Adrian Mannarino,2,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.9998809276458548
+mcp:name:1175cbd0a4cfdbd6,Adrian Mannarino,3,mcp:name:145f3ce4b14a562e,Jaume Munar,0.9998755338058889
+mcp:name:1175cbd0a4cfdbd6,Adrian Mannarino,4,mcp:name:a85f8420823ea1bf,Pedro Martinez,0.9998689408749213
+mcp:name:1175cbd0a4cfdbd6,Adrian Mannarino,5,mcp:name:17f1c1045aeaafa4,Francisco Cerundolo,0.999860037950014
+mcp:name:0ca626f0d42afd27,Ivo Karlovic,1,mcp:name:c9564676909c9a32,Richard Krajicek,0.9989516682907718
+mcp:name:0ca626f0d42afd27,Ivo Karlovic,2,mcp:name:2d891c29b552d53e,Maxime Cressy,0.9988809805646943
+mcp:name:0ca626f0d42afd27,Ivo Karlovic,3,mcp:name:38e85e449334b3f2,Patrick Rafter,0.997828488829996
+mcp:name:0ca626f0d42afd27,Ivo Karlovic,4,mcp:name:2fada6a82c28b9c8,Greg Rusedski,0.9976181837800389
+mcp:name:0ca626f0d42afd27,Ivo Karlovic,5,mcp:name:eaabd11d7b217d88,Pat Cash,0.997311653534979
+mcp:name:15493bf40d2ee6b7,Denis Istomin,1,mcp:name:14c77f282e87e90b,Fabio Fognini,0.999892955541694
+mcp:name:15493bf40d2ee6b7,Denis Istomin,2,mcp:name:4b38b3b79cdb9656,Juan Martin Del Potro,0.9998859133779566
+mcp:name:15493bf40d2ee6b7,Denis Istomin,3,mcp:name:fba9c928e27c3eb9,Kei Nishikori,0.9998730846152456
+mcp:name:15493bf40d2ee6b7,Denis Istomin,4,mcp:name:87377de7f0c5420e,Denis Kudla,0.9998212318563731
+mcp:name:15493bf40d2ee6b7,Denis Istomin,5,mcp:name:77ca75742e5e15ab,Jarkko Nieminen,0.9998183378346791
+mcp:name:a44076992a783151,Marcel Granollers,1,mcp:name:b6c6d36e74a83075,Dominik Koepfer,0.9997128772966623
+mcp:name:a44076992a783151,Marcel Granollers,2,mcp:name:e667b9a7208005de,Viktor Troicki,0.9992997180077106
+mcp:name:a44076992a783151,Marcel Granollers,3,mcp:name:87377de7f0c5420e,Denis Kudla,0.999275624933022
+mcp:name:a44076992a783151,Marcel Granollers,4,mcp:name:917ef3f5a0a9575c,Alejandro Davidovich Fokina,0.9992756176462744
+mcp:name:a44076992a783151,Marcel Granollers,5,mcp:name:42057fa22d846d1c,Jiri Novak,0.9992455912734749
+mcp:name:795731b757adac07,Nicolas Jarry,1,mcp:name:c1fa2844ef3d4c5f,James Duckworth,0.9997823412191743
+mcp:name:795731b757adac07,Nicolas Jarry,2,mcp:name:5c17d1141d8a72aa,Denis Shapovalov,0.999776571364624
+mcp:name:795731b757adac07,Nicolas Jarry,3,mcp:name:b08157a491cf26ee,Alexei Popyrin,0.9997139787252396
+mcp:name:795731b757adac07,Nicolas Jarry,4,mcp:name:4546a200872fbaa1,Tallon Griekspoor,0.9997004871864351
+mcp:name:795731b757adac07,Nicolas Jarry,5,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9996055102524194
+mcp:name:493f5c9de1ab8611,Federico Delbonis,1,mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,0.9999278596934825
+mcp:name:493f5c9de1ab8611,Federico Delbonis,2,mcp:name:98446d42a78a5437,Radu Albot,0.99985245230539
+mcp:name:493f5c9de1ab8611,Federico Delbonis,3,mcp:name:8a9e6f4346848193,Juncheng Shang,0.9998465441235407
+mcp:name:493f5c9de1ab8611,Federico Delbonis,4,mcp:name:4f02e7bfe8bad131,Cristian Garin,0.99981218589924
+mcp:name:493f5c9de1ab8611,Federico Delbonis,5,mcp:name:1e6dc730d112c3b5,Nuno Borges,0.9998030750013576
+mcp:name:550fdb190e2bf4b2,Leonardo Mayer,1,mcp:name:d0ee5e3fa9027bfd,Lorenzo Sonego,0.9999559876694386
+mcp:name:550fdb190e2bf4b2,Leonardo Mayer,2,mcp:name:89bafcf0638d86e5,Ben Shelton,0.9998455596162146
+mcp:name:550fdb190e2bf4b2,Leonardo Mayer,3,mcp:name:e4e238f6eeec4000,Jiri Lehecka,0.9998180625733217
+mcp:name:550fdb190e2bf4b2,Leonardo Mayer,4,mcp:name:fec36fcc86d0812f,Jim Courier,0.9997701898408469
+mcp:name:550fdb190e2bf4b2,Leonardo Mayer,5,mcp:name:e805ce034d9cf236,Felix Auger Aliassime,0.9997501370267603
+mcp:name:ce5c163798f7272b,Laslo Djere,1,mcp:name:33aed30a5d5c27a1,Karen Khachanov,0.9999548598950301
+mcp:name:ce5c163798f7272b,Laslo Djere,2,mcp:name:8fa217c919cb5293,Gael Monfils,0.9999379730361836
+mcp:name:ce5c163798f7272b,Laslo Djere,3,mcp:name:2215bdc5cdba3c16,Marcos Giron,0.9999046927834747
+mcp:name:ce5c163798f7272b,Laslo Djere,4,mcp:name:4f04d3d78b468c4d,David Nalbandian,0.9998902806358493
+mcp:name:ce5c163798f7272b,Laslo Djere,5,mcp:name:88cd6f2d275e1376,Andreas Seppi,0.9998867911230715
+mcp:name:0de7234698f169f8,Gijs Brouwer,1,mcp:name:e805ce034d9cf236,Felix Auger Aliassime,0.9998927742303225
+mcp:name:0de7234698f169f8,Gijs Brouwer,2,mcp:name:12c038b4ed7411ae,Robin Soderling,0.9998656897131785
+mcp:name:0de7234698f169f8,Gijs Brouwer,3,mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,0.9997525998834217
+mcp:name:0de7234698f169f8,Gijs Brouwer,4,mcp:name:b97cedbac73efd28,Aleksandar Kovacevic,0.9997481292534776
+mcp:name:0de7234698f169f8,Gijs Brouwer,5,mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,0.9997452506045394
+mcp:name:2ea935cbca6c5b66,Holger Rune,1,mcp:name:8db9172ce441f810,Rinky Hijikata,0.9999215878727554
+mcp:name:2ea935cbca6c5b66,Holger Rune,2,mcp:name:c89c3202afa7ba34,Fabian Marozsan,0.9999076402483638
+mcp:name:2ea935cbca6c5b66,Holger Rune,3,mcp:name:f194379ec3b1b1af,Jakub Mensik,0.9998995335594193
+mcp:name:2ea935cbca6c5b66,Holger Rune,4,mcp:name:ff9698ebf3f22768,Marco Cecchinato,0.9998785766036711
+mcp:name:2ea935cbca6c5b66,Holger Rune,5,mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,0.99987738890371
+mcp:name:5afd80739c64a99f,Roberto Carballes Baena,1,mcp:name:362d6ef7d5a02751,Guillermo Coria,0.9998451007727475
+mcp:name:5afd80739c64a99f,Roberto Carballes Baena,2,mcp:name:b6b5ed4f6c43d658,Tomas Martin Etcheverry,0.9997600574339482
+mcp:name:5afd80739c64a99f,Roberto Carballes Baena,3,mcp:name:34716b7d5288464b,Alex Corretja,0.9997545848911088
+mcp:name:5afd80739c64a99f,Roberto Carballes Baena,4,mcp:name:145f3ce4b14a562e,Jaume Munar,0.9997373384961485
+mcp:name:5afd80739c64a99f,Roberto Carballes Baena,5,mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,0.9996868778373602
+mcp:name:fba9c928e27c3eb9,Kei Nishikori,1,mcp:name:14c77f282e87e90b,Fabio Fognini,0.9999473654558737
+mcp:name:fba9c928e27c3eb9,Kei Nishikori,2,mcp:name:265c75e2d08ae570,Philipp Kohlschreiber,0.9999166727994309
+mcp:name:fba9c928e27c3eb9,Kei Nishikori,3,mcp:name:15493bf40d2ee6b7,Denis Istomin,0.9998730846152456
+mcp:name:fba9c928e27c3eb9,Kei Nishikori,4,mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,0.9998682906222119
+mcp:name:fba9c928e27c3eb9,Kei Nishikori,5,mcp:name:90137e68226f5695,Alexandre Muller,0.9998550175975938
+mcp:name:08fa8decc34178f8,Guido Pella,1,mcp:name:f0d40165d102fdba,Albert Ramos,0.9999795017576335
+mcp:name:08fa8decc34178f8,Guido Pella,2,mcp:name:98c00545df968267,Federico Coria,0.99992725591844
+mcp:name:08fa8decc34178f8,Guido Pella,3,mcp:name:1e924a7608a1c33d,Learner Tien,0.999891592801124
+mcp:name:08fa8decc34178f8,Guido Pella,4,mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,0.9998544221022526
+mcp:name:08fa8decc34178f8,Guido Pella,5,mcp:name:61084ca9ca789de3,Nicolas Almagro,0.9998308492793542
+mcp:name:2e2371691e4b5ec9,Fernando Verdasco,1,mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,0.9999447575425272
+mcp:name:2e2371691e4b5ec9,Fernando Verdasco,2,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9999398198546593
+mcp:name:2e2371691e4b5ec9,Fernando Verdasco,3,mcp:name:b32b6cd4aaa7b813,Casper Ruud,0.9999138453433131
+mcp:name:2e2371691e4b5ec9,Fernando Verdasco,4,mcp:name:61cdd49c984961f5,Arthur Cazaux,0.9999121095128578
+mcp:name:2e2371691e4b5ec9,Fernando Verdasco,5,mcp:name:11844128aa58e6e1,Tennys Sandgren,0.9999083192760968
+mcp:name:a3f6cc9193b40830,Daniel Altmaier,1,mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,0.99998317034285
+mcp:name:a3f6cc9193b40830,Daniel Altmaier,2,mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,0.9999342162473254
+mcp:name:a3f6cc9193b40830,Daniel Altmaier,3,mcp:name:f864014c5b3e9ad4,Mattia Bellucci,0.9999310103755892
+mcp:name:a3f6cc9193b40830,Daniel Altmaier,4,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9999250243087751
+mcp:name:a3f6cc9193b40830,Daniel Altmaier,5,mcp:name:622e9dac5090a6df,Jack Draper,0.9999097046144578
+mcp:name:aa5ca9ce50a9886f,Steve Johnson,1,mcp:name:dd2d21284a0dea38,Zizou Bergs,0.9997963517190162
+mcp:name:aa5ca9ce50a9886f,Steve Johnson,2,mcp:name:2158169c4b8f202d,Marin Cilic,0.9997504931326135
+mcp:name:aa5ca9ce50a9886f,Steve Johnson,3,mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,0.999724912077834
+mcp:name:aa5ca9ce50a9886f,Steve Johnson,4,mcp:name:d26789a6b4befd6b,Thanasi Kokkinakis,0.9996848674518403
+mcp:name:aa5ca9ce50a9886f,Steve Johnson,5,mcp:name:3e301e4536e717f3,Jeremy Chardy,0.9995770584942181
+mcp:name:fbec46a8321548db,Kevin Anderson,1,mcp:name:dbfa43991a2c7279,Nick Kyrgios,0.9996006361088394
+mcp:name:fbec46a8321548db,Kevin Anderson,2,mcp:name:5c17d1141d8a72aa,Denis Shapovalov,0.9995846001286391
+mcp:name:fbec46a8321548db,Kevin Anderson,3,mcp:name:5fb265f97890fef4,Alexander Bublik,0.9995836004825452
+mcp:name:fbec46a8321548db,Kevin Anderson,4,mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,0.9994981059036293
+mcp:name:fbec46a8321548db,Kevin Anderson,5,mcp:name:0832cecbb64afb98,Hamad Medjedovic,0.9994493321128066
+mcp:name:d9911ed165ef4934,Marcos Baghdatis,1,mcp:name:0c2a7acde13e6928,Juan Carlos Ferrero,0.9999418966448067
+mcp:name:d9911ed165ef4934,Marcos Baghdatis,2,mcp:name:e6f32411db41062e,Mikhail Youzhny,0.999908035633974
+mcp:name:d9911ed165ef4934,Marcos Baghdatis,3,mcp:name:4f04d3d78b468c4d,David Nalbandian,0.9999025877783431
+mcp:name:d9911ed165ef4934,Marcos Baghdatis,4,mcp:name:301bac69d4722217,Lorenzo Musetti,0.999888178520022
+mcp:name:d9911ed165ef4934,Marcos Baghdatis,5,mcp:name:8fa217c919cb5293,Gael Monfils,0.9998865745205029
+mcp:name:72331c4db77a31d9,Mikael Ymer,1,mcp:name:b437d327e439a811,Jenson Brooksby,0.999640526074344
+mcp:name:72331c4db77a31d9,Mikael Ymer,2,mcp:name:736bec36d16357d9,Mariano Navone,0.9995707389884896
+mcp:name:72331c4db77a31d9,Mikael Ymer,3,mcp:name:a5a262f8b66134a9,Alex De Minaur,0.9995649595991573
+mcp:name:72331c4db77a31d9,Mikael Ymer,4,mcp:name:a4f78cbb2df96a5a,David Ferrer,0.9994918714011234
+mcp:name:72331c4db77a31d9,Mikael Ymer,5,mcp:name:d9a8bdf6909fcdfa,Guillermo Garcia Lopez,0.9993585360331088
+mcp:name:c79c5087f2745d80,Dustin Brown,1,mcp:name:3195c9a94ed621ba,Tim Henman,0.9990468322069975
+mcp:name:c79c5087f2745d80,Dustin Brown,2,mcp:name:a0bec9e1eb6b0faf,Todd Martin,0.9990320321774877
+mcp:name:c79c5087f2745d80,Dustin Brown,3,mcp:name:92954bba837a4ff2,Mischa Zverev,0.9984008045788123
+mcp:name:c79c5087f2745d80,Dustin Brown,4,mcp:name:6828f41b51e98a32,Henri Leconte,0.9983417290681369
+mcp:name:c79c5087f2745d80,Dustin Brown,5,mcp:name:e68dc4d36648064e,Gilles Muller,0.9982725735785923
+mcp:name:4b38b3b79cdb9656,Juan Martin Del Potro,1,mcp:name:26c5ad708cf115c2,Janko Tipsarevic,0.9999044824199714
+mcp:name:4b38b3b79cdb9656,Juan Martin Del Potro,2,mcp:name:15493bf40d2ee6b7,Denis Istomin,0.9998859133779566
+mcp:name:4b38b3b79cdb9656,Juan Martin Del Potro,3,mcp:name:61084ca9ca789de3,Nicolas Almagro,0.9998662471704668
+mcp:name:4b38b3b79cdb9656,Juan Martin Del Potro,4,mcp:name:fc18985769717989,Karim Mohamed Maamoun,0.9998637032618073
+mcp:name:4b38b3b79cdb9656,Juan Martin Del Potro,5,mcp:name:195cda3cf4ce1236,Taro Daniel,0.9998300618913665
+mcp:name:879bced301bab9fe,Pierre Hugues Herbert,1,mcp:name:e68dc4d36648064e,Gilles Muller,0.9996987269613645
+mcp:name:879bced301bab9fe,Pierre Hugues Herbert,2,mcp:name:b01b2be0a460f54d,Milos Raonic,0.9994614294776786
+mcp:name:879bced301bab9fe,Pierre Hugues Herbert,3,mcp:name:208a71e9b5508a8f,Giovanni Mpetshi Perricard,0.9994376240720273
+mcp:name:879bced301bab9fe,Pierre Hugues Herbert,4,mcp:name:68debfd9f6ca016a,John Isner,0.9993817175604222
+mcp:name:879bced301bab9fe,Pierre Hugues Herbert,5,mcp:name:7a141f00e62f2698,Guy Forget,0.9990589356695833
+mcp:name:a4f543d946b656bb,Sergiy Stakhovsky,1,mcp:name:8afdca9fce8afe44,Cedric Pioline,0.9998029461985959
+mcp:name:a4f543d946b656bb,Sergiy Stakhovsky,2,mcp:name:595cc18158c7921f,Mario Ancic,0.9996443724427626
+mcp:name:a4f543d946b656bb,Sergiy Stakhovsky,3,mcp:name:eff9c7cd8f245140,Jonas Bjorkman,0.9994785501531748
+mcp:name:a4f543d946b656bb,Sergiy Stakhovsky,4,mcp:name:e0e4361db62dfe12,Radek Stepanek,0.9994487190001771
+mcp:name:a4f543d946b656bb,Sergiy Stakhovsky,5,mcp:name:7a141f00e62f2698,Guy Forget,0.99928979197059
+mcp:name:e667b9a7208005de,Viktor Troicki,1,mcp:name:42057fa22d846d1c,Jiri Novak,0.9999250911186759
+mcp:name:e667b9a7208005de,Viktor Troicki,2,mcp:name:77ca75742e5e15ab,Jarkko Nieminen,0.9998833505008514
+mcp:name:e667b9a7208005de,Viktor Troicki,3,mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,0.9998146196652564
+mcp:name:e667b9a7208005de,Viktor Troicki,4,mcp:name:2763404ce3c12b80,Tommy Paul,0.9998137530186694
+mcp:name:e667b9a7208005de,Viktor Troicki,5,mcp:name:14c77f282e87e90b,Fabio Fognini,0.9997977277975916
+mcp:name:d9a8bdf6909fcdfa,Guillermo Garcia Lopez,1,mcp:name:617722ec2cb54bbb,Hyeon Chung,0.9997831177467885
+mcp:name:d9a8bdf6909fcdfa,Guillermo Garcia Lopez,2,mcp:name:917ef3f5a0a9575c,Alejandro Davidovich Fokina,0.999782587794344
+mcp:name:d9a8bdf6909fcdfa,Guillermo Garcia Lopez,3,mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,0.9997640688480782
+mcp:name:d9a8bdf6909fcdfa,Guillermo Garcia Lopez,4,mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,0.9997034475448379
+mcp:name:d9a8bdf6909fcdfa,Guillermo Garcia Lopez,5,mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,0.9996880725763466
+mcp:name:195cda3cf4ce1236,Taro Daniel,1,mcp:name:61084ca9ca789de3,Nicolas Almagro,0.9999330948539431
+mcp:name:195cda3cf4ce1236,Taro Daniel,2,mcp:name:fc18985769717989,Karim Mohamed Maamoun,0.9998827635639917
+mcp:name:195cda3cf4ce1236,Taro Daniel,3,mcp:name:30fa25c6f8067717,Nikolay Davydenko,0.9998680881690566
+mcp:name:195cda3cf4ce1236,Taro Daniel,4,mcp:name:01c9f161b5b468a2,Andy Murray,0.9998457556572338
+mcp:name:195cda3cf4ce1236,Taro Daniel,5,mcp:name:1e924a7608a1c33d,Learner Tien,0.9998307559955402
+mcp:name:b5d153a82812bfd1,Borna Coric,1,mcp:name:622e9dac5090a6df,Jack Draper,0.9999488905765239
+mcp:name:b5d153a82812bfd1,Borna Coric,2,mcp:name:31135eb0c7e830fe,Taylor Fritz,0.9999440560587718
+mcp:name:b5d153a82812bfd1,Borna Coric,3,mcp:name:a3f6cc9193b40830,Daniel Altmaier,0.9999031911177931
+mcp:name:b5d153a82812bfd1,Borna Coric,4,mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,0.9998938904256174
+mcp:name:b5d153a82812bfd1,Borna Coric,5,mcp:name:99c32f1208d74f43,Aljaz Bedene,0.9998798656990234
+mcp:name:e802000fee24a820,Roman Safiullin,1,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.9999453667581417
+mcp:name:e802000fee24a820,Roman Safiullin,2,mcp:name:5ba1574b70dca737,Alejandro Tabilo,0.9999224545779245
+mcp:name:e802000fee24a820,Roman Safiullin,3,mcp:name:88722768397004f1,Alex Michelsen,0.9998692372256871
+mcp:name:e802000fee24a820,Roman Safiullin,4,mcp:name:2763404ce3c12b80,Tommy Paul,0.9998151232352585
+mcp:name:e802000fee24a820,Roman Safiullin,5,mcp:name:128470c7c106ed35,Robin Haase,0.9998127722465132
+mcp:name:301bac69d4722217,Lorenzo Musetti,1,mcp:name:212ec07f257142b6,David Goffin,0.9999592048754549
+mcp:name:301bac69d4722217,Lorenzo Musetti,2,mcp:name:8fa217c919cb5293,Gael Monfils,0.9999547534106671
+mcp:name:301bac69d4722217,Lorenzo Musetti,3,mcp:name:88cd6f2d275e1376,Andreas Seppi,0.9999398773573097
+mcp:name:301bac69d4722217,Lorenzo Musetti,4,mcp:name:1e924a7608a1c33d,Learner Tien,0.9999388242310542
+mcp:name:301bac69d4722217,Lorenzo Musetti,5,mcp:name:30fa25c6f8067717,Nikolay Davydenko,0.9999161770050674
+mcp:name:a4f78cbb2df96a5a,David Ferrer,1,mcp:name:642cbc1c2183b2af,Sebastian Baez,0.9998576709932567
+mcp:name:a4f78cbb2df96a5a,David Ferrer,2,mcp:name:736bec36d16357d9,Mariano Navone,0.9998086797541588
+mcp:name:a4f78cbb2df96a5a,David Ferrer,3,mcp:name:a3ddad9e6e8f2070,Rafael Nadal,0.999770719641377
+mcp:name:a4f78cbb2df96a5a,David Ferrer,4,mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,0.9997664108171556
+mcp:name:a4f78cbb2df96a5a,David Ferrer,5,mcp:name:a5a262f8b66134a9,Alex De Minaur,0.9997201999764843
+mcp:name:c8bfa0642863dc0b,Martin Klizan,1,mcp:name:12c038b4ed7411ae,Robin Soderling,0.9998813258741623
+mcp:name:c8bfa0642863dc0b,Martin Klizan,2,mcp:name:31135eb0c7e830fe,Taylor Fritz,0.9998779862374841
+mcp:name:c8bfa0642863dc0b,Martin Klizan,3,mcp:name:b81b746b1534e083,Ugo Humbert,0.9998598570186323
+mcp:name:c8bfa0642863dc0b,Martin Klizan,4,mcp:name:3798495a1b0b935d,Andrey Rublev,0.9998506725947287
+mcp:name:c8bfa0642863dc0b,Martin Klizan,5,mcp:name:83eab719d14aef26,Thiago Monteiro,0.9998330241119864
+mcp:name:3e87e975ee11393b,Bernard Tomic,1,mcp:name:57c4023549832138,Alexander Shevchenko,0.9999319697385394
+mcp:name:3e87e975ee11393b,Bernard Tomic,2,mcp:name:11844128aa58e6e1,Tennys Sandgren,0.9998680276305012
+mcp:name:3e87e975ee11393b,Bernard Tomic,3,mcp:name:90137e68226f5695,Alexandre Muller,0.9997702067221131
+mcp:name:3e87e975ee11393b,Bernard Tomic,4,mcp:name:2215bdc5cdba3c16,Marcos Giron,0.9997584768362676
+mcp:name:3e87e975ee11393b,Bernard Tomic,5,mcp:name:1077e8f8a0833cb4,Andre Agassi,0.9997541483891333
+mcp:name:69fbf1d94af20a70,Carlos Alcaraz,1,mcp:name:e802000fee24a820,Roman Safiullin,0.9999453667581417
+mcp:name:69fbf1d94af20a70,Carlos Alcaraz,2,mcp:name:5ba1574b70dca737,Alejandro Tabilo,0.999914450116215
+mcp:name:69fbf1d94af20a70,Carlos Alcaraz,3,mcp:name:88722768397004f1,Alex Michelsen,0.9999064610859913
+mcp:name:69fbf1d94af20a70,Carlos Alcaraz,4,mcp:name:128470c7c106ed35,Robin Haase,0.9999027199575024
+mcp:name:69fbf1d94af20a70,Carlos Alcaraz,5,mcp:name:2763404ce3c12b80,Tommy Paul,0.9998847807515094
+mcp:name:61084ca9ca789de3,Nicolas Almagro,1,mcp:name:30fa25c6f8067717,Nikolay Davydenko,0.9999504105766188
+mcp:name:61084ca9ca789de3,Nicolas Almagro,2,mcp:name:fc18985769717989,Karim Mohamed Maamoun,0.9999413710075333
+mcp:name:61084ca9ca789de3,Nicolas Almagro,3,mcp:name:195cda3cf4ce1236,Taro Daniel,0.9999330948539431
+mcp:name:61084ca9ca789de3,Nicolas Almagro,4,mcp:name:88cd6f2d275e1376,Andreas Seppi,0.9999326972619622
+mcp:name:61084ca9ca789de3,Nicolas Almagro,5,mcp:name:1e924a7608a1c33d,Learner Tien,0.9999094814890408
+mcp:name:98c00545df968267,Federico Coria,1,mcp:name:f0d40165d102fdba,Albert Ramos,0.9999636830028537
+mcp:name:98c00545df968267,Federico Coria,2,mcp:name:08fa8decc34178f8,Guido Pella,0.99992725591844
+mcp:name:98c00545df968267,Federico Coria,3,mcp:name:ff15c6b7e55aeee9,Thomas Muster,0.9998748619537674
+mcp:name:98c00545df968267,Federico Coria,4,mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,0.9998677065215454
+mcp:name:98c00545df968267,Federico Coria,5,mcp:name:b6b5ed4f6c43d658,Tomas Martin Etcheverry,0.9998368319460573
+mcp:name:268c3aece86d5940,Tommy Robredo,1,mcp:name:8a9e6f4346848193,Juncheng Shang,0.9997691650041854
+mcp:name:268c3aece86d5940,Tommy Robredo,2,mcp:name:493f5c9de1ab8611,Federico Delbonis,0.99975483946105
+mcp:name:268c3aece86d5940,Tommy Robredo,3,mcp:name:3974d1098f0cc119,Pablo Carreno Busta,0.9997505534555163
+mcp:name:268c3aece86d5940,Tommy Robredo,4,mcp:name:a3ddad9e6e8f2070,Rafael Nadal,0.9996532456960069
+mcp:name:268c3aece86d5940,Tommy Robredo,5,mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,0.9996352966676669
+mcp:name:52d76978566a1328,Mackenzie Mcdonald,1,mcp:name:0ce995acfa31b615,Christopher Oconnell,0.9998935163280501
+mcp:name:52d76978566a1328,Mackenzie Mcdonald,2,mcp:name:12c038b4ed7411ae,Robin Soderling,0.9998801971833059
+mcp:name:52d76978566a1328,Mackenzie Mcdonald,3,mcp:name:a3f6cc9193b40830,Daniel Altmaier,0.999857861515028
+mcp:name:52d76978566a1328,Mackenzie Mcdonald,4,mcp:name:b5d153a82812bfd1,Borna Coric,0.9998472351645784
+mcp:name:52d76978566a1328,Mackenzie Mcdonald,5,mcp:name:9db8845c4b5334e8,Jordan Thompson,0.9998433933418132
+mcp:name:c3cb1c6cec5a0480,Tomas Berdych,1,mcp:name:128470c7c106ed35,Robin Haase,0.9999239240255459
+mcp:name:c3cb1c6cec5a0480,Tomas Berdych,2,mcp:name:12c038b4ed7411ae,Robin Soderling,0.9998823196526718
+mcp:name:c3cb1c6cec5a0480,Tomas Berdych,3,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.9998799137797055
+mcp:name:c3cb1c6cec5a0480,Tomas Berdych,4,mcp:name:265c75e2d08ae570,Philipp Kohlschreiber,0.9998756843637484
+mcp:name:c3cb1c6cec5a0480,Tomas Berdych,5,mcp:name:cdea68fb7d69eced,Grigor Dimitrov,0.9998698770710992
+mcp:name:b08157a491cf26ee,Alexei Popyrin,1,mcp:name:4546a200872fbaa1,Tallon Griekspoor,0.9998841985722198
+mcp:name:b08157a491cf26ee,Alexei Popyrin,2,mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,0.9998162544229923
+mcp:name:b08157a491cf26ee,Alexei Popyrin,3,mcp:name:e4e238f6eeec4000,Jiri Lehecka,0.9997973132911363
+mcp:name:b08157a491cf26ee,Alexei Popyrin,4,mcp:name:5c17d1141d8a72aa,Denis Shapovalov,0.9997929001997612
+mcp:name:b08157a491cf26ee,Alexei Popyrin,5,mcp:name:fec36fcc86d0812f,Jim Courier,0.9997840794860428
+mcp:name:92954bba837a4ff2,Mischa Zverev,1,mcp:name:3f5423290ea3df23,Boris Becker,0.9991514094629986
+mcp:name:92954bba837a4ff2,Mischa Zverev,2,mcp:name:6828f41b51e98a32,Henri Leconte,0.9991474276731342
+mcp:name:92954bba837a4ff2,Mischa Zverev,3,mcp:name:3195c9a94ed621ba,Tim Henman,0.9989676961071402
+mcp:name:92954bba837a4ff2,Mischa Zverev,4,mcp:name:a0bec9e1eb6b0faf,Todd Martin,0.9987084101402891
+mcp:name:92954bba837a4ff2,Mischa Zverev,5,mcp:name:c79c5087f2745d80,Dustin Brown,0.9984008045788123
+mcp:name:2215bdc5cdba3c16,Marcos Giron,1,mcp:name:212ec07f257142b6,David Goffin,0.9999131385317717
+mcp:name:2215bdc5cdba3c16,Marcos Giron,2,mcp:name:ce5c163798f7272b,Laslo Djere,0.9999046927834747
+mcp:name:2215bdc5cdba3c16,Marcos Giron,3,mcp:name:bceed640e8eea16f,Dusan Lajovic,0.9998794418282907
+mcp:name:2215bdc5cdba3c16,Marcos Giron,4,mcp:name:0c2a7acde13e6928,Juan Carlos Ferrero,0.999869662068123
+mcp:name:2215bdc5cdba3c16,Marcos Giron,5,mcp:name:e69fdf09d77d5339,Lleyton Hewitt,0.9998463709922248
+mcp:name:7bbd3d8b1abf8d06,Thiago Seyboth Wild,1,mcp:name:f680888208420202,Luciano Darderi,0.9999195275199174
+mcp:name:7bbd3d8b1abf8d06,Thiago Seyboth Wild,2,mcp:name:0a7012dc615cb7f9,Flavio Cobolli,0.9998505746901171
+mcp:name:7bbd3d8b1abf8d06,Thiago Seyboth Wild,3,mcp:name:b32b6cd4aaa7b813,Casper Ruud,0.9998332964916817
+mcp:name:7bbd3d8b1abf8d06,Thiago Seyboth Wild,4,mcp:name:ff9698ebf3f22768,Marco Cecchinato,0.9998198026256557
+mcp:name:7bbd3d8b1abf8d06,Thiago Seyboth Wild,5,mcp:name:2e2371691e4b5ec9,Fernando Verdasco,0.999812975611593
+mcp:name:e5c82d324df2a5ad,Pablo Cuevas,1,mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,0.9998932697241951
+mcp:name:e5c82d324df2a5ad,Pablo Cuevas,2,mcp:name:83eab719d14aef26,Thiago Monteiro,0.9998818218695682
+mcp:name:e5c82d324df2a5ad,Pablo Cuevas,3,mcp:name:2e2371691e4b5ec9,Fernando Verdasco,0.9998212924470141
+mcp:name:e5c82d324df2a5ad,Pablo Cuevas,4,mcp:name:509e5bb6dc77ad77,Kyle Edmund,0.9997954704539946
+mcp:name:e5c82d324df2a5ad,Pablo Cuevas,5,mcp:name:5b9770471acccef1,Rafael Jodar,0.9997795690085064
+mcp:name:34ae389ecb73b0e4,Damir Dzumhur,1,mcp:name:90e7835497edb200,Daniil Medvedev,0.9997995110757151
+mcp:name:34ae389ecb73b0e4,Damir Dzumhur,2,mcp:name:e6f32411db41062e,Mikhail Youzhny,0.9997341401492873
+mcp:name:34ae389ecb73b0e4,Damir Dzumhur,3,mcp:name:ad1773aa5a15134a,Michael Chang,0.9996932197347544
+mcp:name:34ae389ecb73b0e4,Damir Dzumhur,4,mcp:name:c856bc8dcd22698c,Sergi Bruguera,0.9996916272110519
+mcp:name:34ae389ecb73b0e4,Damir Dzumhur,5,mcp:name:5aff05b48a120b4d,Ivan Lendl,0.9996723471199839
+mcp:name:c8f0ceb631594008,Christopher Eubanks,1,mcp:name:508da26188cf8069,Reilly Opelka,0.9998155965229413
+mcp:name:c8f0ceb631594008,Christopher Eubanks,2,mcp:name:b01b2be0a460f54d,Milos Raonic,0.9995303790791885
+mcp:name:c8f0ceb631594008,Christopher Eubanks,3,mcp:name:68debfd9f6ca016a,John Isner,0.999471788887166
+mcp:name:c8f0ceb631594008,Christopher Eubanks,4,mcp:name:208a71e9b5508a8f,Giovanni Mpetshi Perricard,0.9992468460033863
+mcp:name:c8f0ceb631594008,Christopher Eubanks,5,mcp:name:879bced301bab9fe,Pierre Hugues Herbert,0.998954686244154
+mcp:name:2692f651f465932b,Ernests Gulbis,1,mcp:name:04d3dab05e18e3b7,Filip Krajinovic,0.9997615609277465
+mcp:name:2692f651f465932b,Ernests Gulbis,2,mcp:name:90137e68226f5695,Alexandre Muller,0.9997204289925536
+mcp:name:2692f651f465932b,Ernests Gulbis,3,mcp:name:87377de7f0c5420e,Denis Kudla,0.999682858180814
+mcp:name:2692f651f465932b,Ernests Gulbis,4,mcp:name:8cf21c4a88e01006,Marat Safin,0.9996776639301768
+mcp:name:2692f651f465932b,Ernests Gulbis,5,mcp:name:e510292b64208ec5,Tommy Haas,0.999644964634436
+mcp:name:617722ec2cb54bbb,Hyeon Chung,1,mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,0.9998641488261136
+mcp:name:617722ec2cb54bbb,Hyeon Chung,2,mcp:name:a5a262f8b66134a9,Alex De Minaur,0.9998171949668748
+mcp:name:617722ec2cb54bbb,Hyeon Chung,3,mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,0.9997976020569294
+mcp:name:617722ec2cb54bbb,Hyeon Chung,4,mcp:name:d9a8bdf6909fcdfa,Guillermo Garcia Lopez,0.9997831177467885
+mcp:name:617722ec2cb54bbb,Hyeon Chung,5,mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,0.9996907029612078
+mcp:name:e4e238f6eeec4000,Jiri Lehecka,1,mcp:name:89bafcf0638d86e5,Ben Shelton,0.9998834743983572
+mcp:name:e4e238f6eeec4000,Jiri Lehecka,2,mcp:name:fec36fcc86d0812f,Jim Courier,0.9998730114363271
+mcp:name:e4e238f6eeec4000,Jiri Lehecka,3,mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,0.9998511759592416
+mcp:name:e4e238f6eeec4000,Jiri Lehecka,4,mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,0.9998425119846479
+mcp:name:e4e238f6eeec4000,Jiri Lehecka,5,mcp:name:550fdb190e2bf4b2,Leonardo Mayer,0.9998180625733217
+mcp:name:c99f515abeaf68eb,Lukas Rosol,1,mcp:name:4341b55e105643cb,Aslan Karatsev,0.999787387957441
+mcp:name:c99f515abeaf68eb,Lukas Rosol,2,mcp:name:88722768397004f1,Alex Michelsen,0.9995430783338249
+mcp:name:c99f515abeaf68eb,Lukas Rosol,3,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.9994394955586963
+mcp:name:c99f515abeaf68eb,Lukas Rosol,4,mcp:name:d0ee5e3fa9027bfd,Lorenzo Sonego,0.9994342047716466
+mcp:name:c99f515abeaf68eb,Lukas Rosol,5,mcp:name:5705a4458bf90811,Hugo Gaston,0.999413166864643
+mcp:name:1ea7f7b8d7fa75e1,John Millman,1,mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,0.9999076614447535
+mcp:name:1ea7f7b8d7fa75e1,John Millman,2,mcp:name:b437d327e439a811,Jenson Brooksby,0.9998672336303237
+mcp:name:1ea7f7b8d7fa75e1,John Millman,3,mcp:name:34716b7d5288464b,Alex Corretja,0.999830603030936
+mcp:name:1ea7f7b8d7fa75e1,John Millman,4,mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,0.999807782385673
+mcp:name:1ea7f7b8d7fa75e1,John Millman,5,mcp:name:362d6ef7d5a02751,Guillermo Coria,0.9997638414724483
+mcp:name:e6f32411db41062e,Mikhail Youzhny,1,mcp:name:4f04d3d78b468c4d,David Nalbandian,0.9999171638399638
+mcp:name:e6f32411db41062e,Mikhail Youzhny,2,mcp:name:d9911ed165ef4934,Marcos Baghdatis,0.999908035633974
+mcp:name:e6f32411db41062e,Mikhail Youzhny,3,mcp:name:0c2a7acde13e6928,Juan Carlos Ferrero,0.9998434458667081
+mcp:name:e6f32411db41062e,Mikhail Youzhny,4,mcp:name:ad1773aa5a15134a,Michael Chang,0.999837496722558
+mcp:name:e6f32411db41062e,Mikhail Youzhny,5,mcp:name:9d7615452c8af1c8,Richard Gasquet,0.9998328772363139
+mcp:name:927d15ca6b6b62eb,Alexandr Dolgopolov,1,mcp:name:598d933afe9f24cd,Nikoloz Basilashvili,0.999356313851584
+mcp:name:927d15ca6b6b62eb,Alexandr Dolgopolov,2,mcp:name:5705a4458bf90811,Hugo Gaston,0.9992164077226585
+mcp:name:927d15ca6b6b62eb,Alexandr Dolgopolov,3,mcp:name:c2bf9df48b541ba3,Andrei Medvedev,0.9990676315319891
+mcp:name:927d15ca6b6b62eb,Alexandr Dolgopolov,4,mcp:name:1077e8f8a0833cb4,Andre Agassi,0.9990596207821594
+mcp:name:927d15ca6b6b62eb,Alexandr Dolgopolov,5,mcp:name:3e87e975ee11393b,Bernard Tomic,0.9990355087996703
+mcp:name:d26789a6b4befd6b,Thanasi Kokkinakis,1,mcp:name:83eab719d14aef26,Thiago Monteiro,0.9998956698517946
+mcp:name:d26789a6b4befd6b,Thanasi Kokkinakis,2,mcp:name:2158169c4b8f202d,Marin Cilic,0.9998872645719656
+mcp:name:d26789a6b4befd6b,Thanasi Kokkinakis,3,mcp:name:509e5bb6dc77ad77,Kyle Edmund,0.999873286292874
+mcp:name:d26789a6b4befd6b,Thanasi Kokkinakis,4,mcp:name:bbd53498815bdbb1,Joao Fonseca,0.9998358996330521
+mcp:name:d26789a6b4befd6b,Thanasi Kokkinakis,5,mcp:name:53360170f5a94fde,Gregoire Barrere,0.9998143749469113
+mcp:name:e68dc4d36648064e,Gilles Muller,1,mcp:name:879bced301bab9fe,Pierre Hugues Herbert,0.9996987269613645
+mcp:name:e68dc4d36648064e,Gilles Muller,2,mcp:name:208a71e9b5508a8f,Giovanni Mpetshi Perricard,0.9992909920868507
+mcp:name:e68dc4d36648064e,Gilles Muller,3,mcp:name:7a141f00e62f2698,Guy Forget,0.9992047625166833
+mcp:name:e68dc4d36648064e,Gilles Muller,4,mcp:name:68debfd9f6ca016a,John Isner,0.9991544916790134
+mcp:name:e68dc4d36648064e,Gilles Muller,5,mcp:name:02b4acf7dd8f846a,Malivai Washington,0.9991543673215957
+mcp:name:e510292b64208ec5,Tommy Haas,1,mcp:name:8cf21c4a88e01006,Marat Safin,0.9999655120049816
+mcp:name:e510292b64208ec5,Tommy Haas,2,mcp:name:04d3dab05e18e3b7,Filip Krajinovic,0.9998980210090189
+mcp:name:e510292b64208ec5,Tommy Haas,3,mcp:name:6075475e06014e4c,Frances Tiafoe,0.999871629813662
+mcp:name:e510292b64208ec5,Tommy Haas,4,mcp:name:9d7615452c8af1c8,Richard Gasquet,0.9998631380540303
+mcp:name:e510292b64208ec5,Tommy Haas,5,mcp:name:9d6201421a25e42e,Tomas Machac,0.9998345995188859
+mcp:name:544dcfdfafe6887b,Quentin Halys,1,mcp:name:a4084687c328e55a,Sam Querrey,0.9993448974139614
+mcp:name:544dcfdfafe6887b,Quentin Halys,2,mcp:name:6086069cdc93a7ed,Petr Korda,0.9993156781104731
+mcp:name:544dcfdfafe6887b,Quentin Halys,3,mcp:name:c58f176af91f17da,Tim Van Rijthoven,0.9992819182373052
+mcp:name:544dcfdfafe6887b,Quentin Halys,4,mcp:name:dbfa43991a2c7279,Nick Kyrgios,0.9991652769374642
+mcp:name:544dcfdfafe6887b,Quentin Halys,5,mcp:name:c1fa2844ef3d4c5f,James Duckworth,0.9991091300855048
+mcp:name:53360170f5a94fde,Gregoire Barrere,1,mcp:name:bbd53498815bdbb1,Joao Fonseca,0.9999071338386688
+mcp:name:53360170f5a94fde,Gregoire Barrere,2,mcp:name:6075475e06014e4c,Frances Tiafoe,0.9998842335990822
+mcp:name:53360170f5a94fde,Gregoire Barrere,3,mcp:name:f864014c5b3e9ad4,Mattia Bellucci,0.9998456201693513
+mcp:name:53360170f5a94fde,Gregoire Barrere,4,mcp:name:509e5bb6dc77ad77,Kyle Edmund,0.9998406700427707
+mcp:name:53360170f5a94fde,Gregoire Barrere,5,mcp:name:81c6f30892333db8,Yannick Hanfmann,0.9998254798941295
+mcp:name:0ce995acfa31b615,Christopher Oconnell,1,mcp:name:5a85634ba23d70e1,Alexander Zverev,0.9998968695870575
+mcp:name:0ce995acfa31b615,Christopher Oconnell,2,mcp:name:a3f6cc9193b40830,Daniel Altmaier,0.9998950036062971
+mcp:name:0ce995acfa31b615,Christopher Oconnell,3,mcp:name:52d76978566a1328,Mackenzie Mcdonald,0.9998935163280501
+mcp:name:0ce995acfa31b615,Christopher Oconnell,4,mcp:name:cdea68fb7d69eced,Grigor Dimitrov,0.9998897178214904
+mcp:name:0ce995acfa31b615,Christopher Oconnell,5,mcp:name:9db8845c4b5334e8,Jordan Thompson,0.99988035827936
+mcp:name:c1fa2844ef3d4c5f,James Duckworth,1,mcp:name:795731b757adac07,Nicolas Jarry,0.9997823412191743
+mcp:name:c1fa2844ef3d4c5f,James Duckworth,2,mcp:name:4546a200872fbaa1,Tallon Griekspoor,0.9997673148960994
+mcp:name:c1fa2844ef3d4c5f,James Duckworth,3,mcp:name:6086069cdc93a7ed,Petr Korda,0.9997083492898252
+mcp:name:c1fa2844ef3d4c5f,James Duckworth,4,mcp:name:b08157a491cf26ee,Alexei Popyrin,0.9996444816185793
+mcp:name:c1fa2844ef3d4c5f,James Duckworth,5,mcp:name:c58f176af91f17da,Tim Van Rijthoven,0.9996074851589639
+mcp:name:e69fdf09d77d5339,Lleyton Hewitt,1,mcp:name:1175cbd0a4cfdbd6,Adrian Mannarino,0.9998582482539813
+mcp:name:e69fdf09d77d5339,Lleyton Hewitt,2,mcp:name:bceed640e8eea16f,Dusan Lajovic,0.9998525253909539
+mcp:name:e69fdf09d77d5339,Lleyton Hewitt,3,mcp:name:2215bdc5cdba3c16,Marcos Giron,0.9998463709922248
+mcp:name:e69fdf09d77d5339,Lleyton Hewitt,4,mcp:name:0c2a7acde13e6928,Juan Carlos Ferrero,0.9998165096880463
+mcp:name:e69fdf09d77d5339,Lleyton Hewitt,5,mcp:name:bd74a57979374971,Novak Djokovic,0.9997956194708792
+mcp:name:e0e4361db62dfe12,Radek Stepanek,1,mcp:name:595cc18158c7921f,Mario Ancic,0.9997597936312679
+mcp:name:e0e4361db62dfe12,Radek Stepanek,2,mcp:name:8afdca9fce8afe44,Cedric Pioline,0.9994727536921995
+mcp:name:e0e4361db62dfe12,Radek Stepanek,3,mcp:name:a4f543d946b656bb,Sergiy Stakhovsky,0.9994487190001771
+mcp:name:e0e4361db62dfe12,Radek Stepanek,4,mcp:name:69d17412bf23735d,Feliciano Lopez,0.9990283193792651
+mcp:name:e0e4361db62dfe12,Radek Stepanek,5,mcp:name:eff9c7cd8f245140,Jonas Bjorkman,0.998954392917185
+mcp:name:77ca75742e5e15ab,Jarkko Nieminen,1,mcp:name:14c77f282e87e90b,Fabio Fognini,0.9999097682138863
+mcp:name:77ca75742e5e15ab,Jarkko Nieminen,2,mcp:name:e667b9a7208005de,Viktor Troicki,0.9998833505008514
+mcp:name:77ca75742e5e15ab,Jarkko Nieminen,3,mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,0.9998748455017394
+mcp:name:77ca75742e5e15ab,Jarkko Nieminen,4,mcp:name:4f02e7bfe8bad131,Cristian Garin,0.9998668249202957
+mcp:name:77ca75742e5e15ab,Jarkko Nieminen,5,mcp:name:26c5ad708cf115c2,Janko Tipsarevic,0.999849972985961
+mcp:name:30fa25c6f8067717,Nikolay Davydenko,1,mcp:name:88cd6f2d275e1376,Andreas Seppi,0.9999623005602182
+mcp:name:30fa25c6f8067717,Nikolay Davydenko,2,mcp:name:61084ca9ca789de3,Nicolas Almagro,0.9999504105766188
+mcp:name:30fa25c6f8067717,Nikolay Davydenko,3,mcp:name:fc18985769717989,Karim Mohamed Maamoun,0.9999361947209939
+mcp:name:30fa25c6f8067717,Nikolay Davydenko,4,mcp:name:301bac69d4722217,Lorenzo Musetti,0.9999161770050674
+mcp:name:30fa25c6f8067717,Nikolay Davydenko,5,mcp:name:1e924a7608a1c33d,Learner Tien,0.9998986998783249
+mcp:name:fc8f1d8d707edac9,Andy Roddick,1,mcp:name:bd514ec75f5a95fc,Hubert Hurkacz,0.9999183907464015
+mcp:name:fc8f1d8d707edac9,Andy Roddick,2,mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,0.9998425762582829
+mcp:name:fc8f1d8d707edac9,Andy Roddick,3,mcp:name:052afe8eb025f4b6,Roger Federer,0.9997987660752714
+mcp:name:fc8f1d8d707edac9,Andy Roddick,4,mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,0.9997484780956406
+mcp:name:fc8f1d8d707edac9,Andy Roddick,5,mcp:name:0d5ef74dd7a57b1c,Otto Virtanen,0.9996946435764765
+mcp:name:fa79e59f9908fd14,Mardy Fish,1,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9997990374722661
+mcp:name:fa79e59f9908fd14,Mardy Fish,2,mcp:name:3825b6c5f795ac39,Jan Lennard Struff,0.999719067856459
+mcp:name:fa79e59f9908fd14,Mardy Fish,3,mcp:name:69d17412bf23735d,Feliciano Lopez,0.999713624123559
+mcp:name:fa79e59f9908fd14,Mardy Fish,4,mcp:name:10c864d7d032ed6e,Gabriel Diallo,0.9997131952323777
+mcp:name:fa79e59f9908fd14,Mardy Fish,5,mcp:name:25d965dd068ad96f,Vasek Pospisil,0.9996626392891313
+mcp:name:4f04d3d78b468c4d,David Nalbandian,1,mcp:name:e6f32411db41062e,Mikhail Youzhny,0.9999171638399638
+mcp:name:4f04d3d78b468c4d,David Nalbandian,2,mcp:name:ad1773aa5a15134a,Michael Chang,0.9999102563614799
+mcp:name:4f04d3d78b468c4d,David Nalbandian,3,mcp:name:d9911ed165ef4934,Marcos Baghdatis,0.9999025877783431
+mcp:name:4f04d3d78b468c4d,David Nalbandian,4,mcp:name:ce5c163798f7272b,Laslo Djere,0.9998902806358493
+mcp:name:4f04d3d78b468c4d,David Nalbandian,5,mcp:name:8fa217c919cb5293,Gael Monfils,0.9998764629785092
+mcp:name:3c061d7f45ea40d1,Stefan Edberg,1,mcp:name:92c0259083e5dfcd,John Mcenroe,0.999809043649688
+mcp:name:3c061d7f45ea40d1,Stefan Edberg,2,mcp:name:eaabd11d7b217d88,Pat Cash,0.9989747239821872
+mcp:name:3c061d7f45ea40d1,Stefan Edberg,3,mcp:name:2fada6a82c28b9c8,Greg Rusedski,0.9985273372287107
+mcp:name:3c061d7f45ea40d1,Stefan Edberg,4,mcp:name:38e85e449334b3f2,Patrick Rafter,0.9985026636204097
+mcp:name:3c061d7f45ea40d1,Stefan Edberg,5,mcp:name:3195c9a94ed621ba,Tim Henman,0.9981548466009473
+mcp:name:ff15c6b7e55aeee9,Thomas Muster,1,mcp:name:b6b5ed4f6c43d658,Tomas Martin Etcheverry,0.9998923784587206
+mcp:name:ff15c6b7e55aeee9,Thomas Muster,2,mcp:name:98c00545df968267,Federico Coria,0.9998748619537674
+mcp:name:ff15c6b7e55aeee9,Thomas Muster,3,mcp:name:f0d40165d102fdba,Albert Ramos,0.9998227997147268
+mcp:name:ff15c6b7e55aeee9,Thomas Muster,4,mcp:name:8a9e6f4346848193,Juncheng Shang,0.9997690763575391
+mcp:name:ff15c6b7e55aeee9,Thomas Muster,5,mcp:name:08fa8decc34178f8,Guido Pella,0.9997650774665051
+mcp:name:25b2a926aaa335f5,Ivan Ljubicic,1,mcp:name:e68e742746c14984,Yevgeny Kafelnikov,0.9999596948455759
+mcp:name:25b2a926aaa335f5,Ivan Ljubicic,2,mcp:name:052afe8eb025f4b6,Roger Federer,0.9998496686279476
+mcp:name:25b2a926aaa335f5,Ivan Ljubicic,3,mcp:name:7b655a14e9b97e2d,Wayne Ferreira,0.9997763419278942
+mcp:name:25b2a926aaa335f5,Ivan Ljubicic,4,mcp:name:aa4a7b779f49e99d,James Blake,0.9996879572305463
+mcp:name:25b2a926aaa335f5,Ivan Ljubicic,5,mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,0.9996608479214188
+mcp:name:aa4a7b779f49e99d,James Blake,1,mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,0.9998394535646187
+mcp:name:aa4a7b779f49e99d,James Blake,2,mcp:name:fec36fcc86d0812f,Jim Courier,0.9998328676830966
+mcp:name:aa4a7b779f49e99d,James Blake,3,mcp:name:e4e238f6eeec4000,Jiri Lehecka,0.9998160210182716
+mcp:name:aa4a7b779f49e99d,James Blake,4,mcp:name:65bc3bdcaf37c6ec,Lucas Pouille,0.999814104724898
+mcp:name:aa4a7b779f49e99d,James Blake,5,mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,0.999808101903019
+mcp:name:12c038b4ed7411ae,Robin Soderling,1,mcp:name:c3cb1c6cec5a0480,Tomas Berdych,0.9998823196526718
+mcp:name:12c038b4ed7411ae,Robin Soderling,2,mcp:name:c8bfa0642863dc0b,Martin Klizan,0.9998813258741623
+mcp:name:12c038b4ed7411ae,Robin Soderling,3,mcp:name:52d76978566a1328,Mackenzie Mcdonald,0.9998801971833059
+mcp:name:12c038b4ed7411ae,Robin Soderling,4,mcp:name:e805ce034d9cf236,Felix Auger Aliassime,0.9998771469473556
+mcp:name:12c038b4ed7411ae,Robin Soderling,5,mcp:name:0de7234698f169f8,Gijs Brouwer,0.9998656897131785
+mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,1,mcp:name:2158169c4b8f202d,Marin Cilic,0.9999619868494999
+mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,2,mcp:name:81c6f30892333db8,Yannick Hanfmann,0.9999285233447044
+mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,3,mcp:name:bbd53498815bdbb1,Joao Fonseca,0.9999082078617908
+mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,4,mcp:name:fec36fcc86d0812f,Jim Courier,0.9998488680956811
+mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,5,mcp:name:8db9172ce441f810,Rinky Hijikata,0.9998310697813536
+mcp:name:c7296863b87c3e4c,Jesper De Jong,1,mcp:name:9db8845c4b5334e8,Jordan Thompson,0.9999714694977863
+mcp:name:c7296863b87c3e4c,Jesper De Jong,2,mcp:name:0ce995acfa31b615,Christopher Oconnell,0.9998291553939463
+mcp:name:c7296863b87c3e4c,Jesper De Jong,3,mcp:name:5a85634ba23d70e1,Alexander Zverev,0.9998157814628604
+mcp:name:c7296863b87c3e4c,Jesper De Jong,4,mcp:name:52d76978566a1328,Mackenzie Mcdonald,0.999813579820953
+mcp:name:c7296863b87c3e4c,Jesper De Jong,5,mcp:name:c3cb1c6cec5a0480,Tomas Berdych,0.9997789388465073
+mcp:name:5b9770471acccef1,Rafael Jodar,1,mcp:name:3798495a1b0b935d,Andrey Rublev,0.9999477572178541
+mcp:name:5b9770471acccef1,Rafael Jodar,2,mcp:name:b81b746b1534e083,Ugo Humbert,0.9999003070214484
+mcp:name:5b9770471acccef1,Rafael Jodar,3,mcp:name:83eab719d14aef26,Thiago Monteiro,0.9998698444244595
+mcp:name:5b9770471acccef1,Rafael Jodar,4,mcp:name:31135eb0c7e830fe,Taylor Fritz,0.9998654181783069
+mcp:name:5b9770471acccef1,Rafael Jodar,5,mcp:name:b5d153a82812bfd1,Borna Coric,0.9998243915449179
+mcp:name:1e924a7608a1c33d,Learner Tien,1,mcp:name:301bac69d4722217,Lorenzo Musetti,0.9999388242310542
+mcp:name:1e924a7608a1c33d,Learner Tien,2,mcp:name:88cd6f2d275e1376,Andreas Seppi,0.9999188615011229
+mcp:name:1e924a7608a1c33d,Learner Tien,3,mcp:name:61084ca9ca789de3,Nicolas Almagro,0.9999094814890408
+mcp:name:1e924a7608a1c33d,Learner Tien,4,mcp:name:30fa25c6f8067717,Nikolay Davydenko,0.9998986998783249
+mcp:name:1e924a7608a1c33d,Learner Tien,5,mcp:name:08fa8decc34178f8,Guido Pella,0.999891592801124
+mcp:name:9d6201421a25e42e,Tomas Machac,1,mcp:name:881b32237c811c69,Sebastian Korda,0.9999133748250988
+mcp:name:9d6201421a25e42e,Tomas Machac,2,mcp:name:6075475e06014e4c,Frances Tiafoe,0.9998638731051872
+mcp:name:9d6201421a25e42e,Tomas Machac,3,mcp:name:04d3dab05e18e3b7,Filip Krajinovic,0.999853951451384
+mcp:name:9d6201421a25e42e,Tomas Machac,4,mcp:name:fd097a4bc4b08546,Benjamin Bonzi,0.9998416836762537
+mcp:name:9d6201421a25e42e,Tomas Machac,5,mcp:name:e510292b64208ec5,Tommy Haas,0.9998345995188859
+mcp:name:08aa98ef776e9474,Arthur Fils,1,mcp:name:ff9698ebf3f22768,Marco Cecchinato,0.9998803483440346
+mcp:name:08aa98ef776e9474,Arthur Fils,2,mcp:name:f194379ec3b1b1af,Jakub Mensik,0.999875660997763
+mcp:name:08aa98ef776e9474,Arthur Fils,3,mcp:name:0a7012dc615cb7f9,Flavio Cobolli,0.9998644016052641
+mcp:name:08aa98ef776e9474,Arthur Fils,4,mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,0.9997678414775731
+mcp:name:08aa98ef776e9474,Arthur Fils,5,mcp:name:2158169c4b8f202d,Marin Cilic,0.9997660696654466
+mcp:name:0a7012dc615cb7f9,Flavio Cobolli,1,mcp:name:ff9698ebf3f22768,Marco Cecchinato,0.9999038972732661
+mcp:name:0a7012dc615cb7f9,Flavio Cobolli,2,mcp:name:57c4023549832138,Alexander Shevchenko,0.9998827621437015
+mcp:name:0a7012dc615cb7f9,Flavio Cobolli,3,mcp:name:08aa98ef776e9474,Arthur Fils,0.9998644016052641
+mcp:name:0a7012dc615cb7f9,Flavio Cobolli,4,mcp:name:7bbd3d8b1abf8d06,Thiago Seyboth Wild,0.9998505746901171
+mcp:name:0a7012dc615cb7f9,Flavio Cobolli,5,mcp:name:f194379ec3b1b1af,Jakub Mensik,0.9998424876457656
+mcp:name:b6b5ed4f6c43d658,Tomas Martin Etcheverry,1,mcp:name:ff15c6b7e55aeee9,Thomas Muster,0.9998923784587206
+mcp:name:b6b5ed4f6c43d658,Tomas Martin Etcheverry,2,mcp:name:a3ddad9e6e8f2070,Rafael Nadal,0.9998542096649496
+mcp:name:b6b5ed4f6c43d658,Tomas Martin Etcheverry,3,mcp:name:8a9e6f4346848193,Juncheng Shang,0.9998391907902396
+mcp:name:b6b5ed4f6c43d658,Tomas Martin Etcheverry,4,mcp:name:98c00545df968267,Federico Coria,0.9998368319460573
+mcp:name:b6b5ed4f6c43d658,Tomas Martin Etcheverry,5,mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,0.9998077480859787
+mcp:name:bbd53498815bdbb1,Joao Fonseca,1,mcp:name:81c6f30892333db8,Yannick Hanfmann,0.9999405200050564
+mcp:name:bbd53498815bdbb1,Joao Fonseca,2,mcp:name:2158169c4b8f202d,Marin Cilic,0.9999370336608229
+mcp:name:bbd53498815bdbb1,Joao Fonseca,3,mcp:name:c89c3202afa7ba34,Fabian Marozsan,0.9999273124433115
+mcp:name:bbd53498815bdbb1,Joao Fonseca,4,mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,0.9999082078617908
+mcp:name:bbd53498815bdbb1,Joao Fonseca,5,mcp:name:53360170f5a94fde,Gregoire Barrere,0.9999071338386688
+mcp:name:89bafcf0638d86e5,Ben Shelton,1,mcp:name:e4e238f6eeec4000,Jiri Lehecka,0.9998834743983572
+mcp:name:89bafcf0638d86e5,Ben Shelton,2,mcp:name:d0ee5e3fa9027bfd,Lorenzo Sonego,0.9998628142888546
+mcp:name:89bafcf0638d86e5,Ben Shelton,3,mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,0.9998526430421759
+mcp:name:89bafcf0638d86e5,Ben Shelton,4,mcp:name:550fdb190e2bf4b2,Leonardo Mayer,0.9998455596162146
+mcp:name:89bafcf0638d86e5,Ben Shelton,5,mcp:name:0d5ef74dd7a57b1c,Otto Virtanen,0.9998028827480474
+mcp:name:ceaadf05715f764e,Brandon Nakashima,1,mcp:name:25e2cbffa2850ed3,Sebastien Grosjean,0.9999030716585309
+mcp:name:ceaadf05715f764e,Brandon Nakashima,2,mcp:name:f680888208420202,Luciano Darderi,0.9998917482612486
+mcp:name:ceaadf05715f764e,Brandon Nakashima,3,mcp:name:4d017710eded4eb5,Dominic Thiem,0.999882099193041
+mcp:name:ceaadf05715f764e,Brandon Nakashima,4,mcp:name:11844128aa58e6e1,Tennys Sandgren,0.9998548904907507
+mcp:name:ceaadf05715f764e,Brandon Nakashima,5,mcp:name:b32b6cd4aaa7b813,Casper Ruud,0.9998537274906979
+mcp:name:aa441ad9b59020b6,Arthur Rinderknech,1,mcp:name:10c864d7d032ed6e,Gabriel Diallo,0.9999232008732014
+mcp:name:aa441ad9b59020b6,Arthur Rinderknech,2,mcp:name:fa79e59f9908fd14,Mardy Fish,0.9997990374722661
+mcp:name:aa441ad9b59020b6,Arthur Rinderknech,3,mcp:name:25d965dd068ad96f,Vasek Pospisil,0.9997985555571609
+mcp:name:aa441ad9b59020b6,Arthur Rinderknech,4,mcp:name:4546a200872fbaa1,Tallon Griekspoor,0.9997777987466568
+mcp:name:aa441ad9b59020b6,Arthur Rinderknech,5,mcp:name:c58f176af91f17da,Tim Van Rijthoven,0.9997751518255189
+mcp:name:9568ad1ddd4f1975,Valentin Vacherot,1,mcp:name:42057fa22d846d1c,Jiri Novak,0.9998285398957589
+mcp:name:9568ad1ddd4f1975,Valentin Vacherot,2,mcp:name:917ef3f5a0a9575c,Alejandro Davidovich Fokina,0.9998003848732756
+mcp:name:9568ad1ddd4f1975,Valentin Vacherot,3,mcp:name:7a0f7714974a0cd9,Pablo Andujar,0.9997703588091518
+mcp:name:9568ad1ddd4f1975,Valentin Vacherot,4,mcp:name:b6c6d36e74a83075,Dominik Koepfer,0.999719628695728
+mcp:name:9568ad1ddd4f1975,Valentin Vacherot,5,mcp:name:3974d1098f0cc119,Pablo Carreno Busta,0.9996994649060791
+mcp:name:c89c3202afa7ba34,Fabian Marozsan,1,mcp:name:bbd53498815bdbb1,Joao Fonseca,0.9999273124433115
+mcp:name:c89c3202afa7ba34,Fabian Marozsan,2,mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,0.9999172580158356
+mcp:name:c89c3202afa7ba34,Fabian Marozsan,3,mcp:name:2ea935cbca6c5b66,Holger Rune,0.9999076402483638
+mcp:name:c89c3202afa7ba34,Fabian Marozsan,4,mcp:name:81c6f30892333db8,Yannick Hanfmann,0.9999033298305007
+mcp:name:c89c3202afa7ba34,Fabian Marozsan,5,mcp:name:12c038b4ed7411ae,Robin Soderling,0.9998608421099621
+mcp:name:f680888208420202,Luciano Darderi,1,mcp:name:b32b6cd4aaa7b813,Casper Ruud,0.9999335088126958
+mcp:name:f680888208420202,Luciano Darderi,2,mcp:name:7bbd3d8b1abf8d06,Thiago Seyboth Wild,0.9999195275199174
+mcp:name:f680888208420202,Luciano Darderi,3,mcp:name:ceaadf05715f764e,Brandon Nakashima,0.9998917482612486
+mcp:name:f680888208420202,Luciano Darderi,4,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9998672953494513
+mcp:name:f680888208420202,Luciano Darderi,5,mcp:name:a3f6cc9193b40830,Daniel Altmaier,0.9998464097898757
+mcp:name:736bec36d16357d9,Mariano Navone,1,mcp:name:a4f78cbb2df96a5a,David Ferrer,0.9998086797541588
+mcp:name:736bec36d16357d9,Mariano Navone,2,mcp:name:20d41513d293423d,Alex Molcan,0.9997597048348061
+mcp:name:736bec36d16357d9,Mariano Navone,3,mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,0.9997568864817266
+mcp:name:736bec36d16357d9,Mariano Navone,4,mcp:name:f97f6231e8d2c7c9,Gilles Simon,0.9997247405809375
+mcp:name:736bec36d16357d9,Mariano Navone,5,mcp:name:b437d327e439a811,Jenson Brooksby,0.9996492635119731
+mcp:name:20d41513d293423d,Alex Molcan,1,mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,0.9998696307046206
+mcp:name:20d41513d293423d,Alex Molcan,2,mcp:name:f97f6231e8d2c7c9,Gilles Simon,0.9998628000792269
+mcp:name:20d41513d293423d,Alex Molcan,3,mcp:name:736bec36d16357d9,Mariano Navone,0.9997597048348061
+mcp:name:20d41513d293423d,Alex Molcan,4,mcp:name:642cbc1c2183b2af,Sebastian Baez,0.9997547342408899
+mcp:name:20d41513d293423d,Alex Molcan,5,mcp:name:a5a262f8b66134a9,Alex De Minaur,0.9996740797614297
+mcp:name:881b32237c811c69,Sebastian Korda,1,mcp:name:9d6201421a25e42e,Tomas Machac,0.9999133748250988
+mcp:name:881b32237c811c69,Sebastian Korda,2,mcp:name:81c6f30892333db8,Yannick Hanfmann,0.9998903595187493
+mcp:name:881b32237c811c69,Sebastian Korda,3,mcp:name:bbd53498815bdbb1,Joao Fonseca,0.9998431060886572
+mcp:name:881b32237c811c69,Sebastian Korda,4,mcp:name:7b655a14e9b97e2d,Wayne Ferreira,0.9998337473481494
+mcp:name:881b32237c811c69,Sebastian Korda,5,mcp:name:c89c3202afa7ba34,Fabian Marozsan,0.9998255889039901
+mcp:name:f194379ec3b1b1af,Jakub Mensik,1,mcp:name:ff9698ebf3f22768,Marco Cecchinato,0.9999477128928362
+mcp:name:f194379ec3b1b1af,Jakub Mensik,2,mcp:name:2ea935cbca6c5b66,Holger Rune,0.9998995335594193
+mcp:name:f194379ec3b1b1af,Jakub Mensik,3,mcp:name:08aa98ef776e9474,Arthur Fils,0.999875660997763
+mcp:name:f194379ec3b1b1af,Jakub Mensik,4,mcp:name:8db9172ce441f810,Rinky Hijikata,0.9998617302151207
+mcp:name:f194379ec3b1b1af,Jakub Mensik,5,mcp:name:0a7012dc615cb7f9,Flavio Cobolli,0.9998424876457656
+mcp:name:08f23c034ddd2bb0,Ethan Quinn,1,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9997003926152744
+mcp:name:08f23c034ddd2bb0,Ethan Quinn,2,mcp:name:10c864d7d032ed6e,Gabriel Diallo,0.9996432734897597
+mcp:name:08f23c034ddd2bb0,Ethan Quinn,3,mcp:name:69d17412bf23735d,Feliciano Lopez,0.9995893633887114
+mcp:name:08f23c034ddd2bb0,Ethan Quinn,4,mcp:name:39bb3613c1266fdb,Marc Rosset,0.9995810092963625
+mcp:name:08f23c034ddd2bb0,Ethan Quinn,5,mcp:name:fa79e59f9908fd14,Mardy Fish,0.9995647132312374
+mcp:name:622e9dac5090a6df,Jack Draper,1,mcp:name:b5d153a82812bfd1,Borna Coric,0.9999488905765239
+mcp:name:622e9dac5090a6df,Jack Draper,2,mcp:name:31135eb0c7e830fe,Taylor Fritz,0.9999453430317613
+mcp:name:622e9dac5090a6df,Jack Draper,3,mcp:name:a3f6cc9193b40830,Daniel Altmaier,0.9999097046144578
+mcp:name:622e9dac5090a6df,Jack Draper,4,mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,0.9998990188790092
+mcp:name:622e9dac5090a6df,Jack Draper,5,mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,0.9998982640989029
+mcp:name:642cbc1c2183b2af,Sebastian Baez,1,mcp:name:a3ddad9e6e8f2070,Rafael Nadal,0.9999162039127591
+mcp:name:642cbc1c2183b2af,Sebastian Baez,2,mcp:name:a4f78cbb2df96a5a,David Ferrer,0.9998576709932567
+mcp:name:642cbc1c2183b2af,Sebastian Baez,3,mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,0.9998545405244613
+mcp:name:642cbc1c2183b2af,Sebastian Baez,4,mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,0.999842817927289
+mcp:name:642cbc1c2183b2af,Sebastian Baez,5,mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,0.9998426691090561
+mcp:name:b97cedbac73efd28,Aleksandar Kovacevic,1,mcp:name:83eab719d14aef26,Thiago Monteiro,0.9997483643210971
+mcp:name:b97cedbac73efd28,Aleksandar Kovacevic,2,mcp:name:0de7234698f169f8,Gijs Brouwer,0.9997481292534776
+mcp:name:b97cedbac73efd28,Aleksandar Kovacevic,3,mcp:name:12c038b4ed7411ae,Robin Soderling,0.9997338044651061
+mcp:name:b97cedbac73efd28,Aleksandar Kovacevic,4,mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,0.9997332504336714
+mcp:name:b97cedbac73efd28,Aleksandar Kovacevic,5,mcp:name:b81b746b1534e083,Ugo Humbert,0.9997206937381624
+mcp:name:5ba1574b70dca737,Alejandro Tabilo,1,mcp:name:e802000fee24a820,Roman Safiullin,0.9999224545779245
+mcp:name:5ba1574b70dca737,Alejandro Tabilo,2,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.999914450116215
+mcp:name:5ba1574b70dca737,Alejandro Tabilo,3,mcp:name:128470c7c106ed35,Robin Haase,0.9999009032068352
+mcp:name:5ba1574b70dca737,Alejandro Tabilo,4,mcp:name:2763404ce3c12b80,Tommy Paul,0.9998820490005438
+mcp:name:5ba1574b70dca737,Alejandro Tabilo,5,mcp:name:25e2cbffa2850ed3,Sebastien Grosjean,0.999849819440925
+mcp:name:b437d327e439a811,Jenson Brooksby,1,mcp:name:1ea7f7b8d7fa75e1,John Millman,0.9998672336303237
+mcp:name:b437d327e439a811,Jenson Brooksby,2,mcp:name:a5a262f8b66134a9,Alex De Minaur,0.999851801587647
+mcp:name:b437d327e439a811,Jenson Brooksby,3,mcp:name:5f0a62ebe0eae4b2,Diego Schwartzman,0.9998278310643364
+mcp:name:b437d327e439a811,Jenson Brooksby,4,mcp:name:34716b7d5288464b,Alex Corretja,0.9997446484551243
+mcp:name:b437d327e439a811,Jenson Brooksby,5,mcp:name:61404b25266ca44f,Andrei Chesnokov,0.9997058193592624
+mcp:name:8a9e6f4346848193,Juncheng Shang,1,mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,0.9998835593116415
+mcp:name:8a9e6f4346848193,Juncheng Shang,2,mcp:name:a3ddad9e6e8f2070,Rafael Nadal,0.9998592421828818
+mcp:name:8a9e6f4346848193,Juncheng Shang,3,mcp:name:493f5c9de1ab8611,Federico Delbonis,0.9998465441235407
+mcp:name:8a9e6f4346848193,Juncheng Shang,4,mcp:name:b6b5ed4f6c43d658,Tomas Martin Etcheverry,0.9998391907902396
+mcp:name:8a9e6f4346848193,Juncheng Shang,5,mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,0.9998343212302891
+mcp:name:0832cecbb64afb98,Hamad Medjedovic,1,mcp:name:dbfa43991a2c7279,Nick Kyrgios,0.9996844029557963
+mcp:name:0832cecbb64afb98,Hamad Medjedovic,2,mcp:name:5fb265f97890fef4,Alexander Bublik,0.9995367905162279
+mcp:name:0832cecbb64afb98,Hamad Medjedovic,3,mcp:name:fbec46a8321548db,Kevin Anderson,0.9994493321128066
+mcp:name:0832cecbb64afb98,Hamad Medjedovic,4,mcp:name:544dcfdfafe6887b,Quentin Halys,0.998965030787922
+mcp:name:0832cecbb64afb98,Hamad Medjedovic,5,mcp:name:c58f176af91f17da,Tim Van Rijthoven,0.998943527575235
+mcp:name:1e6dc730d112c3b5,Nuno Borges,1,mcp:name:265c75e2d08ae570,Philipp Kohlschreiber,0.9999063998771593
+mcp:name:1e6dc730d112c3b5,Nuno Borges,2,mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,0.9998911631314276
+mcp:name:1e6dc730d112c3b5,Nuno Borges,3,mcp:name:61cdd49c984961f5,Arthur Cazaux,0.9998773276458268
+mcp:name:1e6dc730d112c3b5,Nuno Borges,4,mcp:name:509e5bb6dc77ad77,Kyle Edmund,0.9998710897509663
+mcp:name:1e6dc730d112c3b5,Nuno Borges,5,mcp:name:2e2371691e4b5ec9,Fernando Verdasco,0.9998595177718987
+mcp:name:57c4023549832138,Alexander Shevchenko,1,mcp:name:11844128aa58e6e1,Tennys Sandgren,0.9999439949558604
+mcp:name:57c4023549832138,Alexander Shevchenko,2,mcp:name:3e87e975ee11393b,Bernard Tomic,0.9999319697385394
+mcp:name:57c4023549832138,Alexander Shevchenko,3,mcp:name:0a7012dc615cb7f9,Flavio Cobolli,0.9998827621437015
+mcp:name:57c4023549832138,Alexander Shevchenko,4,mcp:name:f864014c5b3e9ad4,Mattia Bellucci,0.9998573358903969
+mcp:name:57c4023549832138,Alexander Shevchenko,5,mcp:name:2e2371691e4b5ec9,Fernando Verdasco,0.9998467041702854
+mcp:name:5705a4458bf90811,Hugo Gaston,1,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.9997680271529585
+mcp:name:5705a4458bf90811,Hugo Gaston,2,mcp:name:11844128aa58e6e1,Tennys Sandgren,0.9996880923659086
+mcp:name:5705a4458bf90811,Hugo Gaston,3,mcp:name:e802000fee24a820,Roman Safiullin,0.9996867884054601
+mcp:name:5705a4458bf90811,Hugo Gaston,4,mcp:name:88722768397004f1,Alex Michelsen,0.9996723422357682
+mcp:name:5705a4458bf90811,Hugo Gaston,5,mcp:name:57c4023549832138,Alexander Shevchenko,0.9996721687226839
+mcp:name:dd2d21284a0dea38,Zizou Bergs,1,mcp:name:e805ce034d9cf236,Felix Auger Aliassime,0.999846111041921
+mcp:name:dd2d21284a0dea38,Zizou Bergs,2,mcp:name:2158169c4b8f202d,Marin Cilic,0.9998033278854863
+mcp:name:dd2d21284a0dea38,Zizou Bergs,3,mcp:name:aa5ca9ce50a9886f,Steve Johnson,0.9997963517190162
+mcp:name:dd2d21284a0dea38,Zizou Bergs,4,mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,0.999779984669748
+mcp:name:dd2d21284a0dea38,Zizou Bergs,5,mcp:name:b08157a491cf26ee,Alexei Popyrin,0.9997661035241729
+mcp:name:8db9172ce441f810,Rinky Hijikata,1,mcp:name:2ea935cbca6c5b66,Holger Rune,0.9999215878727554
+mcp:name:8db9172ce441f810,Rinky Hijikata,2,mcp:name:fec36fcc86d0812f,Jim Courier,0.9998947167496268
+mcp:name:8db9172ce441f810,Rinky Hijikata,3,mcp:name:f194379ec3b1b1af,Jakub Mensik,0.9998617302151207
+mcp:name:8db9172ce441f810,Rinky Hijikata,4,mcp:name:bbd53498815bdbb1,Joao Fonseca,0.9998417706835467
+mcp:name:8db9172ce441f810,Rinky Hijikata,5,mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,0.9998310697813536
+mcp:name:88722768397004f1,Alex Michelsen,1,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.9999064610859913
+mcp:name:88722768397004f1,Alex Michelsen,2,mcp:name:e802000fee24a820,Roman Safiullin,0.9998692372256871
+mcp:name:88722768397004f1,Alex Michelsen,3,mcp:name:5ba1574b70dca737,Alejandro Tabilo,0.9997624897365226
+mcp:name:88722768397004f1,Alex Michelsen,4,mcp:name:c3cb1c6cec5a0480,Tomas Berdych,0.9997504411163298
+mcp:name:88722768397004f1,Alex Michelsen,5,mcp:name:2763404ce3c12b80,Tommy Paul,0.9997434020863081
+mcp:name:208a71e9b5508a8f,Giovanni Mpetshi Perricard,1,mcp:name:879bced301bab9fe,Pierre Hugues Herbert,0.9994376240720273
+mcp:name:208a71e9b5508a8f,Giovanni Mpetshi Perricard,2,mcp:name:68debfd9f6ca016a,John Isner,0.9994176458993916
+mcp:name:208a71e9b5508a8f,Giovanni Mpetshi Perricard,3,mcp:name:e68dc4d36648064e,Gilles Muller,0.9992909920868507
+mcp:name:208a71e9b5508a8f,Giovanni Mpetshi Perricard,4,mcp:name:c8f0ceb631594008,Christopher Eubanks,0.9992468460033863
+mcp:name:208a71e9b5508a8f,Giovanni Mpetshi Perricard,5,mcp:name:b01b2be0a460f54d,Milos Raonic,0.9991940275960038
+mcp:name:1769eb33c97dbf85,Nishesh Basavareddy,1,mcp:name:90137e68226f5695,Alexandre Muller,0.9998523052768026
+mcp:name:1769eb33c97dbf85,Nishesh Basavareddy,2,mcp:name:c2bf9df48b541ba3,Andrei Medvedev,0.9998406647805096
+mcp:name:1769eb33c97dbf85,Nishesh Basavareddy,3,mcp:name:5ba1574b70dca737,Alejandro Tabilo,0.9998279962377334
+mcp:name:1769eb33c97dbf85,Nishesh Basavareddy,4,mcp:name:f3eb8378ea35deaf,Marcelo Rios,0.9998233000681248
+mcp:name:1769eb33c97dbf85,Nishesh Basavareddy,5,mcp:name:ceaadf05715f764e,Brandon Nakashima,0.9998066089208931
+mcp:name:81c6f30892333db8,Yannick Hanfmann,1,mcp:name:bbd53498815bdbb1,Joao Fonseca,0.9999405200050564
+mcp:name:81c6f30892333db8,Yannick Hanfmann,2,mcp:name:2158169c4b8f202d,Marin Cilic,0.9999308573513588
+mcp:name:81c6f30892333db8,Yannick Hanfmann,3,mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,0.9999285233447044
+mcp:name:81c6f30892333db8,Yannick Hanfmann,4,mcp:name:c89c3202afa7ba34,Fabian Marozsan,0.9999033298305007
+mcp:name:81c6f30892333db8,Yannick Hanfmann,5,mcp:name:881b32237c811c69,Sebastian Korda,0.9998903595187493
+mcp:name:90137e68226f5695,Alexandre Muller,1,mcp:name:fba9c928e27c3eb9,Kei Nishikori,0.9998550175975938
+mcp:name:90137e68226f5695,Alexandre Muller,2,mcp:name:1769eb33c97dbf85,Nishesh Basavareddy,0.9998523052768026
+mcp:name:90137e68226f5695,Alexandre Muller,3,mcp:name:5ba1574b70dca737,Alejandro Tabilo,0.9998432353992438
+mcp:name:90137e68226f5695,Alexandre Muller,4,mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,0.9998040758275275
+mcp:name:90137e68226f5695,Alexandre Muller,5,mcp:name:77ca75742e5e15ab,Jarkko Nieminen,0.999799156469885
+mcp:name:17f1c1045aeaafa4,Francisco Cerundolo,1,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.9999136621152884
+mcp:name:17f1c1045aeaafa4,Francisco Cerundolo,2,mcp:name:4f02e7bfe8bad131,Cristian Garin,0.9999132024053419
+mcp:name:17f1c1045aeaafa4,Francisco Cerundolo,3,mcp:name:3974d1098f0cc119,Pablo Carreno Busta,0.999911195941535
+mcp:name:17f1c1045aeaafa4,Francisco Cerundolo,4,mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,0.9999046073459122
+mcp:name:17f1c1045aeaafa4,Francisco Cerundolo,5,mcp:name:a85f8420823ea1bf,Pedro Martinez,0.9998783703931602
+mcp:name:61cdd49c984961f5,Arthur Cazaux,1,mcp:name:33aed30a5d5c27a1,Karen Khachanov,0.9999633041281569
+mcp:name:61cdd49c984961f5,Arthur Cazaux,2,mcp:name:4f02e7bfe8bad131,Cristian Garin,0.9999364298121831
+mcp:name:61cdd49c984961f5,Arthur Cazaux,3,mcp:name:cdea68fb7d69eced,Grigor Dimitrov,0.99993584085692
+mcp:name:61cdd49c984961f5,Arthur Cazaux,4,mcp:name:22d8e83ee60e90b2,Cameron Norrie,0.9999232579125983
+mcp:name:61cdd49c984961f5,Arthur Cazaux,5,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9999231654497569
+mcp:name:f864014c5b3e9ad4,Mattia Bellucci,1,mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,0.9999620375314926
+mcp:name:f864014c5b3e9ad4,Mattia Bellucci,2,mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,0.9999599032095358
+mcp:name:f864014c5b3e9ad4,Mattia Bellucci,3,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9999423649052972
+mcp:name:f864014c5b3e9ad4,Mattia Bellucci,4,mcp:name:cdea68fb7d69eced,Grigor Dimitrov,0.9999421809162123
+mcp:name:f864014c5b3e9ad4,Mattia Bellucci,5,mcp:name:a3f6cc9193b40830,Daniel Altmaier,0.9999310103755892
+mcp:name:fd097a4bc4b08546,Benjamin Bonzi,1,mcp:name:65bc3bdcaf37c6ec,Lucas Pouille,0.9999455535291956
+mcp:name:fd097a4bc4b08546,Benjamin Bonzi,2,mcp:name:6075475e06014e4c,Frances Tiafoe,0.9998516632641794
+mcp:name:fd097a4bc4b08546,Benjamin Bonzi,3,mcp:name:9d6201421a25e42e,Tomas Machac,0.9998416836762537
+mcp:name:fd097a4bc4b08546,Benjamin Bonzi,4,mcp:name:04d3dab05e18e3b7,Filip Krajinovic,0.9998158302434914
+mcp:name:fd097a4bc4b08546,Benjamin Bonzi,5,mcp:name:f3aa06faf0389f6c,Zhizhen Zhang,0.9998094795673214
+mcp:name:10c864d7d032ed6e,Gabriel Diallo,1,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9999232008732014
+mcp:name:10c864d7d032ed6e,Gabriel Diallo,2,mcp:name:fa79e59f9908fd14,Mardy Fish,0.9997131952323777
+mcp:name:10c864d7d032ed6e,Gabriel Diallo,3,mcp:name:b08157a491cf26ee,Alexei Popyrin,0.9996960143216077
+mcp:name:10c864d7d032ed6e,Gabriel Diallo,4,mcp:name:4546a200872fbaa1,Tallon Griekspoor,0.9996801337432469
+mcp:name:10c864d7d032ed6e,Gabriel Diallo,5,mcp:name:25d965dd068ad96f,Vasek Pospisil,0.9996534941635686
+mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,1,mcp:name:493f5c9de1ab8611,Federico Delbonis,0.9999278596934825
+mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,2,mcp:name:4f02e7bfe8bad131,Cristian Garin,0.9999106128008375
+mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,3,mcp:name:a85f8420823ea1bf,Pedro Martinez,0.9998974877922558
+mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,4,mcp:name:8a9e6f4346848193,Juncheng Shang,0.9998835593116415
+mcp:name:ae0fb3c864fcb0a1,Daniel Elahi Galan,5,mcp:name:61cdd49c984961f5,Arthur Cazaux,0.9998718923366952
+mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,1,mcp:name:a3f6cc9193b40830,Daniel Altmaier,0.99998317034285
+mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,2,mcp:name:5efaf6049fe2bd0b,Stan Wawrinka,0.9999708922293369
+mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,3,mcp:name:f864014c5b3e9ad4,Mattia Bellucci,0.9999599032095358
+mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,4,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9999433915070911
+mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,5,mcp:name:31135eb0c7e830fe,Taylor Fritz,0.9999064099374243
+mcp:name:0d5ef74dd7a57b1c,Otto Virtanen,1,mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,0.9998603983277266
+mcp:name:0d5ef74dd7a57b1c,Otto Virtanen,2,mcp:name:90e6e2dda444f1f3,Stefanos Tsitsipas,0.9998241300601673
+mcp:name:0d5ef74dd7a57b1c,Otto Virtanen,3,mcp:name:89bafcf0638d86e5,Ben Shelton,0.9998028827480474
+mcp:name:0d5ef74dd7a57b1c,Otto Virtanen,4,mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,0.9997944153745125
+mcp:name:0d5ef74dd7a57b1c,Otto Virtanen,5,mcp:name:aa4a7b779f49e99d,James Blake,0.9997519283396956
+mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,1,mcp:name:4d37bb15d55e1dc1,Yoshihito Nishioka,0.9999390039000715
+mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,2,mcp:name:3c7d923aa46c1860,Miomir Kecmanovic,0.9999308751270395
+mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,3,mcp:name:617722ec2cb54bbb,Hyeon Chung,0.9998641488261136
+mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,4,mcp:name:a3ddad9e6e8f2070,Rafael Nadal,0.999857211390107
+mcp:name:e937c4ab9b803e16,Emil Ruusuvuori,5,mcp:name:642cbc1c2183b2af,Sebastian Baez,0.999842817927289
+mcp:name:2d891c29b552d53e,Maxime Cressy,1,mcp:name:0ca626f0d42afd27,Ivo Karlovic,0.9988809805646943
+mcp:name:2d891c29b552d53e,Maxime Cressy,2,mcp:name:c9564676909c9a32,Richard Krajicek,0.9966896342957932
+mcp:name:2d891c29b552d53e,Maxime Cressy,3,mcp:name:2fada6a82c28b9c8,Greg Rusedski,0.9966172259581288
+mcp:name:2d891c29b552d53e,Maxime Cressy,4,mcp:name:38e85e449334b3f2,Patrick Rafter,0.9962935157330388
+mcp:name:2d891c29b552d53e,Maxime Cressy,5,mcp:name:eaabd11d7b217d88,Pat Cash,0.9960628004637546
+mcp:name:4341b55e105643cb,Aslan Karatsev,1,mcp:name:c99f515abeaf68eb,Lukas Rosol,0.999787387957441
+mcp:name:4341b55e105643cb,Aslan Karatsev,2,mcp:name:88722768397004f1,Alex Michelsen,0.9997182658875268
+mcp:name:4341b55e105643cb,Aslan Karatsev,3,mcp:name:e802000fee24a820,Roman Safiullin,0.9996758700661699
+mcp:name:4341b55e105643cb,Aslan Karatsev,4,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.9996497624655613
+mcp:name:4341b55e105643cb,Aslan Karatsev,5,mcp:name:6f88e8ce09a7f9bc,Matteo Berrettini,0.9995857866047301
+mcp:name:c58f176af91f17da,Tim Van Rijthoven,1,mcp:name:25d965dd068ad96f,Vasek Pospisil,0.9998606762991783
+mcp:name:c58f176af91f17da,Tim Van Rijthoven,2,mcp:name:a4084687c328e55a,Sam Querrey,0.9998543655475468
+mcp:name:c58f176af91f17da,Tim Van Rijthoven,3,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.9997751518255189
+mcp:name:c58f176af91f17da,Tim Van Rijthoven,4,mcp:name:3825b6c5f795ac39,Jan Lennard Struff,0.9997369182251344
+mcp:name:c58f176af91f17da,Tim Van Rijthoven,5,mcp:name:6086069cdc93a7ed,Petr Korda,0.9996989879908339
+mcp:name:8cf21c4a88e01006,Marat Safin,1,mcp:name:e510292b64208ec5,Tommy Haas,0.9999655120049816
+mcp:name:8cf21c4a88e01006,Marat Safin,2,mcp:name:04d3dab05e18e3b7,Filip Krajinovic,0.9999352258411884
+mcp:name:8cf21c4a88e01006,Marat Safin,3,mcp:name:6075475e06014e4c,Frances Tiafoe,0.9998707076406104
+mcp:name:8cf21c4a88e01006,Marat Safin,4,mcp:name:9d7615452c8af1c8,Richard Gasquet,0.9998127777853819
+mcp:name:8cf21c4a88e01006,Marat Safin,5,mcp:name:0ce995acfa31b615,Christopher Oconnell,0.9997958196644046
+mcp:name:016a1d82c65f1c72,Nicolas Massu,1,mcp:name:22d8e83ee60e90b2,Cameron Norrie,0.9998848686817923
+mcp:name:016a1d82c65f1c72,Nicolas Massu,2,mcp:name:bceed640e8eea16f,Dusan Lajovic,0.999846708062389
+mcp:name:016a1d82c65f1c72,Nicolas Massu,3,mcp:name:b32b6cd4aaa7b813,Casper Ruud,0.9998032171809312
+mcp:name:016a1d82c65f1c72,Nicolas Massu,4,mcp:name:1dc2dc76946a81dd,Aleksandar Vukic,0.9997730250384284
+mcp:name:016a1d82c65f1c72,Nicolas Massu,5,mcp:name:2e2371691e4b5ec9,Fernando Verdasco,0.9997676806964323
+mcp:name:0c2a7acde13e6928,Juan Carlos Ferrero,1,mcp:name:d9911ed165ef4934,Marcos Baghdatis,0.9999418966448067
+mcp:name:0c2a7acde13e6928,Juan Carlos Ferrero,2,mcp:name:301bac69d4722217,Lorenzo Musetti,0.9999014591534731
+mcp:name:0c2a7acde13e6928,Juan Carlos Ferrero,3,mcp:name:88cd6f2d275e1376,Andreas Seppi,0.999898235657597
+mcp:name:0c2a7acde13e6928,Juan Carlos Ferrero,4,mcp:name:8fa217c919cb5293,Gael Monfils,0.9998795664454696
+mcp:name:0c2a7acde13e6928,Juan Carlos Ferrero,5,mcp:name:2215bdc5cdba3c16,Marcos Giron,0.999869662068123
+mcp:name:c3bdf8daab8605c4,Nicolas Kiefer,1,mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,0.9998542511876074
+mcp:name:c3bdf8daab8605c4,Nicolas Kiefer,2,mcp:name:f194379ec3b1b1af,Jakub Mensik,0.9997868544353772
+mcp:name:c3bdf8daab8605c4,Nicolas Kiefer,3,mcp:name:8db9172ce441f810,Rinky Hijikata,0.9997845863808
+mcp:name:c3bdf8daab8605c4,Nicolas Kiefer,4,mcp:name:e26bc9bf1db5a935,Thomas Johansson,0.9997675378154802
+mcp:name:c3bdf8daab8605c4,Nicolas Kiefer,5,mcp:name:2ea935cbca6c5b66,Holger Rune,0.9997645683485684
+mcp:name:595cc18158c7921f,Mario Ancic,1,mcp:name:e0e4361db62dfe12,Radek Stepanek,0.9997597936312679
+mcp:name:595cc18158c7921f,Mario Ancic,2,mcp:name:8afdca9fce8afe44,Cedric Pioline,0.9996781906966741
+mcp:name:595cc18158c7921f,Mario Ancic,3,mcp:name:a4f543d946b656bb,Sergiy Stakhovsky,0.9996443724427626
+mcp:name:595cc18158c7921f,Mario Ancic,4,mcp:name:69d17412bf23735d,Feliciano Lopez,0.9996135985005173
+mcp:name:595cc18158c7921f,Mario Ancic,5,mcp:name:fa79e59f9908fd14,Mardy Fish,0.9995453179155307
+mcp:name:d7fe7168bc4c408c,Fabrice Santoro,1,mcp:name:56ac54dd87250b82,Bjorn Borg,0.9998506148154014
+mcp:name:d7fe7168bc4c408c,Fabrice Santoro,2,mcp:name:44b44c63a003a018,Arnaud Clement,0.9996593019139421
+mcp:name:d7fe7168bc4c408c,Fabrice Santoro,3,mcp:name:34716b7d5288464b,Alex Corretja,0.999595317895231
+mcp:name:d7fe7168bc4c408c,Fabrice Santoro,4,mcp:name:145f3ce4b14a562e,Jaume Munar,0.9995206750468242
+mcp:name:d7fe7168bc4c408c,Fabrice Santoro,5,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.9995175081503455
+mcp:name:95c0894c6458a63b,Carlos Moya,1,mcp:name:98446d42a78a5437,Radu Albot,0.9998935185904215
+mcp:name:95c0894c6458a63b,Carlos Moya,2,mcp:name:2763404ce3c12b80,Tommy Paul,0.9997748875312976
+mcp:name:95c0894c6458a63b,Carlos Moya,3,mcp:name:69fbf1d94af20a70,Carlos Alcaraz,0.9996998533811499
+mcp:name:95c0894c6458a63b,Carlos Moya,4,mcp:name:5705a4458bf90811,Hugo Gaston,0.9996511765779679
+mcp:name:95c0894c6458a63b,Carlos Moya,5,mcp:name:5ba1574b70dca737,Alejandro Tabilo,0.9996466725461567
+mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,1,mcp:name:e26bc9bf1db5a935,Thomas Johansson,0.9999276795059368
+mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,2,mcp:name:7b655a14e9b97e2d,Wayne Ferreira,0.9999134680537003
+mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,3,mcp:name:1077e8f8a0833cb4,Andre Agassi,0.99986725368236
+mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,4,mcp:name:c3bdf8daab8605c4,Nicolas Kiefer,0.9998542511876074
+mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,5,mcp:name:881b32237c811c69,Sebastian Korda,0.99979514755958
+mcp:name:3195c9a94ed621ba,Tim Henman,1,mcp:name:a0bec9e1eb6b0faf,Todd Martin,0.999800110955617
+mcp:name:3195c9a94ed621ba,Tim Henman,2,mcp:name:3f5423290ea3df23,Boris Becker,0.9993601025047956
+mcp:name:3195c9a94ed621ba,Tim Henman,3,mcp:name:6828f41b51e98a32,Henri Leconte,0.9990712476867164
+mcp:name:3195c9a94ed621ba,Tim Henman,4,mcp:name:c79c5087f2745d80,Dustin Brown,0.9990468322069975
+mcp:name:3195c9a94ed621ba,Tim Henman,5,mcp:name:92954bba837a4ff2,Mischa Zverev,0.9989676961071402
+mcp:name:1077e8f8a0833cb4,Andre Agassi,1,mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,0.99986725368236
+mcp:name:1077e8f8a0833cb4,Andre Agassi,2,mcp:name:e26bc9bf1db5a935,Thomas Johansson,0.9997862197170827
+mcp:name:1077e8f8a0833cb4,Andre Agassi,3,mcp:name:3e87e975ee11393b,Bernard Tomic,0.9997541483891333
+mcp:name:1077e8f8a0833cb4,Andre Agassi,4,mcp:name:57c4023549832138,Alexander Shevchenko,0.9997535193982915
+mcp:name:1077e8f8a0833cb4,Andre Agassi,5,mcp:name:0a7012dc615cb7f9,Flavio Cobolli,0.9997531367673681
+mcp:name:44b44c63a003a018,Arnaud Clement,1,mcp:name:bd74a57979374971,Novak Djokovic,0.999903204248457
+mcp:name:44b44c63a003a018,Arnaud Clement,2,mcp:name:a85f8420823ea1bf,Pedro Martinez,0.9998513941196789
+mcp:name:44b44c63a003a018,Arnaud Clement,3,mcp:name:01c9f161b5b468a2,Andy Murray,0.9998268820487393
+mcp:name:44b44c63a003a018,Arnaud Clement,4,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.9998054255683106
+mcp:name:44b44c63a003a018,Arnaud Clement,5,mcp:name:b1e5abbb3de99f2a,Jimmy Connors,0.9997912669997654
+mcp:name:eff9c7cd8f245140,Jonas Bjorkman,1,mcp:name:a4f543d946b656bb,Sergiy Stakhovsky,0.9994785501531748
+mcp:name:eff9c7cd8f245140,Jonas Bjorkman,2,mcp:name:7a141f00e62f2698,Guy Forget,0.9992612801301886
+mcp:name:eff9c7cd8f245140,Jonas Bjorkman,3,mcp:name:8afdca9fce8afe44,Cedric Pioline,0.9990354487758986
+mcp:name:eff9c7cd8f245140,Jonas Bjorkman,4,mcp:name:595cc18158c7921f,Mario Ancic,0.9989897347188644
+mcp:name:eff9c7cd8f245140,Jonas Bjorkman,5,mcp:name:e0e4361db62dfe12,Radek Stepanek,0.998954392917185
+mcp:name:362d6ef7d5a02751,Guillermo Coria,1,mcp:name:5afd80739c64a99f,Roberto Carballes Baena,0.9998451007727475
+mcp:name:362d6ef7d5a02751,Guillermo Coria,2,mcp:name:1ea7f7b8d7fa75e1,John Millman,0.9997638414724483
+mcp:name:362d6ef7d5a02751,Guillermo Coria,3,mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,0.9997471485232607
+mcp:name:362d6ef7d5a02751,Guillermo Coria,4,mcp:name:f97f6231e8d2c7c9,Gilles Simon,0.999738227029167
+mcp:name:362d6ef7d5a02751,Guillermo Coria,5,mcp:name:c856bc8dcd22698c,Sergi Bruguera,0.9997251744844003
+mcp:name:2fada6a82c28b9c8,Greg Rusedski,1,mcp:name:38e85e449334b3f2,Patrick Rafter,0.9991576797451676
+mcp:name:2fada6a82c28b9c8,Greg Rusedski,2,mcp:name:a982f9eba697891c,Michael Stich,0.9990489008689121
+mcp:name:2fada6a82c28b9c8,Greg Rusedski,3,mcp:name:eaabd11d7b217d88,Pat Cash,0.9989180941908175
+mcp:name:2fada6a82c28b9c8,Greg Rusedski,4,mcp:name:08d5fc334b96198e,Goran Ivanisevic,0.9986355972586725
+mcp:name:2fada6a82c28b9c8,Greg Rusedski,5,mcp:name:92c0259083e5dfcd,John Mcenroe,0.9985448202963375
+mcp:name:e26bc9bf1db5a935,Thomas Johansson,1,mcp:name:7b655a14e9b97e2d,Wayne Ferreira,0.9999441558626533
+mcp:name:e26bc9bf1db5a935,Thomas Johansson,2,mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,0.9999276795059368
+mcp:name:e26bc9bf1db5a935,Thomas Johansson,3,mcp:name:881b32237c811c69,Sebastian Korda,0.9998004717232126
+mcp:name:e26bc9bf1db5a935,Thomas Johansson,4,mcp:name:1077e8f8a0833cb4,Andre Agassi,0.9997862197170827
+mcp:name:e26bc9bf1db5a935,Thomas Johansson,5,mcp:name:f194379ec3b1b1af,Jakub Mensik,0.999772376452222
+mcp:name:25e2cbffa2850ed3,Sebastien Grosjean,1,mcp:name:4d017710eded4eb5,Dominic Thiem,0.9999363759678437
+mcp:name:25e2cbffa2850ed3,Sebastien Grosjean,2,mcp:name:d1791489ccd9cc5e,Matteo Arnaldi,0.9999061745211347
+mcp:name:25e2cbffa2850ed3,Sebastien Grosjean,3,mcp:name:128470c7c106ed35,Robin Haase,0.9999050221792394
+mcp:name:25e2cbffa2850ed3,Sebastien Grosjean,4,mcp:name:a3f6cc9193b40830,Daniel Altmaier,0.9999031410363989
+mcp:name:25e2cbffa2850ed3,Sebastien Grosjean,5,mcp:name:ceaadf05715f764e,Brandon Nakashima,0.9999030716585309
+mcp:name:42057fa22d846d1c,Jiri Novak,1,mcp:name:e667b9a7208005de,Viktor Troicki,0.9999250911186759
+mcp:name:42057fa22d846d1c,Jiri Novak,2,mcp:name:2d1ee43af9b5ac1f,Jannik Sinner,0.9998381801073413
+mcp:name:42057fa22d846d1c,Jiri Novak,3,mcp:name:7a0f7714974a0cd9,Pablo Andujar,0.9998367389925432
+mcp:name:42057fa22d846d1c,Jiri Novak,4,mcp:name:9568ad1ddd4f1975,Valentin Vacherot,0.9998285398957589
+mcp:name:42057fa22d846d1c,Jiri Novak,5,mcp:name:2763404ce3c12b80,Tommy Paul,0.9998280265153497
+mcp:name:98443a3f847edc2a,Mark Philippoussis,1,mcp:name:88c9d37a73a9a3b0,Pete Sampras,0.9994148298441228
+mcp:name:98443a3f847edc2a,Mark Philippoussis,2,mcp:name:a0bec9e1eb6b0faf,Todd Martin,0.9992392263614848
+mcp:name:98443a3f847edc2a,Mark Philippoussis,3,mcp:name:08d5fc334b96198e,Goran Ivanisevic,0.9990961976600584
+mcp:name:98443a3f847edc2a,Mark Philippoussis,4,mcp:name:3f5423290ea3df23,Boris Becker,0.9987901259311235
+mcp:name:98443a3f847edc2a,Mark Philippoussis,5,mcp:name:3195c9a94ed621ba,Tim Henman,0.9987220873404908
+mcp:name:7b655a14e9b97e2d,Wayne Ferreira,1,mcp:name:e26bc9bf1db5a935,Thomas Johansson,0.9999441558626533
+mcp:name:7b655a14e9b97e2d,Wayne Ferreira,2,mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,0.9999134680537003
+mcp:name:7b655a14e9b97e2d,Wayne Ferreira,3,mcp:name:881b32237c811c69,Sebastian Korda,0.9998337473481494
+mcp:name:7b655a14e9b97e2d,Wayne Ferreira,4,mcp:name:25b2a926aaa335f5,Ivan Ljubicic,0.9997763419278942
+mcp:name:7b655a14e9b97e2d,Wayne Ferreira,5,mcp:name:9d6201421a25e42e,Tomas Machac,0.9997490751410864
+mcp:name:e68e742746c14984,Yevgeny Kafelnikov,1,mcp:name:25b2a926aaa335f5,Ivan Ljubicic,0.9999596948455759
+mcp:name:e68e742746c14984,Yevgeny Kafelnikov,2,mcp:name:052afe8eb025f4b6,Roger Federer,0.9998516152666129
+mcp:name:e68e742746c14984,Yevgeny Kafelnikov,3,mcp:name:aa4a7b779f49e99d,James Blake,0.9997576523245351
+mcp:name:e68e742746c14984,Yevgeny Kafelnikov,4,mcp:name:7b655a14e9b97e2d,Wayne Ferreira,0.9997044515425002
+mcp:name:e68e742746c14984,Yevgeny Kafelnikov,5,mcp:name:ac8c2b8d9a4b0885,Gustavo Kuerten,0.9996569226618308
+mcp:name:88c9d37a73a9a3b0,Pete Sampras,1,mcp:name:98443a3f847edc2a,Mark Philippoussis,0.9994148298441228
+mcp:name:88c9d37a73a9a3b0,Pete Sampras,2,mcp:name:6828f41b51e98a32,Henri Leconte,0.999394470717846
+mcp:name:88c9d37a73a9a3b0,Pete Sampras,3,mcp:name:08d5fc334b96198e,Goran Ivanisevic,0.9989698923447354
+mcp:name:88c9d37a73a9a3b0,Pete Sampras,4,mcp:name:a0bec9e1eb6b0faf,Todd Martin,0.9989541032262729
+mcp:name:88c9d37a73a9a3b0,Pete Sampras,5,mcp:name:3f5423290ea3df23,Boris Becker,0.9989314974266398
+mcp:name:34716b7d5288464b,Alex Corretja,1,mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,0.9999614592827613
+mcp:name:34716b7d5288464b,Alex Corretja,2,mcp:name:145f3ce4b14a562e,Jaume Munar,0.9999353194963456
+mcp:name:34716b7d5288464b,Alex Corretja,3,mcp:name:be71fbfa58829ae0,Marton Fucsovics,0.9998947282958718
+mcp:name:34716b7d5288464b,Alex Corretja,4,mcp:name:1ea7f7b8d7fa75e1,John Millman,0.999830603030936
+mcp:name:34716b7d5288464b,Alex Corretja,5,mcp:name:a5a262f8b66134a9,Alex De Minaur,0.9998075336960021
+mcp:name:38e85e449334b3f2,Patrick Rafter,1,mcp:name:eaabd11d7b217d88,Pat Cash,0.9996088721523031
+mcp:name:38e85e449334b3f2,Patrick Rafter,2,mcp:name:2fada6a82c28b9c8,Greg Rusedski,0.9991576797451676
+mcp:name:38e85e449334b3f2,Patrick Rafter,3,mcp:name:a982f9eba697891c,Michael Stich,0.9988608632257949
+mcp:name:38e85e449334b3f2,Patrick Rafter,4,mcp:name:3c061d7f45ea40d1,Stefan Edberg,0.9985026636204097
+mcp:name:38e85e449334b3f2,Patrick Rafter,5,mcp:name:92c0259083e5dfcd,John Mcenroe,0.9978607283258047
+mcp:name:08d5fc334b96198e,Goran Ivanisevic,1,mcp:name:98443a3f847edc2a,Mark Philippoussis,0.9990961976600584
+mcp:name:08d5fc334b96198e,Goran Ivanisevic,2,mcp:name:a982f9eba697891c,Michael Stich,0.998986365248876
+mcp:name:08d5fc334b96198e,Goran Ivanisevic,3,mcp:name:88c9d37a73a9a3b0,Pete Sampras,0.9989698923447354
+mcp:name:08d5fc334b96198e,Goran Ivanisevic,4,mcp:name:2fada6a82c28b9c8,Greg Rusedski,0.9986355972586725
+mcp:name:08d5fc334b96198e,Goran Ivanisevic,5,mcp:name:a0bec9e1eb6b0faf,Todd Martin,0.9983315032906758
+mcp:name:ac1a360052d6d924,Thomas Enqvist,1,mcp:name:2692f651f465932b,Ernests Gulbis,0.9996140122265811
+mcp:name:ac1a360052d6d924,Thomas Enqvist,2,mcp:name:65bc3bdcaf37c6ec,Lucas Pouille,0.999489494736092
+mcp:name:ac1a360052d6d924,Thomas Enqvist,3,mcp:name:fd097a4bc4b08546,Benjamin Bonzi,0.9994636277654821
+mcp:name:ac1a360052d6d924,Thomas Enqvist,4,mcp:name:4341b55e105643cb,Aslan Karatsev,0.9994629438110683
+mcp:name:ac1a360052d6d924,Thomas Enqvist,5,mcp:name:aa4a7b779f49e99d,James Blake,0.9994324961781392
+mcp:name:f3eb8378ea35deaf,Marcelo Rios,1,mcp:name:c2bf9df48b541ba3,Andrei Medvedev,0.9998872872838365
+mcp:name:f3eb8378ea35deaf,Marcelo Rios,2,mcp:name:ceaadf05715f764e,Brandon Nakashima,0.9998284857021769
+mcp:name:f3eb8378ea35deaf,Marcelo Rios,3,mcp:name:1769eb33c97dbf85,Nishesh Basavareddy,0.9998233000681248
+mcp:name:f3eb8378ea35deaf,Marcelo Rios,4,mcp:name:e69fdf09d77d5339,Lleyton Hewitt,0.9997695884806249
+mcp:name:f3eb8378ea35deaf,Marcelo Rios,5,mcp:name:3e87e975ee11393b,Bernard Tomic,0.999686049919117
+mcp:name:a0bec9e1eb6b0faf,Todd Martin,1,mcp:name:3195c9a94ed621ba,Tim Henman,0.999800110955617
+mcp:name:a0bec9e1eb6b0faf,Todd Martin,2,mcp:name:3f5423290ea3df23,Boris Becker,0.9993404217215646
+mcp:name:a0bec9e1eb6b0faf,Todd Martin,3,mcp:name:98443a3f847edc2a,Mark Philippoussis,0.9992392263614848
+mcp:name:a0bec9e1eb6b0faf,Todd Martin,4,mcp:name:c79c5087f2745d80,Dustin Brown,0.9990320321774877
+mcp:name:a0bec9e1eb6b0faf,Todd Martin,5,mcp:name:88c9d37a73a9a3b0,Pete Sampras,0.9989541032262729
+mcp:name:c9564676909c9a32,Richard Krajicek,1,mcp:name:0ca626f0d42afd27,Ivo Karlovic,0.9989516682907718
+mcp:name:c9564676909c9a32,Richard Krajicek,2,mcp:name:38e85e449334b3f2,Patrick Rafter,0.9974872200375529
+mcp:name:c9564676909c9a32,Richard Krajicek,3,mcp:name:2d891c29b552d53e,Maxime Cressy,0.9966896342957932
+mcp:name:c9564676909c9a32,Richard Krajicek,4,mcp:name:eaabd11d7b217d88,Pat Cash,0.9964644942114275
+mcp:name:c9564676909c9a32,Richard Krajicek,5,mcp:name:a982f9eba697891c,Michael Stich,0.9957542581237757
+mcp:name:c2bf9df48b541ba3,Andrei Medvedev,1,mcp:name:f3eb8378ea35deaf,Marcelo Rios,0.9998872872838365
+mcp:name:c2bf9df48b541ba3,Andrei Medvedev,2,mcp:name:1769eb33c97dbf85,Nishesh Basavareddy,0.9998406647805096
+mcp:name:c2bf9df48b541ba3,Andrei Medvedev,3,mcp:name:ceaadf05715f764e,Brandon Nakashima,0.9997814478478375
+mcp:name:c2bf9df48b541ba3,Andrei Medvedev,4,mcp:name:c3bdf8daab8605c4,Nicolas Kiefer,0.9997150812335803
+mcp:name:c2bf9df48b541ba3,Andrei Medvedev,5,mcp:name:5ba1574b70dca737,Alejandro Tabilo,0.9997083596899085
+mcp:name:39bb3613c1266fdb,Marc Rosset,1,mcp:name:69d17412bf23735d,Feliciano Lopez,0.9997699259079512
+mcp:name:39bb3613c1266fdb,Marc Rosset,2,mcp:name:08f23c034ddd2bb0,Ethan Quinn,0.9995810092963625
+mcp:name:39bb3613c1266fdb,Marc Rosset,3,mcp:name:fa79e59f9908fd14,Mardy Fish,0.9993513574945692
+mcp:name:39bb3613c1266fdb,Marc Rosset,4,mcp:name:595cc18158c7921f,Mario Ancic,0.9991840616983093
+mcp:name:39bb3613c1266fdb,Marc Rosset,5,mcp:name:aa441ad9b59020b6,Arthur Rinderknech,0.999162578646003
+mcp:name:8afdca9fce8afe44,Cedric Pioline,1,mcp:name:a4f543d946b656bb,Sergiy Stakhovsky,0.9998029461985959
+mcp:name:8afdca9fce8afe44,Cedric Pioline,2,mcp:name:595cc18158c7921f,Mario Ancic,0.9996781906966741
+mcp:name:8afdca9fce8afe44,Cedric Pioline,3,mcp:name:e0e4361db62dfe12,Radek Stepanek,0.9994727536921995
+mcp:name:8afdca9fce8afe44,Cedric Pioline,4,mcp:name:fa79e59f9908fd14,Mardy Fish,0.9993524356974158
+mcp:name:8afdca9fce8afe44,Cedric Pioline,5,mcp:name:69d17412bf23735d,Feliciano Lopez,0.9992296447580837
+mcp:name:fec36fcc86d0812f,Jim Courier,1,mcp:name:ea2591605bd97544,Jo Wilfried Tsonga,0.9998963211121396
+mcp:name:fec36fcc86d0812f,Jim Courier,2,mcp:name:8db9172ce441f810,Rinky Hijikata,0.9998947167496268
+mcp:name:fec36fcc86d0812f,Jim Courier,3,mcp:name:e4e238f6eeec4000,Jiri Lehecka,0.9998730114363271
+mcp:name:fec36fcc86d0812f,Jim Courier,4,mcp:name:10aec9f4f3b33e93,Fernando Gonzalez,0.9998488680956811
+mcp:name:fec36fcc86d0812f,Jim Courier,5,mcp:name:bd514ec75f5a95fc,Hubert Hurkacz,0.9998447661225266
+mcp:name:3f5423290ea3df23,Boris Becker,1,mcp:name:02b4acf7dd8f846a,Malivai Washington,0.999418574445285
+mcp:name:3f5423290ea3df23,Boris Becker,2,mcp:name:3195c9a94ed621ba,Tim Henman,0.9993601025047956
+mcp:name:3f5423290ea3df23,Boris Becker,3,mcp:name:a0bec9e1eb6b0faf,Todd Martin,0.9993404217215646
+mcp:name:3f5423290ea3df23,Boris Becker,4,mcp:name:6828f41b51e98a32,Henri Leconte,0.9992757077693503
+mcp:name:3f5423290ea3df23,Boris Becker,5,mcp:name:92954bba837a4ff2,Mischa Zverev,0.9991514094629986
+mcp:name:6086069cdc93a7ed,Petr Korda,1,mcp:name:a4084687c328e55a,Sam Querrey,0.9997319467573366
+mcp:name:6086069cdc93a7ed,Petr Korda,2,mcp:name:3825b6c5f795ac39,Jan Lennard Struff,0.9997273480178459
+mcp:name:6086069cdc93a7ed,Petr Korda,3,mcp:name:c1fa2844ef3d4c5f,James Duckworth,0.9997083492898252
+mcp:name:6086069cdc93a7ed,Petr Korda,4,mcp:name:c58f176af91f17da,Tim Van Rijthoven,0.9996989879908339
+mcp:name:6086069cdc93a7ed,Petr Korda,5,mcp:name:4546a200872fbaa1,Tallon Griekspoor,0.999572257236092
+mcp:name:ad1773aa5a15134a,Michael Chang,1,mcp:name:4f04d3d78b468c4d,David Nalbandian,0.9999102563614799
+mcp:name:ad1773aa5a15134a,Michael Chang,2,mcp:name:bd74a57979374971,Novak Djokovic,0.9999004650842466
+mcp:name:ad1773aa5a15134a,Michael Chang,3,mcp:name:01c9f161b5b468a2,Andy Murray,0.999859917119532
+mcp:name:ad1773aa5a15134a,Michael Chang,4,mcp:name:8fa217c919cb5293,Gael Monfils,0.9998378715099624
+mcp:name:ad1773aa5a15134a,Michael Chang,5,mcp:name:e6f32411db41062e,Mikhail Youzhny,0.999837496722558
+mcp:name:a982f9eba697891c,Michael Stich,1,mcp:name:2fada6a82c28b9c8,Greg Rusedski,0.9990489008689121
+mcp:name:a982f9eba697891c,Michael Stich,2,mcp:name:08d5fc334b96198e,Goran Ivanisevic,0.998986365248876
+mcp:name:a982f9eba697891c,Michael Stich,3,mcp:name:38e85e449334b3f2,Patrick Rafter,0.9988608632257949
+mcp:name:a982f9eba697891c,Michael Stich,4,mcp:name:88c9d37a73a9a3b0,Pete Sampras,0.9987287342282946
+mcp:name:a982f9eba697891c,Michael Stich,5,mcp:name:eaabd11d7b217d88,Pat Cash,0.9980230844770995
+mcp:name:c856bc8dcd22698c,Sergi Bruguera,1,mcp:name:90e7835497edb200,Daniil Medvedev,0.9998397346554
+mcp:name:c856bc8dcd22698c,Sergi Bruguera,2,mcp:name:145f3ce4b14a562e,Jaume Munar,0.999804613660474
+mcp:name:c856bc8dcd22698c,Sergi Bruguera,3,mcp:name:602e1d0e40f5133e,Roberto Bautista Agut,0.9998046058649341
+mcp:name:c856bc8dcd22698c,Sergi Bruguera,4,mcp:name:34716b7d5288464b,Alex Corretja,0.9997916183704215
+mcp:name:c856bc8dcd22698c,Sergi Bruguera,5,mcp:name:fd8140716fab6e8d,Mikhail Kukushkin,0.9997734546421413
+mcp:name:02b4acf7dd8f846a,Malivai Washington,1,mcp:name:7a141f00e62f2698,Guy Forget,0.9994511841267345
+mcp:name:02b4acf7dd8f846a,Malivai Washington,2,mcp:name:3f5423290ea3df23,Boris Becker,0.999418574445285
+mcp:name:02b4acf7dd8f846a,Malivai Washington,3,mcp:name:e68dc4d36648064e,Gilles Muller,0.9991543673215957
+mcp:name:02b4acf7dd8f846a,Malivai Washington,4,mcp:name:879bced301bab9fe,Pierre Hugues Herbert,0.9990381536147053
+mcp:name:02b4acf7dd8f846a,Malivai Washington,5,mcp:name:a0bec9e1eb6b0faf,Todd Martin,0.9987799235437972
+mcp:name:7a141f00e62f2698,Guy Forget,1,mcp:name:02b4acf7dd8f846a,Malivai Washington,0.9994511841267345
+mcp:name:7a141f00e62f2698,Guy Forget,2,mcp:name:a4f543d946b656bb,Sergiy Stakhovsky,0.99928979197059
+mcp:name:7a141f00e62f2698,Guy Forget,3,mcp:name:eff9c7cd8f245140,Jonas Bjorkman,0.9992612801301886
+mcp:name:7a141f00e62f2698,Guy Forget,4,mcp:name:e68dc4d36648064e,Gilles Muller,0.9992047625166833
+mcp:name:7a141f00e62f2698,Guy Forget,5,mcp:name:595cc18158c7921f,Mario Ancic,0.9991445421423466
+mcp:name:6828f41b51e98a32,Henri Leconte,1,mcp:name:88c9d37a73a9a3b0,Pete Sampras,0.999394470717846
+mcp:name:6828f41b51e98a32,Henri Leconte,2,mcp:name:3f5423290ea3df23,Boris Becker,0.9992757077693503
+mcp:name:6828f41b51e98a32,Henri Leconte,3,mcp:name:92954bba837a4ff2,Mischa Zverev,0.9991474276731342
+mcp:name:6828f41b51e98a32,Henri Leconte,4,mcp:name:3195c9a94ed621ba,Tim Henman,0.9990712476867164
+mcp:name:6828f41b51e98a32,Henri Leconte,5,mcp:name:a0bec9e1eb6b0faf,Todd Martin,0.9988660555286798
+mcp:name:61404b25266ca44f,Andrei Chesnokov,1,mcp:name:b437d327e439a811,Jenson Brooksby,0.9997058193592624
+mcp:name:61404b25266ca44f,Andrei Chesnokov,2,mcp:name:340fc4432427f01f,Mats Wilander,0.9994390047430451
+mcp:name:61404b25266ca44f,Andrei Chesnokov,3,mcp:name:1ea7f7b8d7fa75e1,John Millman,0.9994043910080775
+mcp:name:61404b25266ca44f,Andrei Chesnokov,4,mcp:name:f97f6231e8d2c7c9,Gilles Simon,0.9993699855678209
+mcp:name:61404b25266ca44f,Andrei Chesnokov,5,mcp:name:72331c4db77a31d9,Mikael Ymer,0.9993270495884613
+mcp:name:340fc4432427f01f,Mats Wilander,1,mcp:name:56ac54dd87250b82,Bjorn Borg,0.9995858058185013
+mcp:name:340fc4432427f01f,Mats Wilander,2,mcp:name:61404b25266ca44f,Andrei Chesnokov,0.9994390047430451
+mcp:name:340fc4432427f01f,Mats Wilander,3,mcp:name:d7fe7168bc4c408c,Fabrice Santoro,0.9993697979332664
+mcp:name:340fc4432427f01f,Mats Wilander,4,mcp:name:f97f6231e8d2c7c9,Gilles Simon,0.9991552443258157
+mcp:name:340fc4432427f01f,Mats Wilander,5,mcp:name:b437d327e439a811,Jenson Brooksby,0.9991272112520236
+mcp:name:5aff05b48a120b4d,Ivan Lendl,1,mcp:name:1769eb33c97dbf85,Nishesh Basavareddy,0.999729819559149
+mcp:name:5aff05b48a120b4d,Ivan Lendl,2,mcp:name:34ae389ecb73b0e4,Damir Dzumhur,0.9996723471199839
+mcp:name:5aff05b48a120b4d,Ivan Lendl,3,mcp:name:c2bf9df48b541ba3,Andrei Medvedev,0.999642099288897
+mcp:name:5aff05b48a120b4d,Ivan Lendl,4,mcp:name:9d7615452c8af1c8,Richard Gasquet,0.9996314184333779
+mcp:name:5aff05b48a120b4d,Ivan Lendl,5,mcp:name:f3eb8378ea35deaf,Marcelo Rios,0.9995740230538788
+mcp:name:92c0259083e5dfcd,John Mcenroe,1,mcp:name:3c061d7f45ea40d1,Stefan Edberg,0.999809043649688
+mcp:name:92c0259083e5dfcd,John Mcenroe,2,mcp:name:3195c9a94ed621ba,Tim Henman,0.9989276332265314
+mcp:name:92c0259083e5dfcd,John Mcenroe,3,mcp:name:2fada6a82c28b9c8,Greg Rusedski,0.9985448202963375
+mcp:name:92c0259083e5dfcd,John Mcenroe,4,mcp:name:eaabd11d7b217d88,Pat Cash,0.9984271261676182
+mcp:name:92c0259083e5dfcd,John Mcenroe,5,mcp:name:a0bec9e1eb6b0faf,Todd Martin,0.9983490524570539
+mcp:name:eaabd11d7b217d88,Pat Cash,1,mcp:name:38e85e449334b3f2,Patrick Rafter,0.9996088721523031
+mcp:name:eaabd11d7b217d88,Pat Cash,2,mcp:name:3c061d7f45ea40d1,Stefan Edberg,0.9989747239821872
+mcp:name:eaabd11d7b217d88,Pat Cash,3,mcp:name:2fada6a82c28b9c8,Greg Rusedski,0.9989180941908175
+mcp:name:eaabd11d7b217d88,Pat Cash,4,mcp:name:92c0259083e5dfcd,John Mcenroe,0.9984271261676182
+mcp:name:eaabd11d7b217d88,Pat Cash,5,mcp:name:a982f9eba697891c,Michael Stich,0.9980230844770995
+mcp:name:6063ed9fc46b199b,Jonas Svensson,1,mcp:name:42057fa22d846d1c,Jiri Novak,0.9993184224965045
+mcp:name:6063ed9fc46b199b,Jonas Svensson,2,mcp:name:b6c6d36e74a83075,Dominik Koepfer,0.9993003222729894
+mcp:name:6063ed9fc46b199b,Jonas Svensson,3,mcp:name:9568ad1ddd4f1975,Valentin Vacherot,0.999276969394149
+mcp:name:6063ed9fc46b199b,Jonas Svensson,4,mcp:name:e667b9a7208005de,Viktor Troicki,0.9990256196316722
+mcp:name:6063ed9fc46b199b,Jonas Svensson,5,mcp:name:90137e68226f5695,Alexandre Muller,0.9989812677400728
+mcp:name:b1e5abbb3de99f2a,Jimmy Connors,1,mcp:name:44b44c63a003a018,Arnaud Clement,0.9997912669997654
+mcp:name:b1e5abbb3de99f2a,Jimmy Connors,2,mcp:name:33590321680d18af,Daniel Evans,0.9997862862501796
+mcp:name:b1e5abbb3de99f2a,Jimmy Connors,3,mcp:name:e667b9a7208005de,Viktor Troicki,0.9996244634507314
+mcp:name:b1e5abbb3de99f2a,Jimmy Connors,4,mcp:name:3b70ff515db3444e,Botic Van De Zandschulp,0.9996196930231401
+mcp:name:b1e5abbb3de99f2a,Jimmy Connors,5,mcp:name:a85f8420823ea1bf,Pedro Martinez,0.9995777542013056
+mcp:name:56ac54dd87250b82,Bjorn Borg,1,mcp:name:d7fe7168bc4c408c,Fabrice Santoro,0.9998506148154014
+mcp:name:56ac54dd87250b82,Bjorn Borg,2,mcp:name:44b44c63a003a018,Arnaud Clement,0.999647063701168
+mcp:name:56ac54dd87250b82,Bjorn Borg,3,mcp:name:340fc4432427f01f,Mats Wilander,0.9995858058185013
+mcp:name:56ac54dd87250b82,Bjorn Borg,4,mcp:name:34716b7d5288464b,Alex Corretja,0.9995639479377049
+mcp:name:56ac54dd87250b82,Bjorn Borg,5,mcp:name:a5a262f8b66134a9,Alex De Minaur,0.9995526703327756

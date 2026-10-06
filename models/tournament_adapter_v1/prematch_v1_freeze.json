@@ -1,0 +1,35 @@
+{
+  "statement": "Tournament Adapter V1 reads but never modifies frozen PRE-MATCH V1.",
+  "files": [
+    {
+      "path": "models/prematch_v1/model.joblib",
+      "bytes": 10889,
+      "sha256": "5c71a6ee95a5afb141f62bc9cf0df62a7267c2f2c005e6a2750a71adf53fbca7"
+    },
+    {
+      "path": "models/prematch_v1/metadata.json",
+      "bytes": 3877,
+      "sha256": "6c6df62033b9eea3e61f5c15634a5745fc49da8759a9d4d559d3df2c87954023"
+    },
+    {
+      "path": "data/processed/match_features_v3.parquet",
+      "bytes": 97983922,
+      "sha256": "70acb7325cfc06f7d7b6fac0c278f0a690c8166f54d149e52290fac2f3a1158e"
+    },
+    {
+      "path": "data/processed/analytics/match_timeline.parquet",
+      "bytes": 2259067,
+      "sha256": "67ad544ae4a9f1de3a594b532a8a917afe2a946bd89a3ab69710b974bf45adff"
+    },
+    {
+      "path": "data/processed/atp/matches.parquet",
+      "bytes": 1629604,
+      "sha256": "d02b60d8b3089c059a101ed2a5ceb048023db7d93464ff5abb996b90ec4df776"
+    },
+    {
+      "path": "data/processed/atp/match_stats.parquet",
+      "bytes": 2017835,
+      "sha256": "8a89f14765474f80d426d7cb6b8ecd3634e340d071f6adcf324bad7e32683026"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[search]
+point_prior_strengths = [50, 200, 500]
+surface_prior_strengths = [100, 500, 1000]
+logistic_c_values = [0.001, 0.01, 0.1, 1, 10, 100]
+
+[evaluation]
+train_end = "2018-12-31"
+validation_start = "2019-01-01"
+validation_end = "2022-12-31"
+test_start = "2023-01-01"
+
+# Frozen after validation-only selection. The pipeline recomputes these values
+# and does not read this section during tuning.
+[selected]
+point_prior_strength = 50
+surface_prior_strength = 1000
+model = "MODEL_5_ALL"
+logistic_c = 1
+calibration = "platt"
+platt_intercept = -0.08523353668497216
+platt_slope = 0.9325236450096649

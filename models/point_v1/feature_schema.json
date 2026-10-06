@@ -1,0 +1,96 @@
+{
+  "target": "server_won_point",
+  "state_timing": "before_point",
+  "ordered_features": [
+    "server_serve_rate",
+    "receiver_return_rate",
+    "server_surface_serve_rate",
+    "receiver_surface_return_rate",
+    "surface_clay",
+    "surface_grass",
+    "prematch_server",
+    "server_serve_rate_365d",
+    "receiver_return_rate_365d",
+    "is_break_point",
+    "is_game_point",
+    "is_set_point",
+    "is_match_point",
+    "is_tiebreak",
+    "deuce",
+    "server_leading_in_game",
+    "sets_diff_server",
+    "games_diff_server"
+  ],
+  "candidates": {
+    "P1_SERVE_RETURN": [
+      "server_serve_rate",
+      "receiver_return_rate"
+    ],
+    "P2_SURFACE": [
+      "server_serve_rate",
+      "receiver_return_rate",
+      "server_surface_serve_rate",
+      "receiver_surface_return_rate",
+      "surface_clay",
+      "surface_grass"
+    ],
+    "P3_PREMATCH": [
+      "server_serve_rate",
+      "receiver_return_rate",
+      "server_surface_serve_rate",
+      "receiver_surface_return_rate",
+      "surface_clay",
+      "surface_grass",
+      "prematch_server"
+    ],
+    "P4_SCORE": [
+      "server_serve_rate",
+      "receiver_return_rate",
+      "server_surface_serve_rate",
+      "receiver_surface_return_rate",
+      "surface_clay",
+      "surface_grass",
+      "prematch_server",
+      "is_break_point",
+      "is_game_point",
+      "is_set_point",
+      "is_match_point",
+      "is_tiebreak",
+      "deuce",
+      "server_leading_in_game",
+      "sets_diff_server",
+      "games_diff_server"
+    ],
+    "P5_RECENT": [
+      "server_serve_rate",
+      "receiver_return_rate",
+      "server_surface_serve_rate",
+      "receiver_surface_return_rate",
+      "surface_clay",
+      "surface_grass",
+      "prematch_server",
+      "server_serve_rate_365d",
+      "receiver_return_rate_365d"
+    ],
+    "P5_RECENT_SCORE": [
+      "server_serve_rate",
+      "receiver_return_rate",
+      "server_surface_serve_rate",
+      "receiver_surface_return_rate",
+      "surface_clay",
+      "surface_grass",
+      "prematch_server",
+      "server_serve_rate_365d",
+      "receiver_return_rate_365d",
+      "is_break_point",
+      "is_game_point",
+      "is_set_point",
+      "is_match_point",
+      "is_tiebreak",
+      "deuce",
+      "server_leading_in_game",
+      "sets_diff_server",
+      "games_diff_server"
+    ]
+  }
+}

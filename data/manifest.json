@@ -1,0 +1,3046 @@
+{
+  "files": [
+    {
+      "bytes": 680357,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:22+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2000.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2000.csv",
+      "sha256": "a2176b0d9e70f238536d0a2d0957bc54dc1bfbfb47c368d8f3cbe28457b5ebe4",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2000.csv",
+      "year": 2000
+    },
+    {
+      "bytes": 669112,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:23+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2001.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2001.csv",
+      "sha256": "b07bcb7e7239fb451eae6b4e99ef9a0c892083a21185405c8627d5edc9a113be",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2001.csv",
+      "year": 2001
+    },
+    {
+      "bytes": 649377,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:23+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2002.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2002.csv",
+      "sha256": "d161c2ef78158d167372ebc38b7eea2038c5b9e42bbb4b2804d8c19540c33adf",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2002.csv",
+      "year": 2002
+    },
+    {
+      "bytes": 649296,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:24+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2003.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2003.csv",
+      "sha256": "387a1dec62d014fdf5c7dc83329b87c3a4041fc4ebf8a25b19352c82d1f67c31",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2003.csv",
+      "year": 2003
+    },
+    {
+      "bytes": 662757,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:24+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2004.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2004.csv",
+      "sha256": "79251fec7d9751ea2eebb005a962f69fea466f827172d53f47b381aac53634af",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2004.csv",
+      "year": 2004
+    },
+    {
+      "bytes": 659963,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:24+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2005.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2005.csv",
+      "sha256": "7ab77584b319b65830d4b5c988cf8349d14a7a4e867633e9717801f8d9b97b27",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2005.csv",
+      "year": 2005
+    },
+    {
+      "bytes": 660698,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:25+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2006.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2006.csv",
+      "sha256": "c7f28866e127c665072ed6e4a8fc5812cd82f804660fbdd37e8b00063d1b8f53",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2006.csv",
+      "year": 2006
+    },
+    {
+      "bytes": 644456,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:26+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2007.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2007.csv",
+      "sha256": "d392402109561d6d3e19fd41dc8cc3a3f72ccb52d3988edbe7c18cc47b603db0",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2007.csv",
+      "year": 2007
+    },
+    {
+      "bytes": 631452,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:26+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2008.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2008.csv",
+      "sha256": "6725bd6e56d32538282e5a77bd30a2502014917138df180dce9259c535a93310",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2008.csv",
+      "year": 2008
+    },
+    {
+      "bytes": 626700,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:26+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2009.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2009.csv",
+      "sha256": "bab7523386fddcaeb684b2b354016075d035516e65c2f54d3e1d23c3a8fe22f9",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2009.csv",
+      "year": 2009
+    },
+    {
+      "bytes": 614299,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:27+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2010.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2010.csv",
+      "sha256": "135a4a1e2ab69c33318b6e5ad59efc67cc5358629b15bf28fb2f905d48f7aeb0",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2010.csv",
+      "year": 2010
+    },
+    {
+      "bytes": 611939,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:27+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2011.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2011.csv",
+      "sha256": "8e91e4b680f0b4e9605a3c71b4c676b55e2a102de8544a7d3b2fbaca5977575a",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2011.csv",
+      "year": 2011
+    },
+    {
+      "bytes": 610116,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:28+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2012.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2012.csv",
+      "sha256": "03f03612691af370c9c47939dde4202d9858e05ea044367388115e627d4d13f3",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2012.csv",
+      "year": 2012
+    },
+    {
+      "bytes": 596714,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:28+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2013.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2013.csv",
+      "sha256": "9e1e3b124ac22c1b840118f78475a910cb2ea68684289581f70b54a022f2832c",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2013.csv",
+      "year": 2013
+    },
+    {
+      "bytes": 589216,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:29+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2014.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2014.csv",
+      "sha256": "7c102ee3b0da1fee59edc6a5f280eb0784ac0bad69988583f65791dcb7084177",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2014.csv",
+      "year": 2014
+    },
+    {
+      "bytes": 594438,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:30+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2015.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2015.csv",
+      "sha256": "20c1f723df86b367f3ec205bbda3d8a7163fa6d4e46dcfda15095e24965bc5ed",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2015.csv",
+      "year": 2015
+    },
+    {
+      "bytes": 617660,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:30+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2016.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2016.csv",
+      "sha256": "86dda3871cb79d3226a047774c8fc97b86267cfe96709dea832a347dfbf81684",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2016.csv",
+      "year": 2016
+    },
+    {
+      "bytes": 611380,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:30+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2017.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2017.csv",
+      "sha256": "4bb295788c37487b120cd39171d413cef0ebc6f4c2d9fa40b7261f5143f3719f",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2017.csv",
+      "year": 2017
+    },
+    {
+      "bytes": 608903,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:31+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2018.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2018.csv",
+      "sha256": "0363dc6012190f337fcf34b4ca443634f192c4670cc6c14c94342a54b9adf7eb",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2018.csv",
+      "year": 2018
+    },
+    {
+      "bytes": 586071,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:31+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2019.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2019.csv",
+      "sha256": "7f1a21451ff622bb0c6a09690898db46d51e59dcdf08086d369753822e1d5478",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2019.csv",
+      "year": 2019
+    },
+    {
+      "bytes": 307277,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:32+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2020.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2020.csv",
+      "sha256": "985a917b72d5efb7dd5ef9df8ecc58c637ed6b88561ccad364653af71ac12da0",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2020.csv",
+      "year": 2020
+    },
+    {
+      "bytes": 573056,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:32+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2021.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2021.csv",
+      "sha256": "b9b1d31a4b0b9273b8f338cbb1347c5a847ad2361334ec760a286f5990fba347",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2021.csv",
+      "year": 2021
+    },
+    {
+      "bytes": 608789,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:32+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2022.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2022.csv",
+      "sha256": "7190042565ab8400e74f44fda60700acb36ddf3c82d393f331a07589e05b5f52",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2022.csv",
+      "year": 2022
+    },
+    {
+      "bytes": 625341,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:33+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2023.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2023.csv",
+      "sha256": "9b9671aa7c8156e74c2e4466675b7ed4e762bb8a58b7237a30daefd84ffceff5",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2023.csv",
+      "year": 2023
+    },
+    {
+      "bytes": 650136,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:33+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2024.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2024.csv",
+      "sha256": "73aec32247a0db68d8aa8fd8003eefea132905177f1cb145502d9215b53311be",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2024.csv",
+      "year": 2024
+    },
+    {
+      "bytes": 617154,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:34+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2025.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2025.csv",
+      "sha256": "78c356ef9328b89ae58a17564d61c02cdad2a3a007f6b8af5cfc17992b11bb2d",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2025.csv",
+      "year": 2025
+    },
+    {
+      "bytes": 300795,
+      "dataset": "atp_matches",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:34+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_matches_2026.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/matches/atp_matches_2026.csv",
+      "sha256": "ceb157ae698f79f4148f7bb6253bbcf6a8c8eb9ff94670dd83aa0428802cfd59",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_2026.csv",
+      "year": 2026
+    },
+    {
+      "bytes": 4673,
+      "dataset": "atp_reference",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:35+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "UPSTREAM_README.md",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/metadata/UPSTREAM_README.md",
+      "sha256": "80fd5a50ba020fd306890d31142187bb737627ba468d3e36faabe92d48ab5083",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/UPSTREAM_README.md",
+      "year": null
+    },
+    {
+      "bytes": 2516538,
+      "dataset": "atp_reference",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:35+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "atp_players.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/metadata/atp_players.csv",
+      "sha256": "89e81bb3a02561dee29afe53dbcdabe4ae22f725fb5d0303617366a57e3b7a83",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_players.csv",
+      "year": null
+    },
+    {
+      "bytes": 3758,
+      "dataset": "atp_reference",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/atp",
+      "downloaded_at": "2026-10-05T21:12:35+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "matches_data_dictionary.txt",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_atp",
+      "relative_path": "data/raw/atp_archive/metadata/matches_data_dictionary.txt",
+      "sha256": "b4b525ad8163f9ee2ffde3ab7108924ec1385ef7d2fddf828c1fc096fcaafee4",
+      "source_id": "atp_archive",
+      "source_snapshot": "Mirror reports an upstream snapshot from June 2026.",
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/matches_data_dictionary.txt",
+      "year": null
+    },
+    {
+      "bytes": 4805,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "README.md",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/README.md",
+      "sha256": "2c2a5961a2761eea35b4143e9cab1d23200f49d72fc0ced56bb09f5a326e8444",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/README.md",
+      "year": null
+    },
+    {
+      "bytes": 1141817,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-matches.csv",
+      "sha256": "d8dce1ad8d12c04efa01da587441b54ece8e8100530660528312244f632efe80",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-matches.csv",
+      "year": null
+    },
+    {
+      "bytes": 36475702,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-points-2010s.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-points-2010s.csv",
+      "sha256": "2719cdc136b64698f24b360cf4f60302e11add24971c2fdd585e1b729178db8c",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-points-2010s.csv",
+      "year": null
+    },
+    {
+      "bytes": 56590483,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-points-2020s.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-points-2020s.csv",
+      "sha256": "2cd43f73e0530a47ea4c02b99dae40177ca6d58a8ccf9189358eb05dffb4be9a",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-points-2020s.csv",
+      "year": null
+    },
+    {
+      "bytes": 38025307,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-points-to-2009.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-points-to-2009.csv",
+      "sha256": "12613c7fc4d7acc6d4577ec33554a4308497a5e18669560688f1a2e00704fc72",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-points-to-2009.csv",
+      "year": null
+    },
+    {
+      "bytes": 5351478,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-KeyPointsReturn.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-KeyPointsReturn.csv",
+      "sha256": "817cebdd70f81a57b699cbd15a89313f1e76c7bfccae73e639a8dce101a5e697",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-KeyPointsReturn.csv",
+      "year": null
+    },
+    {
+      "bytes": 5832013,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-KeyPointsServe.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-KeyPointsServe.csv",
+      "sha256": "a2cec9bfe6cb98545895ea100c4fd77900c8febfb9d34c6d63326999f5dcd8f0",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-KeyPointsServe.csv",
+      "year": null
+    },
+    {
+      "bytes": 6184262,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-NetPoints.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-NetPoints.csv",
+      "sha256": "239540c77767512921153a05d8e320450524b6a06976c5bf0d496268a2dee0e8",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-NetPoints.csv",
+      "year": null
+    },
+    {
+      "bytes": 6651805,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-Overview.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-Overview.csv",
+      "sha256": "9b08d763e1209dec276206998b96823731f0351ab9b86d25415a7e3dd313290c",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-Overview.csv",
+      "year": null
+    },
+    {
+      "bytes": 10974130,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-Rally.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-Rally.csv",
+      "sha256": "39fca5a5f930a7a3444d00533016baa764ec37ce43d0a06aa07b713f38d6b498",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-Rally.csv",
+      "year": null
+    },
+    {
+      "bytes": 25626585,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-ReturnDepth.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-ReturnDepth.csv",
+      "sha256": "2a014083db4ba0daaa56f8cc95c6c473058464f5396a8c4dc0c7a4070581132e",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-ReturnDepth.csv",
+      "year": null
+    },
+    {
+      "bytes": 29894791,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-ReturnOutcomes.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-ReturnOutcomes.csv",
+      "sha256": "6573360d5629d4ccbe4fa35269f8090aca2797fdb895ed95695d9e9514d0f1ea",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-ReturnOutcomes.csv",
+      "year": null
+    },
+    {
+      "bytes": 4482664,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-ServeBasics.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-ServeBasics.csv",
+      "sha256": "5336ad5a021b482c50529ccc78043518b3ce75ca011ef1562a27683c45fffb0d",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-ServeBasics.csv",
+      "year": null
+    },
+    {
+      "bytes": 4663213,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-ServeDirection.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-ServeDirection.csv",
+      "sha256": "991a437b8af0d69176671e91f9c6c0429fc6060bc6fb0cb741d88ab071bc14fe",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-ServeDirection.csv",
+      "year": null
+    },
+    {
+      "bytes": 4123579,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-ServeInfluence.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-ServeInfluence.csv",
+      "sha256": "abeabf1751d6fb89656d68603c936515d15095929bdcca2adfc0b89788f09b57",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-ServeInfluence.csv",
+      "year": null
+    },
+    {
+      "bytes": 16221892,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-ShotDirOutcomes.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-ShotDirOutcomes.csv",
+      "sha256": "46f1862bc3f77af62a58e4250f05bb86469e9c59ecfd0f0174fe669a4e84b4f8",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-ShotDirOutcomes.csv",
+      "year": null
+    },
+    {
+      "bytes": 5263874,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-ShotDirection.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-ShotDirection.csv",
+      "sha256": "9934dffead433d3853b65ff65eda41017bb80623f2a890238a93209e43397043",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-ShotDirection.csv",
+      "year": null
+    },
+    {
+      "bytes": 33357442,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-ShotTypes.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-ShotTypes.csv",
+      "sha256": "683dfe27907e61388bda8400b33fa42a23ed030b3399775bc1b787ab69e1d47b",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-ShotTypes.csv",
+      "year": null
+    },
+    {
+      "bytes": 5323961,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-SnV.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-SnV.csv",
+      "sha256": "015b46349823b1af14b75c54c5001b940bd1bb5db7e02031ede106a781d89fe3",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-SnV.csv",
+      "year": null
+    },
+    {
+      "bytes": 16575752,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-SvBreakSplit.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-SvBreakSplit.csv",
+      "sha256": "293d8495765885892e05a1aebc6ce25273b53bfe709f014fc09c32babf65646a",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-SvBreakSplit.csv",
+      "year": null
+    },
+    {
+      "bytes": 15346433,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "charting-m-stats-SvBreakTotal.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/charting-m-stats-SvBreakTotal.csv",
+      "sha256": "298ff58e2259194ba19f0f8ebb75c6295a2887f6c6c1f7989f720a2ccb04516b",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/charting-m-stats-SvBreakTotal.csv",
+      "year": null
+    },
+    {
+      "bytes": 2649,
+      "dataset": "match_charting_project",
+      "distribution_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "data_dictionary.txt",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_MatchChartingProject",
+      "relative_path": "data/external/match_charting_project/data_dictionary.txt",
+      "sha256": "e60154eb0289e4e0e11221e62c60dcfc94e9d6e4d4a889aa065a7c17bf42b238",
+      "source_id": "match_charting_project",
+      "source_snapshot": "Live master branch; every downloaded file is pinned locally by SHA-256.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_MatchChartingProject/master/data_dictionary.txt",
+      "year": null
+    },
+    {
+      "bytes": 25765,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2011-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2011/2011-ausopen-matches.csv",
+      "sha256": "4c8c17b996890b805cea3d27c87f4944e5c33366fb3b9b0e56b29ba44792858d",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2011-ausopen-matches.csv",
+      "year": 2011
+    },
+    {
+      "bytes": 4426119,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2011-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2011/2011-ausopen-points.csv",
+      "sha256": "257a5bb5f2499177da9ec3f7818228a0feab3dc39f02559843a2a0d2f344fb0a",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2011-ausopen-points.csv",
+      "year": 2011
+    },
+    {
+      "bytes": 28025,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2011-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2011/2011-frenchopen-matches.csv",
+      "sha256": "72fe585a77c2cf2299c8b1e4c032bdac674458b4cc2cb5df477999312d7f8cc5",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2011-frenchopen-matches.csv",
+      "year": 2011
+    },
+    {
+      "bytes": 5128179,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2011-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2011/2011-frenchopen-points.csv",
+      "sha256": "fff0b4a45ae5d2babea5600bbb199f452dde45e28645fd7cf4c52d25d7626ed5",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2011-frenchopen-points.csv",
+      "year": 2011
+    },
+    {
+      "bytes": 22161,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2011-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2011/2011-usopen-matches.csv",
+      "sha256": "92b2a1fcc15c2a9294ce55ccf361a27b622c901d7de846b6cf019307f1bf8980",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2011-usopen-matches.csv",
+      "year": 2011
+    },
+    {
+      "bytes": 4020799,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2011-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2011/2011-usopen-points.csv",
+      "sha256": "9e0f2087987e88b16117318919d661fa3d2c08f37e482b835f4c8c08c327818f",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2011-usopen-points.csv",
+      "year": 2011
+    },
+    {
+      "bytes": 16320,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2011-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2011/2011-wimbledon-matches.csv",
+      "sha256": "fea6e5c34f3781ce80add4648d785f6d290f65d51b64aec87c297401c6e3f5d6",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2011-wimbledon-matches.csv",
+      "year": 2011
+    },
+    {
+      "bytes": 3183932,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2011-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2011/2011-wimbledon-points.csv",
+      "sha256": "b93466ba4ee66a2619949a6420fdd07f5ca611f829e4401ed1f695eb83ce8013",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2011-wimbledon-points.csv",
+      "year": 2011
+    },
+    {
+      "bytes": 12970,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2012-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2012/2012-ausopen-matches.csv",
+      "sha256": "c7da8cdc942573a69cbf733e7c5ba5fafec7297ae931588c0fd93da0ffa18288",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2012-ausopen-matches.csv",
+      "year": 2012
+    },
+    {
+      "bytes": 3809227,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2012-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2012/2012-ausopen-points.csv",
+      "sha256": "a88ff5c043a023c6d8e67141ae519578274f8b301caf13afafc14935957ecd8a",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2012-ausopen-points.csv",
+      "year": 2012
+    },
+    {
+      "bytes": 14411,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2012-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2012/2012-frenchopen-matches.csv",
+      "sha256": "5e037397364f3460cf7461efcf5676da3e2f5ba2c4df33ed7f1def573b013656",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2012-frenchopen-matches.csv",
+      "year": 2012
+    },
+    {
+      "bytes": 4183880,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2012-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2012/2012-frenchopen-points.csv",
+      "sha256": "6b9fb87abd3d314d1e60abbc8376398c1c487251931c36e6b436ba3a2c0cfb3d",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2012-frenchopen-points.csv",
+      "year": 2012
+    },
+    {
+      "bytes": 12916,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2012-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2012/2012-usopen-matches.csv",
+      "sha256": "1b44eebbcdf540dfaa5d7e1ca7b2eaaeb2fc734bae95c9053e3b64a1588c633e",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2012-usopen-matches.csv",
+      "year": 2012
+    },
+    {
+      "bytes": 4045435,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2012-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2012/2012-usopen-points.csv",
+      "sha256": "661c661548ffbe18014e4ab92ba49de8d84bbdcac9f7901a269e9c74dc7e58c3",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2012-usopen-points.csv",
+      "year": 2012
+    },
+    {
+      "bytes": 11454,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2012-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2012/2012-wimbledon-matches.csv",
+      "sha256": "197b73fbd9ecd23bb4168aa194e0724ff485b4cbf9a3bdece7df718909f6a900",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2012-wimbledon-matches.csv",
+      "year": 2012
+    },
+    {
+      "bytes": 3474152,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2012-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2012/2012-wimbledon-points.csv",
+      "sha256": "50b46bb813bfac311148c13d98338103ee3c9729a1c8bd087962b970aaa8f8a7",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2012-wimbledon-points.csv",
+      "year": 2012
+    },
+    {
+      "bytes": 13828,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2013-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2013/2013-ausopen-matches.csv",
+      "sha256": "7060339f0aaf28a4f92b1851e550f2a441c612933be7358ed1f59a79f45f88ff",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2013-ausopen-matches.csv",
+      "year": 2013
+    },
+    {
+      "bytes": 4168201,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2013-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2013/2013-ausopen-points.csv",
+      "sha256": "acad03c788ae598ada94d1265e2eeccd1ee7ba4fc59cd48f2b5af76d62d49815",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2013-ausopen-points.csv",
+      "year": 2013
+    },
+    {
+      "bytes": 15579,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2013-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2013/2013-frenchopen-matches.csv",
+      "sha256": "a8d8e1049cc289ba088c1d3e7bc9445c9fada39a75a8ee5e7415733b318f14b7",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2013-frenchopen-matches.csv",
+      "year": 2013
+    },
+    {
+      "bytes": 4461014,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2013-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2013/2013-frenchopen-points.csv",
+      "sha256": "3e2625ad23202b7e6f02f6a901732fd833a1a596f9e974b00319a7bf2f02949a",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2013-frenchopen-points.csv",
+      "year": 2013
+    },
+    {
+      "bytes": 12586,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2013-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2013/2013-usopen-matches.csv",
+      "sha256": "289ed22d7af8f16321342a92a29d4fd97b060db6537199c17db0f19c112e683b",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2013-usopen-matches.csv",
+      "year": 2013
+    },
+    {
+      "bytes": 3831067,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2013-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2013/2013-usopen-points.csv",
+      "sha256": "f063b92169a2bcc2f718709a9c60ee7ff9b61d2fba180027baa6f5d2062ed2e0",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2013-usopen-points.csv",
+      "year": 2013
+    },
+    {
+      "bytes": 11864,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2013-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2013/2013-wimbledon-matches.csv",
+      "sha256": "7ddfc267e1be2b86762059e98ead6db250de6a7b76d04ea148d29ccdfdd46cf2",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2013-wimbledon-matches.csv",
+      "year": 2013
+    },
+    {
+      "bytes": 3321365,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2013-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2013/2013-wimbledon-points.csv",
+      "sha256": "7609a73f2a7cee02f4607dac88fc4b8c508e5f0b685ffe0bb8baf7bfd20db536",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2013-wimbledon-points.csv",
+      "year": 2013
+    },
+    {
+      "bytes": 12257,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2014-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2014/2014-ausopen-matches.csv",
+      "sha256": "26247548157aa2a376eeb63b920977040afe1686d434fe3cf9f5e71b2f334bf4",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2014-ausopen-matches.csv",
+      "year": 2014
+    },
+    {
+      "bytes": 3600025,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2014-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2014/2014-ausopen-points.csv",
+      "sha256": "d84a2908007cd27d872ccd1beb772b6ddb09813ea95707e37a4fe7d48a3dbc3b",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2014-ausopen-points.csv",
+      "year": 2014
+    },
+    {
+      "bytes": 21239,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2014-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2014/2014-frenchopen-matches.csv",
+      "sha256": "a9bf24646849104cb1ab07717eeff524ba4f053f45ebf5fb39a2852b4285bbfa",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2014-frenchopen-matches.csv",
+      "year": 2014
+    },
+    {
+      "bytes": 6002309,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2014-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2014/2014-frenchopen-points.csv",
+      "sha256": "59574587d3914eef13639b7ff7c3ec0113c5f6cdbd34a8b8db9b71590f326f03",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2014-frenchopen-points.csv",
+      "year": 2014
+    },
+    {
+      "bytes": 14058,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2014-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2014/2014-usopen-matches.csv",
+      "sha256": "80d626f669d21ac3841092e9e43576cd3a0891b375058218bfd8ebba99f98433",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2014-usopen-matches.csv",
+      "year": 2014
+    },
+    {
+      "bytes": 4377230,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2014-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2014/2014-usopen-points.csv",
+      "sha256": "f98975ddda68bffd64e58e7c838a0f9a9a385fd3de370a4a8cdedc3f2d52696f",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2014-usopen-points.csv",
+      "year": 2014
+    },
+    {
+      "bytes": 20498,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2014-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2014/2014-wimbledon-matches.csv",
+      "sha256": "1112b757d838bfd4c8486e25c4727a202811cf88fa8972f4ea7e3f9c172d2acc",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2014-wimbledon-matches.csv",
+      "year": 2014
+    },
+    {
+      "bytes": 6371028,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2014-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2014/2014-wimbledon-points.csv",
+      "sha256": "b23870a60dc718e54e5c7eac7abce1df057026fd5bdb615cf10838257fe7f573",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2014-wimbledon-points.csv",
+      "year": 2014
+    },
+    {
+      "bytes": 16128,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2015-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2015/2015-ausopen-matches.csv",
+      "sha256": "1b44664e39c64297dbe2aa31f7242a35e1db2301c7f945edfb945d6106c26066",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2015-ausopen-matches.csv",
+      "year": 2015
+    },
+    {
+      "bytes": 5080162,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2015-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2015/2015-ausopen-points.csv",
+      "sha256": "cb5ba3a796dfcf067e098364da2a33a73208a817389c5bd95142a472223fa24f",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2015-ausopen-points.csv",
+      "year": 2015
+    },
+    {
+      "bytes": 17297,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2015-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2015/2015-frenchopen-matches.csv",
+      "sha256": "849eb5a90d2a06901e9c77913bc25bfd7b9f0cbc094b6b6a5528fd22f7163b6a",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2015-frenchopen-matches.csv",
+      "year": 2015
+    },
+    {
+      "bytes": 5515191,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2015-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2015/2015-frenchopen-points.csv",
+      "sha256": "1dac9e69a108bba7b1feee3bc73995369747225c36ad0a1057c7142cfbc5c298",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2015-frenchopen-points.csv",
+      "year": 2015
+    },
+    {
+      "bytes": 13274,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2015-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2015/2015-usopen-matches.csv",
+      "sha256": "8790292deb676b72c3a33a55744c988b9d29c0d68fc3324ea1e4ff079e81684d",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2015-usopen-matches.csv",
+      "year": 2015
+    },
+    {
+      "bytes": 4568092,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2015-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2015/2015-usopen-points.csv",
+      "sha256": "7898cc16aa0f6c7d45826267d935f8d91d736381bbbcb6b08e16c3f1f64ef08b",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2015-usopen-points.csv",
+      "year": 2015
+    },
+    {
+      "bytes": 20589,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2015-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2015/2015-wimbledon-matches.csv",
+      "sha256": "f40ff56329795800c669d1db07cbaf310dc55fbc8b17143898d8ef668bfcc2da",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2015-wimbledon-matches.csv",
+      "year": 2015
+    },
+    {
+      "bytes": 6849988,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2015-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2015/2015-wimbledon-points.csv",
+      "sha256": "43e503c1890be476a63ce88b07d2782ea14aed15c3f9905bad97ab5dd38b4b56",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2015-wimbledon-points.csv",
+      "year": 2015
+    },
+    {
+      "bytes": 17885,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2016-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2016/2016-ausopen-matches.csv",
+      "sha256": "e9dcde46447099dcf4f71aa5b2ce82d7dc5e54d61c61b45370c34cb8cb178169",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2016-ausopen-matches.csv",
+      "year": 2016
+    },
+    {
+      "bytes": 5966391,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2016-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2016/2016-ausopen-points.csv",
+      "sha256": "130edecf38d145250fc2b427d902450b0cf42ca52081d809d6e76e884e0d03b6",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2016-ausopen-points.csv",
+      "year": 2016
+    },
+    {
+      "bytes": 14724,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2016-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2016/2016-frenchopen-matches.csv",
+      "sha256": "682b26f28bc6c91e9f493518c79a304845824c3aafcb948051f4c15f8b2c305b",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2016-frenchopen-matches.csv",
+      "year": 2016
+    },
+    {
+      "bytes": 5003311,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2016-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2016/2016-frenchopen-points.csv",
+      "sha256": "8b9e63afcda6b19368f83b948cc599b1e5cc10f9927ea2d7e38766227b080255",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2016-frenchopen-points.csv",
+      "year": 2016
+    },
+    {
+      "bytes": 12936,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2016-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2016/2016-usopen-matches.csv",
+      "sha256": "fc0ecbad7065b99369b6f6831005f27774bd4fe879430ff7ef9146b0d362950f",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2016-usopen-matches.csv",
+      "year": 2016
+    },
+    {
+      "bytes": 4756346,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2016-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2016/2016-usopen-points.csv",
+      "sha256": "3ae4b1a2794cb0875daee3a0e687f04fba0ee9cec58eafb85840ada62c4d348a",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2016-usopen-points.csv",
+      "year": 2016
+    },
+    {
+      "bytes": 10156,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2016-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2016/2016-wimbledon-matches.csv",
+      "sha256": "9ec4911f93459468373eb0a4fd0c2510534275023477eb0c4da0c6b1f601c8dc",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2016-wimbledon-matches.csv",
+      "year": 2016
+    },
+    {
+      "bytes": 4491527,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2016-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2016/2016-wimbledon-points.csv",
+      "sha256": "aa88cb008d02d394cae05b29e63a6ffaf94ebf3f4c04125dbe7fee3a8a05eb26",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2016-wimbledon-points.csv",
+      "year": 2016
+    },
+    {
+      "bytes": 18200,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2017-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2017/2017-ausopen-matches.csv",
+      "sha256": "b156721fa02012b65b80590335d2681d8fafbbf8a51e3d64db2475fb43d84e99",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2017-ausopen-matches.csv",
+      "year": 2017
+    },
+    {
+      "bytes": 6780140,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2017-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2017/2017-ausopen-points.csv",
+      "sha256": "09399f6ad039de5a05dbb80eb7f48b65e559131bbba776799d4f39fff4e8d6f0",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2017-ausopen-points.csv",
+      "year": 2017
+    },
+    {
+      "bytes": 20259,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2017-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2017/2017-frenchopen-matches.csv",
+      "sha256": "d5f634a2f4014d190e696e9af289e5833b2f4f99a1a5ed76414945134e148bed",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2017-frenchopen-matches.csv",
+      "year": 2017
+    },
+    {
+      "bytes": 6651861,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2017-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2017/2017-frenchopen-points.csv",
+      "sha256": "4f5293626d80918a38e819cf86b62200dc8c555362ce82cab8557ac293ab98fd",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2017-frenchopen-points.csv",
+      "year": 2017
+    },
+    {
+      "bytes": 12320,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2017-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2017/2017-usopen-matches.csv",
+      "sha256": "55531be1d947c9479c7eaf31bb44c7b6a9c75c72cfd6b9c5d5405ec18e5e9d77",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2017-usopen-matches.csv",
+      "year": 2017
+    },
+    {
+      "bytes": 4815136,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2017-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2017/2017-usopen-points.csv",
+      "sha256": "e231b6985a6e258ebaee021b60221a71d8356b9903e195c15e41e259bd1a54e4",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2017-usopen-points.csv",
+      "year": 2017
+    },
+    {
+      "bytes": 20669,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2017-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2017/2017-wimbledon-matches.csv",
+      "sha256": "379443e1e6422f5acfcca3f9221a86f6d3123d1a6430c37e6f8be4342778760c",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2017-wimbledon-matches.csv",
+      "year": 2017
+    },
+    {
+      "bytes": 7288687,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2017-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2017/2017-wimbledon-points.csv",
+      "sha256": "3ea6f7e5e48ff351c639a330c732c5e5f2f4b419410138b4f6169ef5a2c26d38",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2017-wimbledon-points.csv",
+      "year": 2017
+    },
+    {
+      "bytes": 19017,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2018-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2018/2018-ausopen-matches.csv",
+      "sha256": "de4a9235388497c2d95c05f0974b7224cff5ccd3d30c777dc63b667fc789d218",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2018-ausopen-matches.csv",
+      "year": 2018
+    },
+    {
+      "bytes": 4988785,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2018-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2018/2018-ausopen-points.csv",
+      "sha256": "3dff1959b2afbc392b6e41184c65c853fbf702d3f9eb9d2f120910060b27caab",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2018-ausopen-points.csv",
+      "year": 2018
+    },
+    {
+      "bytes": 20590,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2018-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2018/2018-frenchopen-matches.csv",
+      "sha256": "dc534708eb6bd4d1055b7d39e45a656958876f7a6ad8dcb4a4282e5ad666ca60",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2018-frenchopen-matches.csv",
+      "year": 2018
+    },
+    {
+      "bytes": 4896385,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2018-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2018/2018-frenchopen-points.csv",
+      "sha256": "70ac63cac0a6cf817411c37701ad91fdc942839bb8004df2f3632ecb089ed675",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2018-frenchopen-points.csv",
+      "year": 2018
+    },
+    {
+      "bytes": 13445,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2018-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2018/2018-usopen-matches.csv",
+      "sha256": "417ed7fca40b8642ea527f4da9c6b57a05ffae6c1e1fffdf7d3dc71baeb49bdb",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2018-usopen-matches.csv",
+      "year": 2018
+    },
+    {
+      "bytes": 5096059,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2018-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2018/2018-usopen-points.csv",
+      "sha256": "e6220ce7aa7df2a8c146b27bb979eab8fbbd200ad56390597cc225cfd40f84e6",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2018-usopen-points.csv",
+      "year": 2018
+    },
+    {
+      "bytes": 20712,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2018-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2018/2018-wimbledon-matches.csv",
+      "sha256": "bff045e3428396ef03d7e785cc64c0db18e107de808d14ebed3a631b7090ce0d",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2018-wimbledon-matches.csv",
+      "year": 2018
+    },
+    {
+      "bytes": 7844923,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2018-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2018/2018-wimbledon-points.csv",
+      "sha256": "2072e6fcc5345e369ecdf27310e6cc74c9c947123f2950daf82c0da0046c66c1",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2018-wimbledon-points.csv",
+      "year": 2018
+    },
+    {
+      "bytes": 19134,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2019-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2019/2019-ausopen-matches.csv",
+      "sha256": "2708e513b128047913ed449f9435f5be5b212c96477bb13b7fee5f9d59b8e4cd",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2019-ausopen-matches.csv",
+      "year": 2019
+    },
+    {
+      "bytes": 4892605,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2019-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2019/2019-ausopen-points.csv",
+      "sha256": "bb96ebd456509ba053fd6cf179ce4533e99e57a5cb4e1ef628496d6811e3744f",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2019-ausopen-points.csv",
+      "year": 2019
+    },
+    {
+      "bytes": 20385,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2019-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2019/2019-frenchopen-matches.csv",
+      "sha256": "012c029c9d96865d44d22c1c9d9226d4d1c78bd0840191b8198b7ebdfe88c8ca",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2019-frenchopen-matches.csv",
+      "year": 2019
+    },
+    {
+      "bytes": 4971557,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2019-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2019/2019-frenchopen-points.csv",
+      "sha256": "5c85e1dc5f5d63f88ef5bc7925f29e3dc2dc3107fedf14169d2891ad700a5e30",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2019-frenchopen-points.csv",
+      "year": 2019
+    },
+    {
+      "bytes": 18842,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2019-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2019/2019-usopen-matches.csv",
+      "sha256": "a187f450f4520eed72347c9f6d1b450fd9a8bcc5eb0218570eea6341801dfbcc",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2019-usopen-matches.csv",
+      "year": 2019
+    },
+    {
+      "bytes": 7480927,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2019-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2019/2019-usopen-points.csv",
+      "sha256": "324fe620e969463d4100200945175736c199329b0cc2176a26ccd0c3de03dc4a",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2019-usopen-points.csv",
+      "year": 2019
+    },
+    {
+      "bytes": 20624,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2019-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2019/2019-wimbledon-matches.csv",
+      "sha256": "19c2fbd44a697cb948fad1de8443c494c1417a0a87ebcbdfa829dea915b770e3",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2019-wimbledon-matches.csv",
+      "year": 2019
+    },
+    {
+      "bytes": 7560905,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2019-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2019/2019-wimbledon-points.csv",
+      "sha256": "7e894b03d277547a175f3b24b560a6ed677b9c007ad489e1e9f8518044a81cfb",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2019-wimbledon-points.csv",
+      "year": 2019
+    },
+    {
+      "bytes": 18923,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2020-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2020/2020-ausopen-matches.csv",
+      "sha256": "d98cd8f95b0337863f2454f46bf3f1efbea3af071b91a6958aa43849952356e9",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2020-ausopen-matches.csv",
+      "year": 2020
+    },
+    {
+      "bytes": 4909102,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2020-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2020/2020-ausopen-points.csv",
+      "sha256": "11ab596c5f784975a8267b8646fcc1244f15c1a1bd981981e6df59c7b018b55c",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2020-ausopen-points.csv",
+      "year": 2020
+    },
+    {
+      "bytes": 18600,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2020-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2020/2020-frenchopen-matches.csv",
+      "sha256": "a8b88f05fbaf0f8d5244fa333d49618f542b7b9096d5c50fc6c77a7b41d3cda6",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2020-frenchopen-matches.csv",
+      "year": 2020
+    },
+    {
+      "bytes": 5027975,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2020-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2020/2020-frenchopen-points.csv",
+      "sha256": "e2071234eed6546d46963367ed8580b6a13e8fd25655d04726d05ea9bb02b567",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2020-frenchopen-points.csv",
+      "year": 2020
+    },
+    {
+      "bytes": 18774,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2020-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2020/2020-usopen-matches.csv",
+      "sha256": "ed75ef21396e1ff475d3bac2c4f1a0f9474e9d2e4c6d8aaac0aa6af0a40dcc80",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2020-usopen-matches.csv",
+      "year": 2020
+    },
+    {
+      "bytes": 7074131,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2020-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2020/2020-usopen-points.csv",
+      "sha256": "c0914503b5ac0be8f2793430eae381dcb4f4fdace74c17deff3d16c3b6cb231b",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2020-usopen-points.csv",
+      "year": 2020
+    },
+    {
+      "bytes": 17528,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2021-ausopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2021/2021-ausopen-matches.csv",
+      "sha256": "94bbdb8f4c4315eedd98424a74f40a5cf9a09580e679980c3537d79f25fc9d26",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2021-ausopen-matches.csv",
+      "year": 2021
+    },
+    {
+      "bytes": 4754652,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2021-ausopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2021/2021-ausopen-points.csv",
+      "sha256": "c613739246ace83db762c6e6712ca4391fbb9b9ee0ff0fce7a27de9a9b5e9fcf",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2021-ausopen-points.csv",
+      "year": 2021
+    },
+    {
+      "bytes": 18729,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2021-frenchopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2021/2021-frenchopen-matches.csv",
+      "sha256": "5430a0b631dfa0ad8a48c80669c5a5f8b3784974e7248c7df643874b923c4eb1",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2021-frenchopen-matches.csv",
+      "year": 2021
+    },
+    {
+      "bytes": 5033010,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2021-frenchopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2021/2021-frenchopen-points.csv",
+      "sha256": "e0fe16cc278d0fd11a63ced1b37f5c801bf8c3b5c9c1cfb413c3bfcc9eb63d2c",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2021-frenchopen-points.csv",
+      "year": 2021
+    },
+    {
+      "bytes": 19288,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2021-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2021/2021-usopen-matches.csv",
+      "sha256": "5b1ec3f89543876e205e9596f3b869a7aaa63125639aff30a5f04933082484e6",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2021-usopen-matches.csv",
+      "year": 2021
+    },
+    {
+      "bytes": 7727334,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2021-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2021/2021-usopen-points.csv",
+      "sha256": "55c79fac5f1e55fc0657a60be3737df2fe41e3b18277c0d2ee80cc85bbd376e3",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2021-usopen-points.csv",
+      "year": 2021
+    },
+    {
+      "bytes": 20705,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2021-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2021/2021-wimbledon-matches.csv",
+      "sha256": "da0c1084f1e4610a50cdc4c849e2c0f4f21667df6bfcbd350ddb90537b751d12",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2021-wimbledon-matches.csv",
+      "year": 2021
+    },
+    {
+      "bytes": 7675588,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2021-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2021/2021-wimbledon-points.csv",
+      "sha256": "b53f12c2f95a58b00053e2fb77250d7f5a7766a76fbbea9d6a33cae0ee80476e",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2021-wimbledon-points.csv",
+      "year": 2021
+    },
+    {
+      "bytes": 18967,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2022-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2022/2022-usopen-matches.csv",
+      "sha256": "7964a06016dbcce861371aa6e0cf90878252bfb4fbc9a1aac17dc03d0df5b8a7",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2022-usopen-matches.csv",
+      "year": 2022
+    },
+    {
+      "bytes": 7572634,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2022-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2022/2022-usopen-points.csv",
+      "sha256": "1a0794391adfaadbbf2f85b768c809fd39e4bd5dde5f1289f60cad1046729a2d",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2022-usopen-points.csv",
+      "year": 2022
+    },
+    {
+      "bytes": 20315,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2022-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2022/2022-wimbledon-matches.csv",
+      "sha256": "4943ac51f362acb52aa513cdf845db3170f61aae1ec18d895d26e5b2ba2292e1",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2022-wimbledon-matches.csv",
+      "year": 2022
+    },
+    {
+      "bytes": 7517212,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2022-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2022/2022-wimbledon-points.csv",
+      "sha256": "e96e98565a720e15805158696041147c8cd142a4f04b706660e80f01b6757440",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2022-wimbledon-points.csv",
+      "year": 2022
+    },
+    {
+      "bytes": 19043,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2023-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2023/2023-usopen-matches.csv",
+      "sha256": "5a940537cd2cc1d4902c074c4b92896ed93c6065556d3a87aa4d38e284d24045",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2023-usopen-matches.csv",
+      "year": 2023
+    },
+    {
+      "bytes": 7304490,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2023-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2023/2023-usopen-points.csv",
+      "sha256": "c2c2ad6d760017c6514cd2b065b933c4c3f630fdea9665c88b83e9465cdd0591",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2023-usopen-points.csv",
+      "year": 2023
+    },
+    {
+      "bytes": 20741,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2023-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2023/2023-wimbledon-matches.csv",
+      "sha256": "e58018ed5ddf8f8ce48324795eaa7f29d3d52b2e982a5bcfdefca097a80a88bd",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2023-wimbledon-matches.csv",
+      "year": 2023
+    },
+    {
+      "bytes": 7908309,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2023-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2023/2023-wimbledon-points.csv",
+      "sha256": "cb9cbb7330d0890ddf332c5d3294991b79b73db6b268cb0648a39fdba59dc172",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2023-wimbledon-points.csv",
+      "year": 2023
+    },
+    {
+      "bytes": 19104,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2024-usopen-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2024/2024-usopen-matches.csv",
+      "sha256": "82ada2ed864fd9eec10181320f036dae28b139c38b56622092cb6376975daf85",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2024-usopen-matches.csv",
+      "year": 2024
+    },
+    {
+      "bytes": 7260912,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2024-usopen-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2024/2024-usopen-points.csv",
+      "sha256": "ffb6edb889a8710659802a0353eae765ff19c6eff5fa2755e1f5155ea8e4e3b6",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2024-usopen-points.csv",
+      "year": 2024
+    },
+    {
+      "bytes": 20457,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2024-wimbledon-matches.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2024/2024-wimbledon-matches.csv",
+      "sha256": "51fd9571a8856b424dc8d934b4450ea91cca9bbf20881bfe2eff3b2b7876899b",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2024-wimbledon-matches.csv",
+      "year": 2024
+    },
+    {
+      "bytes": 7827299,
+      "dataset": "slam_pointbypoint",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "2024-wimbledon-points.csv",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/2024/2024-wimbledon-points.csv",
+      "sha256": "442f9b8564744c966dfa9974dcb4d5af999d8cb88634cec1aff304e33c3a9238",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/2024-wimbledon-points.csv",
+      "year": 2024
+    },
+    {
+      "bytes": 4343,
+      "dataset": "slam_pointbypoint_reference",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "UPSTREAM_README.md",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/metadata/UPSTREAM_README.md",
+      "sha256": "ce863a9472638346b666c398f403486df15365264a48246296fcbaa189b2163c",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/UPSTREAM_README.md",
+      "year": null
+    },
+    {
+      "bytes": 216,
+      "dataset": "slam_pointbypoint_reference",
+      "distribution_url": "https://github.com/Aneeshers/tennis-sackmann-archive/tree/main/slam_pointbypoint",
+      "downloaded_at": "2026-10-05T21:18:48+00:00",
+      "license": {
+        "commercial_use": false,
+        "id": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "original_filename": "data_dictionary.txt",
+      "original_source_url": "https://github.com/JeffSackmann/tennis_slam_pointbypoint",
+      "relative_path": "data/external/slam_pointbypoint/metadata/data_dictionary.txt",
+      "sha256": "d7a03828c7a3516a60b974f10d62cc76a0cd0a5287bac41d245f5fcfe1bba1a3",
+      "source_id": "slam_pointbypoint",
+      "source_snapshot": "Upstream commit 6febb77, October 2024; coverage ends in 2024.",
+      "status": "reused",
+      "url": "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/slam_pointbypoint/data_dictionary.txt",
+      "year": null
+    }
+  ],
+  "schema_version": 1,
+  "updated_at": "2026-10-05T21:18:48+00:00"
+}

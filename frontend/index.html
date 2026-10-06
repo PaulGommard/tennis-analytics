@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#071714" />
+    <title>Baseline — Tennis Intelligence</title>
+    <meta
+      name="description"
+      content="Plateforme locale de prédictions tennis, tableaux et replays historiques."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="noise"></div>
+    <header class="topbar">
+      <a class="brand" href="/#/">
+        <span class="brand-mark"><i></i><i></i></span>
+        <span>BASELINE</span>
+      </a>
+      <nav>
+        <a href="/#/">Accueil</a>
+        <a href="/#/tournaments">Tournois</a>
+        <a href="/upcoming">Prochains matchs</a>
+        <a href="/#/admin">Performance</a>
+      </nav>
+      <div class="system-status"><span></span> Replay + on-demand</div>
+    </header>
+
+    <main id="app" aria-live="polite">
+      <div class="loading-screen">
+        <div class="ball-loader"></div>
+        <p>Chargement du court…</p>
+      </div>
+    </main>
+
+    <footer>
+      <span>BASELINE / TENNIS PREDICTION PLATFORM V1</span>
+      <span>Probabilités de modèle — jamais des certitudes</span>
+    </footer>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

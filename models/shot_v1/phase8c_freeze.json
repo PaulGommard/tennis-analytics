@@ -1,0 +1,35 @@
+{
+  "purpose": "Phase 9 read-only freeze of official Phase 8C architecture",
+  "files": [
+    {
+      "path": "models/prematch_v1/model.joblib",
+      "sha256": "5c71a6ee95a5afb141f62bc9cf0df62a7267c2f2c005e6a2750a71adf53fbca7",
+      "bytes": 10889
+    },
+    {
+      "path": "models/point_v2/model.joblib",
+      "sha256": "e00281e847d0b26d15c01b0d6f7da56db1870cf3b9116b49a2500d76f470b95d",
+      "bytes": 7776
+    },
+    {
+      "path": "models/live_v3/model.joblib",
+      "sha256": "c145b04df46c03ed058fc388724fa8e187829f0c23738c3df6084a365f61afef",
+      "bytes": 411
+    },
+    {
+      "path": "models/live_v3/metadata.json",
+      "sha256": "76df4d20d3d39d429f3a25892b2dfc3b9eb956e6495006f25f42b81bf2cf8870",
+      "bytes": 557
+    },
+    {
+      "path": "reports/phase8c_report.md",
+      "sha256": "9b253919b349ba145a8a77836ede21fc42cdd6e3d8571ce003792a375e8f3b64",
+      "bytes": 6953
+    },
+    {
+      "path": "reports/phase8c_test_comparison.csv",
+      "sha256": "955ef197d68b05b58e1904e2876b3d4131da12956a6fb4a8308e598e180bbacd",
+      "bytes": 1298
+    }
+  ]
+}

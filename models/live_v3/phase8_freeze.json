@@ -1,0 +1,46 @@
+{
+  "created_at": "2026-10-06T12:22:13.921274+00:00",
+  "policy": "Phase 8C reads but never rewrites V1/V2 artifacts",
+  "artifacts": [
+    {
+      "path": "models/point_v1/model.joblib",
+      "bytes": 334881,
+      "sha256": "8a1a553351311606abb8a5a879da68f7b5b2dad6e2d054423c6ea2706127cf76"
+    },
+    {
+      "path": "models/point_v1/metadata.json",
+      "bytes": 834,
+      "sha256": "8bfed09e76f0df3965b45b768f391547a20cdee767aad576eaccc3d9a1721ad3"
+    },
+    {
+      "path": "models/point_v2/model.joblib",
+      "bytes": 7776,
+      "sha256": "e00281e847d0b26d15c01b0d6f7da56db1870cf3b9116b49a2500d76f470b95d"
+    },
+    {
+      "path": "models/point_v2/metadata.json",
+      "bytes": 2465,
+      "sha256": "683daeda2d77a46573e80b5c677f6ed47b65896d5bc25ccb6ce1e88cdb588f83"
+    },
+    {
+      "path": "data/processed/point_features_v1.parquet",
+      "bytes": 29466866,
+      "sha256": "02d383be6ce604d1784632d9ccdc4f96a25b21275662bf2ac9ce38e98caaae09"
+    },
+    {
+      "path": "data/processed/point_features_v2.parquet",
+      "bytes": 568673516,
+      "sha256": "eb031b4d2636cac84675c6e4ca5bdcb2dd8a26352833e417ecefdb4b3a6c6f21"
+    },
+    {
+      "path": "reports/phase7b_report.md",
+      "bytes": 5149,
+      "sha256": "191f5672e63ec1ae394b41aee9fba70840fee0eabe4e4e6f6742114b85d839e0"
+    },
+    {
+      "path": "reports/phase8_report.md",
+      "bytes": 9328,
+      "sha256": "09b3bc3b94047bdc6d0dc5b9da3cf9efe69fdeb91d636d135b455aa2ea5af1ad"
+    }
+  ]
+}

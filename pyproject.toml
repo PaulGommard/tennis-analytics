@@ -1,0 +1,57 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tennis-analytics"
+version = "0.2.0"
+description = "Reproducible data foundation for professional tennis analytics"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.115,<1.0",
+  "httpx>=0.28,<1.0",
+  "pandas>=2.2,<3.0",
+  "pyarrow>=16,<23",
+  "scikit-learn>=1.8,<1.9",
+  "uvicorn[standard]>=0.34,<1.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8,<10",
+  "ruff>=0.9,<1.0",
+]
+phase6 = [
+  "catboost>=1.2.8,<2.0",
+  "lightgbm>=4.6,<5.0",
+  "matplotlib>=3.10,<4.0",
+  "shap>=0.48,<1.0",
+  "xgboost>=3.0,<4.0",
+]
+
+[project.scripts]
+tennis-download-atp = "tennis_analytics.ingestion.atp:main"
+tennis-download-external = "tennis_analytics.ingestion.external:main"
+tennis-normalize = "tennis_analytics.preprocessing.normalize:main"
+tennis-audit = "tennis_analytics.validation.audit:main"
+tennis-verify-manifest = "tennis_analytics.validation.manifest:main"
+tennis-build-features = "tennis_analytics.features.temporal:main"
+tennis-evaluate-baselines = "tennis_analytics.evaluation.baselines:main"
+tennis-audit-features = "tennis_analytics.validation.features:main"
+tennis-run-phase3 = "tennis_analytics.ratings.tuning:main"
+tennis-run-phase4 = "tennis_analytics.modeling.logistic:main"
+tennis-run-phase5 = "tennis_analytics.modeling.phase5:main"
+tennis-run-phase6 = "tennis_analytics.modeling.phase6:main"
+tennis-product = "tennis_analytics.product.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/tennis_analytics"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

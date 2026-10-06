@@ -1,0 +1,63 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Build outputs
+dist/
+build/
+
+# JavaScript tooling (the current frontend has no build step)
+node_modules/
+.next/
+
+# Runtime state, caches and local databases
+cache/
+tmp/
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+data/runtime/**
+data/product/**
+data/prospective/**
+
+# Third-party and generated datasets. They are reproducible, large (about
+# 2.8 GB locally), and remain subject to their own licences.
+data/raw/**
+data/external/**
+data/interim/**
+data/processed/**
+!data/raw/.gitkeep
+!data/external/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Machine-specific/generated audit payloads. Human-readable Markdown, compact
+# CSV tables and figures remain versioned as research evidence.
+reports/*.txt
+reports/*.json
+!reports/.gitkeep
